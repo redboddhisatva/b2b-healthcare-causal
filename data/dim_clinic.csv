@@ -1,0 +1,3501 @@
+clinic_id,region,clinic_size,clinic_type,urban_rural,clinic_potential_score,primary_channel
+C00001,Kanto,Small,Eye Clinic,Urban,62,Direct
+C00002,Hokkaido,Small,Optical Shop,Urban,86,Direct
+C00003,Chubu,Medium,Optical Shop,Rural,80,Direct
+C00004,Kansai,Medium,Eye Clinic,Urban,59,Direct
+C00005,Kanto,Small,Optical Shop,Urban,68,Dealer
+C00006,Kanto,Medium,Hospital,Urban,84,Direct
+C00007,Kanto,Small,Optical Shop,Urban,72,Dealer
+C00008,Kyushu,Small,Eye Clinic,Urban,57,Direct
+C00009,Kansai,Small,Optical Shop,Urban,56,Dealer
+C00010,Chubu,Small,Eye Clinic,Urban,57,Dealer
+C00011,Kanto,Small,Eye Clinic,Urban,58,Dealer
+C00012,Hokkaido,Medium,Eye Clinic,Urban,84,Dealer
+C00013,Kyushu,Small,Optical Shop,Urban,52,Dealer
+C00014,Kanto,Small,Optical Shop,Urban,58,Dealer
+C00015,Kanto,Small,Optical Shop,Urban,46,Dealer
+C00016,Kanto,Medium,Optical Shop,Urban,86,Dealer
+C00017,Kanto,Small,Eye Clinic,Urban,77,Dealer
+C00018,Kansai,Small,Eye Clinic,Urban,61,Dealer
+C00019,Kansai,Small,Eye Clinic,Urban,61,Direct
+C00020,Kanto,Medium,Eye Clinic,Urban,81,Dealer
+C00021,Kansai,Medium,Eye Clinic,Urban,91,Dealer
+C00022,Kanto,Medium,Eye Clinic,Urban,80,Dealer
+C00023,Kanto,Large,Eye Clinic,Rural,71,Dealer
+C00024,Kanto,Medium,Eye Clinic,Urban,60,Dealer
+C00025,Kansai,Medium,Eye Clinic,Urban,65,Dealer
+C00026,Kyushu,Small,Eye Clinic,Rural,55,Dealer
+C00027,Kanto,Small,Optical Shop,Urban,57,Dealer
+C00028,Kansai,Medium,Optical Shop,Urban,78,Dealer
+C00029,Kansai,Small,Optical Shop,Rural,48,Dealer
+C00030,Kanto,Small,Eye Clinic,Urban,53,Dealer
+C00031,Kansai,Medium,Eye Clinic,Urban,64,Direct
+C00032,Kanto,Small,Optical Shop,Urban,80,Dealer
+C00033,Kanto,Medium,Eye Clinic,Rural,75,Dealer
+C00034,Hokkaido,Medium,Eye Clinic,Urban,93,Dealer
+C00035,Hokkaido,Small,Eye Clinic,Urban,69,Dealer
+C00036,Kyushu,Medium,Eye Clinic,Urban,72,Dealer
+C00037,Kanto,Small,Eye Clinic,Urban,77,Dealer
+C00038,Kanto,Small,Eye Clinic,Urban,64,Dealer
+C00039,Chubu,Large,Hospital,Urban,98,Dealer
+C00040,Kansai,Medium,Eye Clinic,Urban,76,Dealer
+C00041,Kanto,Medium,Eye Clinic,Urban,47,Dealer
+C00042,Kansai,Small,Optical Shop,Urban,80,Dealer
+C00043,Kanto,Medium,Eye Clinic,Urban,81,Direct
+C00044,Hokkaido,Small,Eye Clinic,Rural,57,Dealer
+C00045,Kanto,Medium,Optical Shop,Rural,65,Dealer
+C00046,Chubu,Small,Eye Clinic,Urban,66,Dealer
+C00047,Kanto,Medium,Eye Clinic,Rural,60,Dealer
+C00048,Kansai,Small,Eye Clinic,Rural,60,Dealer
+C00049,Kansai,Small,Eye Clinic,Urban,51,Dealer
+C00050,Kanto,Small,Eye Clinic,Urban,66,Direct
+C00051,Hokkaido,Medium,Optical Shop,Urban,82,Dealer
+C00052,Kyushu,Medium,Eye Clinic,Urban,74,Dealer
+C00053,Hokkaido,Large,Eye Clinic,Urban,92,Dealer
+C00054,Kyushu,Small,Eye Clinic,Urban,54,Direct
+C00055,Kansai,Small,Eye Clinic,Urban,54,Dealer
+C00056,Hokkaido,Medium,Hospital,Urban,86,Dealer
+C00057,Kanto,Medium,Eye Clinic,Urban,83,Dealer
+C00058,Kanto,Small,Eye Clinic,Rural,35,Dealer
+C00059,Kanto,Large,Eye Clinic,Urban,93,Dealer
+C00060,Kanto,Large,Eye Clinic,Rural,73,Direct
+C00061,Kansai,Large,Eye Clinic,Urban,86,Dealer
+C00062,Kanto,Small,Optical Shop,Rural,41,Dealer
+C00063,Kyushu,Medium,Eye Clinic,Urban,67,Direct
+C00064,Kanto,Medium,Eye Clinic,Urban,86,Dealer
+C00065,Kanto,Small,Eye Clinic,Urban,64,Dealer
+C00066,Kansai,Large,Hospital,Urban,92,Dealer
+C00067,Kanto,Small,Eye Clinic,Rural,53,Dealer
+C00068,Kyushu,Large,Hospital,Urban,100,Dealer
+C00069,Kanto,Small,Optical Shop,Rural,58,Dealer
+C00070,Hokkaido,Small,Optical Shop,Urban,63,Direct
+C00071,Kyushu,Small,Eye Clinic,Rural,65,Direct
+C00072,Kanto,Small,Eye Clinic,Rural,64,Dealer
+C00073,Kanto,Small,Optical Shop,Urban,68,Dealer
+C00074,Kyushu,Small,Optical Shop,Urban,65,Dealer
+C00075,Chubu,Small,Optical Shop,Rural,61,Dealer
+C00076,Chubu,Small,Eye Clinic,Rural,57,Dealer
+C00077,Kyushu,Medium,Eye Clinic,Rural,77,Dealer
+C00078,Kanto,Medium,Eye Clinic,Rural,75,Dealer
+C00079,Kanto,Large,Hospital,Urban,86,Direct
+C00080,Kanto,Medium,Eye Clinic,Rural,55,Dealer
+C00081,Kyushu,Small,Eye Clinic,Urban,57,Dealer
+C00082,Chubu,Medium,Optical Shop,Rural,76,Dealer
+C00083,Kanto,Small,Eye Clinic,Urban,48,Dealer
+C00084,Kanto,Small,Optical Shop,Urban,68,Direct
+C00085,Kanto,Medium,Eye Clinic,Urban,80,Direct
+C00086,Kanto,Small,Eye Clinic,Urban,76,Dealer
+C00087,Chubu,Medium,Eye Clinic,Urban,78,Dealer
+C00088,Chubu,Small,Optical Shop,Rural,41,Dealer
+C00089,Kyushu,Small,Eye Clinic,Rural,44,Dealer
+C00090,Kansai,Small,Eye Clinic,Urban,52,Dealer
+C00091,Kanto,Small,Optical Shop,Urban,59,Dealer
+C00092,Chubu,Large,Eye Clinic,Rural,76,Dealer
+C00093,Chubu,Medium,Eye Clinic,Urban,64,Dealer
+C00094,Kansai,Small,Eye Clinic,Urban,79,Dealer
+C00095,Kyushu,Small,Eye Clinic,Rural,41,Dealer
+C00096,Kansai,Large,Hospital,Urban,100,Dealer
+C00097,Kansai,Medium,Eye Clinic,Urban,88,Dealer
+C00098,Kansai,Small,Eye Clinic,Urban,73,Dealer
+C00099,Kanto,Small,Eye Clinic,Urban,57,Dealer
+C00100,Kanto,Large,Hospital,Urban,99,Dealer
+C00101,Kanto,Small,Eye Clinic,Urban,51,Direct
+C00102,Chubu,Small,Eye Clinic,Urban,73,Direct
+C00103,Kanto,Large,Eye Clinic,Urban,87,Direct
+C00104,Kansai,Medium,Eye Clinic,Rural,62,Dealer
+C00105,Hokkaido,Small,Eye Clinic,Urban,52,Dealer
+C00106,Kanto,Small,Eye Clinic,Urban,39,Dealer
+C00107,Kansai,Small,Optical Shop,Urban,54,Dealer
+C00108,Chubu,Small,Eye Clinic,Rural,65,Dealer
+C00109,Kanto,Medium,Optical Shop,Urban,72,Dealer
+C00110,Kanto,Small,Optical Shop,Rural,52,Dealer
+C00111,Kanto,Medium,Eye Clinic,Urban,83,Dealer
+C00112,Kanto,Large,Eye Clinic,Urban,100,Direct
+C00113,Hokkaido,Small,Eye Clinic,Urban,77,Dealer
+C00114,Kyushu,Small,Optical Shop,Urban,54,Direct
+C00115,Chubu,Medium,Eye Clinic,Urban,57,Dealer
+C00116,Kyushu,Large,Eye Clinic,Urban,100,Dealer
+C00117,Kyushu,Medium,Eye Clinic,Rural,89,Dealer
+C00118,Kanto,Small,Optical Shop,Rural,56,Dealer
+C00119,Kyushu,Small,Optical Shop,Urban,51,Dealer
+C00120,Kansai,Medium,Eye Clinic,Urban,86,Dealer
+C00121,Kyushu,Large,Hospital,Urban,95,Dealer
+C00122,Kyushu,Small,Eye Clinic,Urban,63,Dealer
+C00123,Kanto,Medium,Eye Clinic,Urban,85,Dealer
+C00124,Kanto,Medium,Optical Shop,Rural,69,Dealer
+C00125,Kanto,Small,Eye Clinic,Rural,42,Dealer
+C00126,Kansai,Small,Eye Clinic,Urban,61,Direct
+C00127,Kyushu,Small,Eye Clinic,Rural,61,Dealer
+C00128,Kyushu,Small,Optical Shop,Urban,69,Dealer
+C00129,Kanto,Small,Optical Shop,Urban,67,Dealer
+C00130,Kansai,Large,Hospital,Urban,100,Direct
+C00131,Kansai,Small,Optical Shop,Urban,60,Dealer
+C00132,Kanto,Small,Eye Clinic,Urban,66,Dealer
+C00133,Kanto,Medium,Eye Clinic,Urban,42,Dealer
+C00134,Kanto,Small,Eye Clinic,Urban,60,Dealer
+C00135,Hokkaido,Small,Eye Clinic,Urban,72,Dealer
+C00136,Kanto,Medium,Eye Clinic,Rural,62,Dealer
+C00137,Kansai,Medium,Optical Shop,Urban,71,Direct
+C00138,Chubu,Medium,Eye Clinic,Rural,56,Dealer
+C00139,Kanto,Medium,Eye Clinic,Urban,86,Direct
+C00140,Hokkaido,Small,Eye Clinic,Urban,69,Direct
+C00141,Hokkaido,Large,Eye Clinic,Urban,96,Dealer
+C00142,Kanto,Small,Optical Shop,Rural,37,Dealer
+C00143,Kansai,Medium,Eye Clinic,Urban,74,Dealer
+C00144,Kanto,Small,Eye Clinic,Rural,51,Direct
+C00145,Kanto,Medium,Optical Shop,Urban,73,Dealer
+C00146,Kanto,Medium,Eye Clinic,Urban,70,Dealer
+C00147,Kansai,Medium,Eye Clinic,Rural,63,Dealer
+C00148,Kansai,Small,Eye Clinic,Rural,62,Direct
+C00149,Kanto,Small,Eye Clinic,Rural,35,Dealer
+C00150,Kanto,Small,Optical Shop,Urban,82,Dealer
+C00151,Hokkaido,Medium,Optical Shop,Rural,71,Dealer
+C00152,Kanto,Small,Eye Clinic,Rural,54,Dealer
+C00153,Kanto,Medium,Optical Shop,Rural,75,Dealer
+C00154,Kansai,Large,Eye Clinic,Urban,73,Direct
+C00155,Hokkaido,Small,Eye Clinic,Urban,57,Dealer
+C00156,Kanto,Medium,Eye Clinic,Rural,65,Dealer
+C00157,Chubu,Medium,Eye Clinic,Urban,90,Dealer
+C00158,Chubu,Small,Eye Clinic,Urban,64,Dealer
+C00159,Kanto,Medium,Hospital,Urban,89,Dealer
+C00160,Chubu,Small,Optical Shop,Urban,58,Dealer
+C00161,Kanto,Medium,Eye Clinic,Urban,81,Dealer
+C00162,Chubu,Small,Eye Clinic,Urban,81,Dealer
+C00163,Chubu,Medium,Eye Clinic,Rural,76,Dealer
+C00164,Kansai,Medium,Eye Clinic,Urban,75,Dealer
+C00165,Kanto,Medium,Eye Clinic,Urban,83,Dealer
+C00166,Kyushu,Small,Eye Clinic,Urban,70,Dealer
+C00167,Kanto,Medium,Optical Shop,Urban,81,Dealer
+C00168,Kanto,Small,Eye Clinic,Urban,75,Dealer
+C00169,Kanto,Small,Eye Clinic,Urban,75,Dealer
+C00170,Kansai,Small,Eye Clinic,Urban,63,Dealer
+C00171,Chubu,Small,Eye Clinic,Rural,60,Dealer
+C00172,Kanto,Large,Eye Clinic,Urban,84,Direct
+C00173,Kansai,Medium,Hospital,Urban,75,Dealer
+C00174,Kanto,Medium,Eye Clinic,Urban,73,Dealer
+C00175,Chubu,Medium,Hospital,Urban,83,Dealer
+C00176,Kanto,Small,Eye Clinic,Urban,47,Dealer
+C00177,Chubu,Large,Eye Clinic,Rural,87,Dealer
+C00178,Kansai,Medium,Eye Clinic,Urban,48,Dealer
+C00179,Hokkaido,Small,Optical Shop,Urban,91,Dealer
+C00180,Kanto,Medium,Eye Clinic,Urban,91,Dealer
+C00181,Kanto,Small,Optical Shop,Urban,61,Dealer
+C00182,Kanto,Small,Eye Clinic,Rural,54,Dealer
+C00183,Hokkaido,Medium,Optical Shop,Urban,79,Dealer
+C00184,Kyushu,Medium,Eye Clinic,Rural,60,Direct
+C00185,Kanto,Medium,Hospital,Urban,86,Dealer
+C00186,Chubu,Large,Eye Clinic,Urban,87,Dealer
+C00187,Kyushu,Small,Optical Shop,Urban,63,Dealer
+C00188,Kansai,Small,Eye Clinic,Urban,66,Dealer
+C00189,Kansai,Medium,Eye Clinic,Urban,63,Dealer
+C00190,Kanto,Medium,Eye Clinic,Urban,76,Dealer
+C00191,Kanto,Small,Optical Shop,Urban,66,Dealer
+C00192,Kyushu,Small,Eye Clinic,Urban,65,Dealer
+C00193,Hokkaido,Small,Optical Shop,Rural,52,Dealer
+C00194,Chubu,Small,Eye Clinic,Urban,75,Dealer
+C00195,Kanto,Medium,Eye Clinic,Rural,62,Direct
+C00196,Kanto,Medium,Eye Clinic,Rural,68,Dealer
+C00197,Chubu,Small,Optical Shop,Rural,67,Direct
+C00198,Kyushu,Large,Hospital,Urban,95,Dealer
+C00199,Kyushu,Medium,Optical Shop,Rural,68,Direct
+C00200,Kyushu,Large,Eye Clinic,Urban,87,Dealer
+C00201,Chubu,Medium,Hospital,Urban,96,Dealer
+C00202,Kanto,Medium,Hospital,Urban,81,Dealer
+C00203,Kanto,Medium,Eye Clinic,Urban,89,Dealer
+C00204,Kyushu,Small,Optical Shop,Rural,53,Dealer
+C00205,Kansai,Medium,Optical Shop,Urban,67,Dealer
+C00206,Kanto,Small,Optical Shop,Urban,71,Direct
+C00207,Kanto,Medium,Hospital,Urban,81,Dealer
+C00208,Chubu,Small,Eye Clinic,Urban,70,Dealer
+C00209,Kanto,Small,Eye Clinic,Urban,37,Dealer
+C00210,Kanto,Medium,Optical Shop,Urban,76,Dealer
+C00211,Kansai,Small,Eye Clinic,Urban,59,Dealer
+C00212,Chubu,Medium,Hospital,Urban,73,Dealer
+C00213,Chubu,Medium,Hospital,Rural,68,Direct
+C00214,Kanto,Large,Hospital,Urban,90,Dealer
+C00215,Chubu,Small,Optical Shop,Rural,54,Dealer
+C00216,Kanto,Medium,Eye Clinic,Urban,62,Dealer
+C00217,Kanto,Medium,Eye Clinic,Urban,79,Direct
+C00218,Chubu,Medium,Eye Clinic,Urban,90,Dealer
+C00219,Chubu,Large,Eye Clinic,Urban,91,Direct
+C00220,Kyushu,Large,Eye Clinic,Urban,96,Dealer
+C00221,Chubu,Large,Eye Clinic,Rural,89,Dealer
+C00222,Kansai,Small,Optical Shop,Urban,76,Dealer
+C00223,Kanto,Small,Optical Shop,Urban,83,Dealer
+C00224,Kanto,Small,Eye Clinic,Rural,49,Dealer
+C00225,Kanto,Large,Eye Clinic,Urban,81,Dealer
+C00226,Kanto,Medium,Optical Shop,Urban,84,Dealer
+C00227,Hokkaido,Large,Eye Clinic,Urban,95,Direct
+C00228,Kansai,Small,Eye Clinic,Urban,72,Direct
+C00229,Kyushu,Large,Eye Clinic,Urban,100,Direct
+C00230,Chubu,Small,Eye Clinic,Rural,54,Direct
+C00231,Kyushu,Small,Eye Clinic,Urban,68,Dealer
+C00232,Kansai,Small,Optical Shop,Rural,44,Dealer
+C00233,Kansai,Small,Eye Clinic,Urban,85,Direct
+C00234,Kansai,Medium,Eye Clinic,Urban,73,Dealer
+C00235,Kanto,Small,Eye Clinic,Urban,61,Dealer
+C00236,Chubu,Small,Eye Clinic,Urban,61,Dealer
+C00237,Kanto,Large,Hospital,Urban,90,Dealer
+C00238,Kanto,Medium,Optical Shop,Urban,69,Dealer
+C00239,Chubu,Small,Optical Shop,Urban,59,Dealer
+C00240,Kanto,Small,Eye Clinic,Urban,50,Dealer
+C00241,Hokkaido,Medium,Optical Shop,Urban,68,Direct
+C00242,Hokkaido,Medium,Optical Shop,Rural,85,Dealer
+C00243,Hokkaido,Small,Optical Shop,Urban,71,Dealer
+C00244,Kanto,Medium,Eye Clinic,Urban,85,Dealer
+C00245,Kanto,Small,Eye Clinic,Urban,76,Direct
+C00246,Hokkaido,Small,Eye Clinic,Urban,82,Dealer
+C00247,Kansai,Large,Hospital,Rural,68,Dealer
+C00248,Hokkaido,Large,Eye Clinic,Rural,66,Direct
+C00249,Hokkaido,Small,Eye Clinic,Urban,56,Dealer
+C00250,Kyushu,Medium,Optical Shop,Urban,71,Direct
+C00251,Kanto,Medium,Optical Shop,Urban,73,Dealer
+C00252,Kansai,Medium,Optical Shop,Urban,72,Dealer
+C00253,Kyushu,Small,Eye Clinic,Urban,66,Dealer
+C00254,Kanto,Large,Hospital,Urban,96,Dealer
+C00255,Kanto,Small,Eye Clinic,Urban,57,Dealer
+C00256,Kansai,Medium,Eye Clinic,Urban,54,Direct
+C00257,Hokkaido,Small,Eye Clinic,Urban,54,Direct
+C00258,Chubu,Small,Eye Clinic,Rural,49,Direct
+C00259,Kansai,Medium,Eye Clinic,Urban,74,Dealer
+C00260,Kanto,Small,Optical Shop,Urban,53,Direct
+C00261,Kansai,Small,Eye Clinic,Urban,59,Dealer
+C00262,Hokkaido,Medium,Hospital,Urban,73,Direct
+C00263,Kanto,Medium,Eye Clinic,Urban,75,Dealer
+C00264,Kansai,Small,Eye Clinic,Urban,53,Dealer
+C00265,Kyushu,Medium,Eye Clinic,Rural,58,Direct
+C00266,Chubu,Small,Eye Clinic,Rural,41,Direct
+C00267,Chubu,Small,Eye Clinic,Urban,62,Dealer
+C00268,Chubu,Small,Eye Clinic,Urban,55,Dealer
+C00269,Kanto,Small,Eye Clinic,Urban,73,Dealer
+C00270,Kanto,Small,Eye Clinic,Urban,68,Dealer
+C00271,Kyushu,Small,Eye Clinic,Urban,63,Dealer
+C00272,Kyushu,Medium,Optical Shop,Rural,58,Dealer
+C00273,Kyushu,Medium,Eye Clinic,Urban,80,Dealer
+C00274,Hokkaido,Medium,Hospital,Urban,91,Dealer
+C00275,Kansai,Large,Hospital,Urban,97,Dealer
+C00276,Kansai,Medium,Optical Shop,Urban,92,Dealer
+C00277,Kyushu,Small,Optical Shop,Urban,69,Dealer
+C00278,Chubu,Small,Eye Clinic,Rural,63,Dealer
+C00279,Chubu,Large,Hospital,Rural,87,Dealer
+C00280,Kyushu,Small,Optical Shop,Urban,71,Dealer
+C00281,Kyushu,Medium,Eye Clinic,Rural,58,Dealer
+C00282,Kanto,Small,Eye Clinic,Urban,59,Dealer
+C00283,Kanto,Small,Eye Clinic,Rural,57,Dealer
+C00284,Kanto,Small,Optical Shop,Urban,67,Dealer
+C00285,Kansai,Small,Optical Shop,Urban,69,Direct
+C00286,Kanto,Medium,Eye Clinic,Urban,87,Dealer
+C00287,Kansai,Medium,Eye Clinic,Urban,62,Dealer
+C00288,Kansai,Small,Eye Clinic,Urban,54,Dealer
+C00289,Kanto,Large,Eye Clinic,Urban,90,Dealer
+C00290,Kansai,Medium,Optical Shop,Urban,69,Direct
+C00291,Kanto,Medium,Eye Clinic,Urban,100,Dealer
+C00292,Kanto,Small,Eye Clinic,Urban,69,Dealer
+C00293,Kyushu,Small,Eye Clinic,Rural,53,Dealer
+C00294,Kanto,Large,Hospital,Urban,91,Dealer
+C00295,Kanto,Small,Eye Clinic,Urban,59,Dealer
+C00296,Kansai,Large,Hospital,Urban,96,Direct
+C00297,Chubu,Small,Eye Clinic,Urban,65,Direct
+C00298,Kanto,Small,Eye Clinic,Urban,59,Dealer
+C00299,Chubu,Small,Eye Clinic,Rural,51,Direct
+C00300,Kanto,Medium,Eye Clinic,Urban,89,Dealer
+C00301,Kanto,Small,Eye Clinic,Urban,78,Direct
+C00302,Kansai,Small,Optical Shop,Rural,57,Direct
+C00303,Kansai,Small,Optical Shop,Urban,51,Dealer
+C00304,Chubu,Medium,Optical Shop,Rural,71,Dealer
+C00305,Chubu,Small,Eye Clinic,Rural,70,Dealer
+C00306,Hokkaido,Medium,Optical Shop,Urban,90,Dealer
+C00307,Kansai,Medium,Eye Clinic,Urban,83,Dealer
+C00308,Kanto,Small,Eye Clinic,Urban,78,Direct
+C00309,Kyushu,Medium,Eye Clinic,Rural,67,Direct
+C00310,Kanto,Small,Eye Clinic,Urban,70,Dealer
+C00311,Kansai,Large,Hospital,Urban,89,Direct
+C00312,Kanto,Medium,Eye Clinic,Urban,79,Direct
+C00313,Kanto,Small,Eye Clinic,Urban,77,Dealer
+C00314,Hokkaido,Medium,Hospital,Rural,68,Dealer
+C00315,Kyushu,Small,Eye Clinic,Rural,45,Dealer
+C00316,Chubu,Large,Eye Clinic,Urban,89,Dealer
+C00317,Kansai,Small,Eye Clinic,Rural,52,Dealer
+C00318,Kanto,Small,Optical Shop,Urban,70,Dealer
+C00319,Kanto,Small,Optical Shop,Urban,59,Direct
+C00320,Kanto,Large,Eye Clinic,Urban,100,Direct
+C00321,Kansai,Small,Eye Clinic,Urban,51,Dealer
+C00322,Chubu,Medium,Eye Clinic,Urban,89,Direct
+C00323,Chubu,Small,Optical Shop,Rural,46,Dealer
+C00324,Kanto,Medium,Eye Clinic,Urban,58,Direct
+C00325,Hokkaido,Small,Eye Clinic,Rural,56,Dealer
+C00326,Chubu,Small,Eye Clinic,Urban,61,Dealer
+C00327,Kansai,Small,Eye Clinic,Urban,53,Direct
+C00328,Kansai,Medium,Eye Clinic,Rural,49,Dealer
+C00329,Kansai,Small,Optical Shop,Rural,54,Dealer
+C00330,Kanto,Medium,Eye Clinic,Urban,86,Dealer
+C00331,Kanto,Small,Eye Clinic,Urban,70,Dealer
+C00332,Chubu,Medium,Optical Shop,Urban,77,Direct
+C00333,Kanto,Medium,Optical Shop,Urban,81,Dealer
+C00334,Kanto,Medium,Eye Clinic,Urban,76,Direct
+C00335,Kanto,Small,Eye Clinic,Urban,50,Dealer
+C00336,Kanto,Small,Eye Clinic,Rural,40,Dealer
+C00337,Kyushu,Small,Optical Shop,Urban,62,Dealer
+C00338,Chubu,Small,Eye Clinic,Rural,52,Dealer
+C00339,Kansai,Small,Optical Shop,Urban,73,Dealer
+C00340,Kanto,Large,Hospital,Urban,100,Dealer
+C00341,Kansai,Large,Eye Clinic,Rural,84,Dealer
+C00342,Kansai,Small,Eye Clinic,Urban,61,Dealer
+C00343,Kanto,Medium,Eye Clinic,Rural,52,Dealer
+C00344,Kansai,Small,Eye Clinic,Urban,68,Dealer
+C00345,Kansai,Medium,Eye Clinic,Urban,81,Dealer
+C00346,Kansai,Medium,Hospital,Rural,50,Dealer
+C00347,Chubu,Small,Optical Shop,Urban,56,Dealer
+C00348,Kanto,Small,Eye Clinic,Rural,47,Dealer
+C00349,Kanto,Large,Hospital,Rural,87,Dealer
+C00350,Chubu,Large,Eye Clinic,Urban,80,Dealer
+C00351,Kansai,Small,Eye Clinic,Urban,64,Dealer
+C00352,Kyushu,Small,Eye Clinic,Urban,62,Dealer
+C00353,Chubu,Large,Hospital,Rural,84,Direct
+C00354,Kanto,Small,Optical Shop,Urban,57,Dealer
+C00355,Kanto,Medium,Hospital,Urban,78,Dealer
+C00356,Chubu,Medium,Eye Clinic,Urban,65,Dealer
+C00357,Kanto,Large,Eye Clinic,Urban,92,Dealer
+C00358,Kansai,Large,Eye Clinic,Urban,94,Direct
+C00359,Hokkaido,Small,Eye Clinic,Rural,46,Dealer
+C00360,Kansai,Medium,Optical Shop,Urban,91,Dealer
+C00361,Kansai,Medium,Optical Shop,Rural,63,Dealer
+C00362,Chubu,Large,Hospital,Urban,100,Dealer
+C00363,Kansai,Medium,Eye Clinic,Urban,70,Dealer
+C00364,Kansai,Medium,Eye Clinic,Urban,56,Dealer
+C00365,Hokkaido,Small,Eye Clinic,Urban,68,Dealer
+C00366,Kansai,Small,Eye Clinic,Rural,56,Dealer
+C00367,Hokkaido,Small,Eye Clinic,Urban,64,Direct
+C00368,Hokkaido,Large,Hospital,Rural,80,Direct
+C00369,Kanto,Medium,Hospital,Urban,84,Dealer
+C00370,Kanto,Large,Eye Clinic,Urban,83,Dealer
+C00371,Kanto,Medium,Eye Clinic,Urban,73,Dealer
+C00372,Kanto,Medium,Eye Clinic,Urban,84,Dealer
+C00373,Kanto,Small,Eye Clinic,Urban,66,Direct
+C00374,Chubu,Small,Optical Shop,Urban,70,Dealer
+C00375,Kanto,Small,Eye Clinic,Rural,52,Dealer
+C00376,Kanto,Small,Eye Clinic,Urban,61,Direct
+C00377,Kyushu,Medium,Eye Clinic,Urban,64,Direct
+C00378,Kanto,Small,Optical Shop,Urban,60,Dealer
+C00379,Kyushu,Medium,Eye Clinic,Urban,43,Dealer
+C00380,Kanto,Small,Eye Clinic,Rural,48,Dealer
+C00381,Kanto,Small,Eye Clinic,Urban,63,Dealer
+C00382,Chubu,Medium,Hospital,Urban,90,Direct
+C00383,Chubu,Medium,Optical Shop,Urban,73,Dealer
+C00384,Kyushu,Medium,Eye Clinic,Rural,69,Dealer
+C00385,Chubu,Small,Optical Shop,Urban,42,Dealer
+C00386,Kyushu,Small,Optical Shop,Rural,53,Direct
+C00387,Kanto,Small,Optical Shop,Urban,47,Direct
+C00388,Kanto,Large,Hospital,Urban,84,Direct
+C00389,Chubu,Medium,Hospital,Rural,72,Dealer
+C00390,Kyushu,Small,Eye Clinic,Urban,77,Direct
+C00391,Hokkaido,Small,Optical Shop,Rural,58,Dealer
+C00392,Kansai,Small,Eye Clinic,Urban,64,Dealer
+C00393,Kanto,Large,Hospital,Rural,86,Dealer
+C00394,Kyushu,Medium,Eye Clinic,Urban,69,Direct
+C00395,Kanto,Medium,Hospital,Urban,79,Direct
+C00396,Hokkaido,Small,Optical Shop,Urban,68,Dealer
+C00397,Kyushu,Small,Eye Clinic,Urban,50,Dealer
+C00398,Kansai,Medium,Optical Shop,Urban,82,Direct
+C00399,Chubu,Medium,Eye Clinic,Urban,72,Dealer
+C00400,Chubu,Small,Optical Shop,Urban,72,Direct
+C00401,Kanto,Small,Eye Clinic,Urban,74,Dealer
+C00402,Hokkaido,Medium,Eye Clinic,Urban,59,Dealer
+C00403,Kansai,Small,Optical Shop,Urban,58,Dealer
+C00404,Kyushu,Small,Eye Clinic,Rural,45,Dealer
+C00405,Kanto,Small,Optical Shop,Urban,46,Dealer
+C00406,Kyushu,Small,Eye Clinic,Urban,54,Dealer
+C00407,Kansai,Medium,Eye Clinic,Urban,100,Dealer
+C00408,Kanto,Large,Eye Clinic,Urban,94,Dealer
+C00409,Hokkaido,Small,Eye Clinic,Rural,73,Direct
+C00410,Kanto,Medium,Eye Clinic,Urban,84,Dealer
+C00411,Kanto,Small,Eye Clinic,Urban,57,Dealer
+C00412,Hokkaido,Small,Eye Clinic,Rural,50,Direct
+C00413,Hokkaido,Small,Eye Clinic,Urban,70,Dealer
+C00414,Kansai,Medium,Optical Shop,Rural,70,Dealer
+C00415,Chubu,Small,Optical Shop,Rural,48,Dealer
+C00416,Kansai,Medium,Eye Clinic,Urban,61,Direct
+C00417,Kanto,Medium,Hospital,Urban,100,Direct
+C00418,Kanto,Small,Eye Clinic,Urban,63,Dealer
+C00419,Chubu,Medium,Hospital,Rural,71,Direct
+C00420,Chubu,Medium,Optical Shop,Urban,77,Dealer
+C00421,Kyushu,Small,Optical Shop,Rural,52,Dealer
+C00422,Kyushu,Medium,Eye Clinic,Urban,77,Direct
+C00423,Kanto,Small,Optical Shop,Urban,77,Dealer
+C00424,Kansai,Small,Eye Clinic,Urban,63,Direct
+C00425,Kanto,Small,Optical Shop,Urban,52,Dealer
+C00426,Kansai,Small,Eye Clinic,Urban,62,Dealer
+C00427,Kansai,Medium,Hospital,Rural,69,Direct
+C00428,Kyushu,Medium,Hospital,Urban,98,Dealer
+C00429,Kanto,Large,Hospital,Urban,100,Direct
+C00430,Kanto,Medium,Eye Clinic,Rural,67,Direct
+C00431,Kanto,Small,Optical Shop,Rural,41,Direct
+C00432,Chubu,Small,Eye Clinic,Urban,52,Dealer
+C00433,Kansai,Medium,Hospital,Urban,84,Dealer
+C00434,Kanto,Small,Eye Clinic,Urban,67,Direct
+C00435,Kanto,Small,Eye Clinic,Urban,60,Dealer
+C00436,Chubu,Large,Eye Clinic,Urban,83,Dealer
+C00437,Kanto,Small,Eye Clinic,Rural,48,Direct
+C00438,Kyushu,Small,Eye Clinic,Urban,64,Dealer
+C00439,Chubu,Small,Eye Clinic,Urban,40,Direct
+C00440,Kanto,Small,Eye Clinic,Urban,53,Dealer
+C00441,Kanto,Small,Optical Shop,Urban,58,Dealer
+C00442,Hokkaido,Small,Optical Shop,Rural,66,Dealer
+C00443,Kanto,Small,Eye Clinic,Urban,56,Dealer
+C00444,Kanto,Medium,Eye Clinic,Urban,78,Dealer
+C00445,Kyushu,Small,Eye Clinic,Urban,66,Dealer
+C00446,Hokkaido,Medium,Eye Clinic,Rural,79,Direct
+C00447,Hokkaido,Large,Hospital,Urban,100,Dealer
+C00448,Chubu,Medium,Hospital,Rural,73,Dealer
+C00449,Kanto,Medium,Eye Clinic,Urban,71,Dealer
+C00450,Kanto,Small,Eye Clinic,Rural,47,Dealer
+C00451,Kyushu,Medium,Eye Clinic,Urban,74,Dealer
+C00452,Kansai,Small,Optical Shop,Urban,60,Dealer
+C00453,Kansai,Small,Optical Shop,Urban,70,Dealer
+C00454,Hokkaido,Medium,Eye Clinic,Urban,80,Dealer
+C00455,Kanto,Large,Eye Clinic,Rural,84,Dealer
+C00456,Kansai,Medium,Optical Shop,Rural,79,Dealer
+C00457,Kanto,Small,Optical Shop,Urban,83,Dealer
+C00458,Kansai,Small,Eye Clinic,Urban,65,Dealer
+C00459,Kanto,Small,Eye Clinic,Urban,75,Dealer
+C00460,Kanto,Small,Eye Clinic,Rural,50,Dealer
+C00461,Kanto,Small,Eye Clinic,Urban,76,Dealer
+C00462,Chubu,Small,Eye Clinic,Urban,75,Dealer
+C00463,Chubu,Large,Eye Clinic,Urban,98,Direct
+C00464,Kansai,Small,Eye Clinic,Urban,65,Direct
+C00465,Hokkaido,Small,Eye Clinic,Rural,47,Dealer
+C00466,Kanto,Small,Optical Shop,Urban,50,Direct
+C00467,Kanto,Medium,Eye Clinic,Urban,76,Dealer
+C00468,Kyushu,Medium,Eye Clinic,Urban,91,Dealer
+C00469,Kanto,Medium,Eye Clinic,Urban,73,Dealer
+C00470,Hokkaido,Small,Eye Clinic,Urban,72,Dealer
+C00471,Kanto,Medium,Optical Shop,Urban,84,Dealer
+C00472,Hokkaido,Small,Eye Clinic,Rural,51,Dealer
+C00473,Kanto,Large,Eye Clinic,Urban,100,Direct
+C00474,Kyushu,Large,Hospital,Rural,57,Dealer
+C00475,Kansai,Small,Eye Clinic,Urban,52,Dealer
+C00476,Hokkaido,Small,Optical Shop,Urban,55,Dealer
+C00477,Kanto,Medium,Eye Clinic,Rural,58,Direct
+C00478,Kansai,Small,Eye Clinic,Urban,67,Dealer
+C00479,Hokkaido,Large,Eye Clinic,Urban,91,Dealer
+C00480,Kansai,Small,Eye Clinic,Urban,68,Dealer
+C00481,Chubu,Small,Optical Shop,Rural,60,Dealer
+C00482,Chubu,Small,Optical Shop,Urban,54,Dealer
+C00483,Kansai,Small,Eye Clinic,Rural,42,Dealer
+C00484,Chubu,Small,Eye Clinic,Urban,68,Dealer
+C00485,Kansai,Small,Optical Shop,Urban,58,Dealer
+C00486,Hokkaido,Small,Optical Shop,Urban,48,Dealer
+C00487,Kanto,Small,Eye Clinic,Urban,74,Dealer
+C00488,Kanto,Large,Eye Clinic,Urban,100,Dealer
+C00489,Hokkaido,Medium,Eye Clinic,Rural,82,Dealer
+C00490,Kyushu,Medium,Optical Shop,Rural,68,Dealer
+C00491,Kansai,Small,Eye Clinic,Urban,70,Direct
+C00492,Chubu,Small,Eye Clinic,Rural,68,Dealer
+C00493,Kanto,Small,Optical Shop,Rural,48,Dealer
+C00494,Kanto,Medium,Eye Clinic,Urban,87,Dealer
+C00495,Kansai,Large,Eye Clinic,Rural,81,Direct
+C00496,Kanto,Small,Eye Clinic,Urban,73,Dealer
+C00497,Kansai,Small,Eye Clinic,Rural,56,Dealer
+C00498,Kanto,Large,Eye Clinic,Urban,100,Dealer
+C00499,Hokkaido,Small,Eye Clinic,Urban,66,Dealer
+C00500,Hokkaido,Medium,Eye Clinic,Urban,61,Dealer
+C00501,Chubu,Medium,Eye Clinic,Urban,91,Direct
+C00502,Kansai,Medium,Optical Shop,Urban,67,Dealer
+C00503,Kanto,Small,Optical Shop,Urban,77,Dealer
+C00504,Kyushu,Small,Eye Clinic,Urban,63,Dealer
+C00505,Chubu,Medium,Eye Clinic,Urban,88,Dealer
+C00506,Kanto,Large,Eye Clinic,Rural,89,Direct
+C00507,Hokkaido,Small,Eye Clinic,Rural,58,Dealer
+C00508,Kyushu,Small,Eye Clinic,Rural,59,Direct
+C00509,Hokkaido,Large,Hospital,Rural,90,Dealer
+C00510,Chubu,Large,Eye Clinic,Urban,68,Dealer
+C00511,Kansai,Medium,Eye Clinic,Urban,77,Dealer
+C00512,Kansai,Large,Eye Clinic,Urban,77,Dealer
+C00513,Hokkaido,Medium,Hospital,Rural,76,Dealer
+C00514,Kyushu,Small,Eye Clinic,Urban,53,Dealer
+C00515,Kanto,Large,Hospital,Rural,74,Dealer
+C00516,Kanto,Medium,Eye Clinic,Rural,82,Dealer
+C00517,Kanto,Small,Optical Shop,Urban,75,Dealer
+C00518,Kyushu,Small,Optical Shop,Rural,54,Dealer
+C00519,Hokkaido,Medium,Eye Clinic,Urban,78,Dealer
+C00520,Kanto,Small,Eye Clinic,Rural,52,Direct
+C00521,Kansai,Small,Eye Clinic,Urban,70,Dealer
+C00522,Kansai,Medium,Eye Clinic,Urban,69,Dealer
+C00523,Hokkaido,Large,Hospital,Rural,96,Dealer
+C00524,Kyushu,Medium,Optical Shop,Urban,73,Dealer
+C00525,Kyushu,Medium,Hospital,Urban,80,Dealer
+C00526,Kansai,Small,Optical Shop,Urban,64,Direct
+C00527,Kansai,Medium,Eye Clinic,Urban,70,Dealer
+C00528,Kanto,Medium,Eye Clinic,Urban,79,Dealer
+C00529,Kanto,Large,Hospital,Rural,81,Dealer
+C00530,Kyushu,Small,Eye Clinic,Urban,69,Dealer
+C00531,Kyushu,Medium,Hospital,Urban,96,Dealer
+C00532,Hokkaido,Small,Eye Clinic,Urban,57,Direct
+C00533,Hokkaido,Small,Eye Clinic,Urban,63,Dealer
+C00534,Kansai,Small,Optical Shop,Urban,69,Direct
+C00535,Chubu,Medium,Eye Clinic,Rural,62,Dealer
+C00536,Hokkaido,Medium,Optical Shop,Rural,71,Dealer
+C00537,Kyushu,Medium,Optical Shop,Rural,72,Dealer
+C00538,Kanto,Small,Optical Shop,Urban,75,Dealer
+C00539,Kansai,Large,Hospital,Rural,80,Direct
+C00540,Kanto,Small,Eye Clinic,Urban,55,Dealer
+C00541,Hokkaido,Small,Optical Shop,Urban,61,Direct
+C00542,Kansai,Small,Eye Clinic,Urban,54,Dealer
+C00543,Kanto,Medium,Eye Clinic,Rural,72,Dealer
+C00544,Chubu,Large,Hospital,Rural,74,Direct
+C00545,Kansai,Small,Eye Clinic,Urban,87,Dealer
+C00546,Kanto,Small,Eye Clinic,Urban,77,Direct
+C00547,Kanto,Medium,Eye Clinic,Urban,76,Dealer
+C00548,Chubu,Small,Eye Clinic,Urban,73,Direct
+C00549,Kansai,Medium,Optical Shop,Urban,60,Dealer
+C00550,Kyushu,Medium,Eye Clinic,Urban,100,Dealer
+C00551,Kansai,Medium,Optical Shop,Urban,70,Dealer
+C00552,Kyushu,Large,Hospital,Urban,95,Dealer
+C00553,Kansai,Small,Optical Shop,Urban,45,Dealer
+C00554,Kansai,Small,Eye Clinic,Rural,59,Dealer
+C00555,Kyushu,Small,Optical Shop,Rural,43,Dealer
+C00556,Kansai,Small,Eye Clinic,Urban,65,Dealer
+C00557,Kanto,Small,Optical Shop,Urban,59,Dealer
+C00558,Kanto,Medium,Eye Clinic,Rural,55,Dealer
+C00559,Chubu,Small,Optical Shop,Urban,56,Dealer
+C00560,Chubu,Medium,Optical Shop,Rural,68,Dealer
+C00561,Chubu,Medium,Eye Clinic,Rural,53,Dealer
+C00562,Kanto,Medium,Eye Clinic,Urban,69,Dealer
+C00563,Kanto,Small,Optical Shop,Rural,61,Dealer
+C00564,Kanto,Medium,Eye Clinic,Rural,92,Direct
+C00565,Kanto,Small,Optical Shop,Urban,69,Dealer
+C00566,Kansai,Large,Eye Clinic,Urban,79,Dealer
+C00567,Kansai,Large,Eye Clinic,Urban,84,Dealer
+C00568,Kansai,Small,Optical Shop,Urban,64,Dealer
+C00569,Hokkaido,Large,Hospital,Urban,93,Direct
+C00570,Kanto,Small,Optical Shop,Urban,73,Direct
+C00571,Kansai,Small,Eye Clinic,Urban,66,Dealer
+C00572,Kyushu,Large,Hospital,Rural,95,Dealer
+C00573,Kansai,Small,Eye Clinic,Urban,61,Dealer
+C00574,Chubu,Large,Hospital,Urban,100,Dealer
+C00575,Kyushu,Medium,Hospital,Urban,82,Direct
+C00576,Hokkaido,Small,Eye Clinic,Urban,54,Dealer
+C00577,Kanto,Medium,Eye Clinic,Urban,98,Dealer
+C00578,Hokkaido,Medium,Eye Clinic,Urban,58,Dealer
+C00579,Kansai,Medium,Optical Shop,Urban,69,Dealer
+C00580,Kanto,Medium,Eye Clinic,Rural,60,Dealer
+C00581,Kansai,Large,Hospital,Rural,100,Direct
+C00582,Hokkaido,Small,Eye Clinic,Urban,82,Dealer
+C00583,Kansai,Medium,Hospital,Urban,99,Direct
+C00584,Kanto,Medium,Hospital,Urban,81,Dealer
+C00585,Chubu,Medium,Eye Clinic,Rural,90,Dealer
+C00586,Kanto,Medium,Eye Clinic,Urban,80,Dealer
+C00587,Kanto,Small,Eye Clinic,Rural,64,Dealer
+C00588,Kanto,Large,Hospital,Urban,98,Direct
+C00589,Kanto,Small,Optical Shop,Urban,64,Dealer
+C00590,Kanto,Small,Eye Clinic,Urban,61,Dealer
+C00591,Kanto,Medium,Hospital,Rural,72,Dealer
+C00592,Chubu,Medium,Eye Clinic,Rural,72,Dealer
+C00593,Kanto,Medium,Eye Clinic,Urban,80,Dealer
+C00594,Kanto,Medium,Optical Shop,Urban,76,Dealer
+C00595,Kyushu,Small,Eye Clinic,Urban,79,Dealer
+C00596,Kansai,Large,Eye Clinic,Urban,58,Dealer
+C00597,Chubu,Small,Eye Clinic,Rural,59,Dealer
+C00598,Kanto,Small,Eye Clinic,Rural,61,Dealer
+C00599,Kanto,Large,Eye Clinic,Urban,99,Dealer
+C00600,Kanto,Small,Eye Clinic,Rural,53,Dealer
+C00601,Kanto,Large,Hospital,Urban,98,Dealer
+C00602,Kanto,Small,Eye Clinic,Rural,64,Dealer
+C00603,Kanto,Medium,Eye Clinic,Urban,91,Dealer
+C00604,Kanto,Large,Eye Clinic,Urban,85,Dealer
+C00605,Kanto,Small,Eye Clinic,Urban,67,Dealer
+C00606,Kansai,Large,Hospital,Urban,100,Dealer
+C00607,Kanto,Small,Optical Shop,Urban,43,Dealer
+C00608,Kanto,Medium,Eye Clinic,Urban,69,Dealer
+C00609,Kansai,Small,Optical Shop,Urban,79,Dealer
+C00610,Chubu,Small,Eye Clinic,Rural,65,Direct
+C00611,Kanto,Small,Eye Clinic,Urban,69,Dealer
+C00612,Kyushu,Small,Eye Clinic,Urban,60,Direct
+C00613,Chubu,Large,Eye Clinic,Urban,79,Dealer
+C00614,Kanto,Small,Eye Clinic,Urban,58,Dealer
+C00615,Kyushu,Medium,Hospital,Urban,99,Dealer
+C00616,Hokkaido,Small,Eye Clinic,Rural,48,Dealer
+C00617,Kanto,Small,Optical Shop,Rural,55,Dealer
+C00618,Kanto,Medium,Eye Clinic,Urban,68,Dealer
+C00619,Kyushu,Large,Eye Clinic,Rural,86,Direct
+C00620,Chubu,Large,Hospital,Urban,91,Dealer
+C00621,Kanto,Large,Eye Clinic,Urban,87,Direct
+C00622,Kanto,Medium,Eye Clinic,Urban,59,Dealer
+C00623,Kanto,Medium,Hospital,Urban,68,Dealer
+C00624,Kansai,Small,Optical Shop,Urban,64,Dealer
+C00625,Kansai,Small,Optical Shop,Urban,51,Dealer
+C00626,Kanto,Large,Hospital,Urban,100,Dealer
+C00627,Kansai,Large,Hospital,Rural,65,Direct
+C00628,Chubu,Small,Optical Shop,Urban,56,Dealer
+C00629,Kanto,Large,Eye Clinic,Urban,88,Dealer
+C00630,Kanto,Medium,Eye Clinic,Rural,62,Dealer
+C00631,Chubu,Small,Eye Clinic,Rural,43,Dealer
+C00632,Kyushu,Medium,Eye Clinic,Urban,66,Dealer
+C00633,Kansai,Medium,Hospital,Urban,74,Dealer
+C00634,Kansai,Large,Hospital,Urban,93,Dealer
+C00635,Kanto,Medium,Eye Clinic,Urban,96,Dealer
+C00636,Kansai,Small,Eye Clinic,Urban,65,Dealer
+C00637,Kansai,Medium,Hospital,Urban,96,Dealer
+C00638,Kanto,Medium,Eye Clinic,Rural,71,Dealer
+C00639,Kanto,Medium,Hospital,Urban,95,Dealer
+C00640,Kanto,Small,Eye Clinic,Rural,26,Dealer
+C00641,Kanto,Small,Eye Clinic,Urban,61,Direct
+C00642,Kanto,Small,Eye Clinic,Rural,67,Direct
+C00643,Kanto,Small,Eye Clinic,Urban,58,Dealer
+C00644,Kanto,Small,Optical Shop,Urban,82,Direct
+C00645,Kanto,Small,Optical Shop,Urban,79,Dealer
+C00646,Kyushu,Large,Hospital,Rural,81,Dealer
+C00647,Kansai,Medium,Eye Clinic,Urban,71,Dealer
+C00648,Chubu,Small,Eye Clinic,Urban,54,Direct
+C00649,Kyushu,Medium,Hospital,Rural,68,Dealer
+C00650,Kansai,Small,Optical Shop,Rural,42,Direct
+C00651,Kanto,Small,Eye Clinic,Urban,68,Direct
+C00652,Kansai,Small,Eye Clinic,Urban,49,Dealer
+C00653,Kansai,Medium,Hospital,Urban,90,Dealer
+C00654,Chubu,Medium,Eye Clinic,Urban,82,Dealer
+C00655,Kansai,Medium,Eye Clinic,Rural,49,Dealer
+C00656,Kanto,Medium,Eye Clinic,Urban,91,Dealer
+C00657,Kanto,Medium,Eye Clinic,Rural,71,Dealer
+C00658,Kanto,Small,Optical Shop,Urban,71,Dealer
+C00659,Chubu,Small,Optical Shop,Rural,46,Dealer
+C00660,Kansai,Medium,Eye Clinic,Urban,82,Dealer
+C00661,Kanto,Small,Eye Clinic,Urban,75,Dealer
+C00662,Hokkaido,Medium,Eye Clinic,Urban,75,Dealer
+C00663,Kansai,Medium,Eye Clinic,Rural,86,Dealer
+C00664,Kanto,Medium,Eye Clinic,Urban,76,Dealer
+C00665,Kanto,Medium,Hospital,Urban,95,Direct
+C00666,Kanto,Small,Eye Clinic,Urban,67,Dealer
+C00667,Kanto,Medium,Eye Clinic,Urban,82,Dealer
+C00668,Kanto,Medium,Eye Clinic,Urban,59,Direct
+C00669,Kanto,Large,Eye Clinic,Urban,92,Dealer
+C00670,Kanto,Small,Eye Clinic,Urban,57,Dealer
+C00671,Kanto,Medium,Eye Clinic,Rural,58,Dealer
+C00672,Kyushu,Small,Optical Shop,Rural,71,Direct
+C00673,Kanto,Large,Eye Clinic,Rural,76,Direct
+C00674,Kansai,Medium,Eye Clinic,Urban,66,Dealer
+C00675,Kansai,Small,Optical Shop,Rural,50,Dealer
+C00676,Hokkaido,Small,Optical Shop,Urban,51,Direct
+C00677,Kanto,Medium,Eye Clinic,Urban,90,Dealer
+C00678,Kansai,Medium,Optical Shop,Rural,59,Dealer
+C00679,Hokkaido,Small,Eye Clinic,Rural,59,Dealer
+C00680,Kyushu,Small,Eye Clinic,Urban,78,Dealer
+C00681,Kyushu,Large,Eye Clinic,Rural,73,Dealer
+C00682,Kanto,Large,Hospital,Rural,91,Dealer
+C00683,Kanto,Large,Hospital,Urban,86,Dealer
+C00684,Chubu,Small,Eye Clinic,Urban,88,Dealer
+C00685,Hokkaido,Small,Eye Clinic,Rural,63,Dealer
+C00686,Kansai,Large,Hospital,Rural,84,Dealer
+C00687,Kansai,Medium,Eye Clinic,Urban,68,Dealer
+C00688,Kanto,Small,Eye Clinic,Urban,63,Dealer
+C00689,Chubu,Medium,Hospital,Urban,81,Direct
+C00690,Kanto,Large,Hospital,Urban,100,Dealer
+C00691,Kanto,Small,Optical Shop,Urban,52,Dealer
+C00692,Kansai,Medium,Optical Shop,Urban,77,Dealer
+C00693,Kansai,Small,Eye Clinic,Urban,64,Dealer
+C00694,Kanto,Large,Hospital,Urban,95,Dealer
+C00695,Kanto,Large,Hospital,Urban,95,Dealer
+C00696,Kansai,Medium,Eye Clinic,Urban,75,Dealer
+C00697,Kanto,Small,Eye Clinic,Rural,63,Direct
+C00698,Kansai,Medium,Eye Clinic,Urban,82,Dealer
+C00699,Kanto,Small,Eye Clinic,Urban,68,Dealer
+C00700,Kansai,Medium,Hospital,Rural,44,Dealer
+C00701,Kansai,Medium,Optical Shop,Urban,79,Dealer
+C00702,Kanto,Medium,Eye Clinic,Urban,59,Dealer
+C00703,Kanto,Medium,Eye Clinic,Urban,82,Dealer
+C00704,Kanto,Small,Optical Shop,Urban,79,Dealer
+C00705,Kanto,Small,Eye Clinic,Rural,45,Dealer
+C00706,Hokkaido,Small,Eye Clinic,Rural,51,Dealer
+C00707,Kanto,Medium,Eye Clinic,Urban,70,Dealer
+C00708,Kyushu,Medium,Eye Clinic,Urban,88,Direct
+C00709,Kanto,Medium,Eye Clinic,Urban,77,Dealer
+C00710,Chubu,Medium,Eye Clinic,Urban,93,Dealer
+C00711,Chubu,Small,Eye Clinic,Urban,68,Dealer
+C00712,Kansai,Small,Eye Clinic,Urban,66,Direct
+C00713,Kansai,Small,Eye Clinic,Urban,65,Direct
+C00714,Kansai,Small,Eye Clinic,Urban,72,Dealer
+C00715,Kanto,Medium,Hospital,Rural,57,Direct
+C00716,Hokkaido,Medium,Optical Shop,Urban,77,Dealer
+C00717,Kyushu,Small,Eye Clinic,Urban,63,Direct
+C00718,Hokkaido,Large,Eye Clinic,Rural,85,Dealer
+C00719,Kanto,Large,Hospital,Urban,94,Dealer
+C00720,Chubu,Large,Eye Clinic,Urban,78,Dealer
+C00721,Hokkaido,Medium,Eye Clinic,Urban,76,Dealer
+C00722,Kanto,Large,Hospital,Urban,85,Dealer
+C00723,Kanto,Small,Optical Shop,Urban,45,Dealer
+C00724,Chubu,Medium,Optical Shop,Rural,73,Dealer
+C00725,Kansai,Large,Eye Clinic,Urban,94,Dealer
+C00726,Kyushu,Medium,Hospital,Urban,89,Dealer
+C00727,Kanto,Small,Eye Clinic,Urban,77,Direct
+C00728,Kyushu,Large,Hospital,Rural,79,Direct
+C00729,Kanto,Large,Eye Clinic,Urban,74,Direct
+C00730,Kanto,Medium,Eye Clinic,Urban,75,Dealer
+C00731,Kanto,Large,Hospital,Urban,93,Dealer
+C00732,Kyushu,Small,Eye Clinic,Rural,46,Dealer
+C00733,Chubu,Small,Eye Clinic,Urban,63,Dealer
+C00734,Kansai,Medium,Optical Shop,Urban,70,Dealer
+C00735,Kanto,Small,Eye Clinic,Urban,46,Dealer
+C00736,Kyushu,Medium,Eye Clinic,Urban,72,Direct
+C00737,Kansai,Large,Eye Clinic,Urban,77,Dealer
+C00738,Kyushu,Small,Optical Shop,Rural,56,Direct
+C00739,Kansai,Large,Hospital,Urban,89,Dealer
+C00740,Kanto,Small,Eye Clinic,Urban,75,Dealer
+C00741,Kansai,Large,Hospital,Urban,100,Dealer
+C00742,Kanto,Small,Eye Clinic,Rural,61,Dealer
+C00743,Chubu,Medium,Optical Shop,Urban,60,Direct
+C00744,Kansai,Small,Eye Clinic,Urban,79,Dealer
+C00745,Kanto,Small,Eye Clinic,Urban,80,Dealer
+C00746,Kyushu,Small,Optical Shop,Rural,54,Dealer
+C00747,Kansai,Small,Eye Clinic,Urban,77,Dealer
+C00748,Kansai,Medium,Eye Clinic,Urban,70,Dealer
+C00749,Hokkaido,Small,Eye Clinic,Urban,45,Dealer
+C00750,Chubu,Small,Optical Shop,Rural,46,Dealer
+C00751,Kanto,Small,Eye Clinic,Urban,81,Dealer
+C00752,Hokkaido,Medium,Eye Clinic,Rural,51,Dealer
+C00753,Chubu,Small,Eye Clinic,Rural,54,Direct
+C00754,Kanto,Small,Eye Clinic,Rural,54,Dealer
+C00755,Kanto,Small,Eye Clinic,Urban,59,Dealer
+C00756,Kyushu,Large,Hospital,Rural,82,Dealer
+C00757,Chubu,Small,Optical Shop,Urban,65,Dealer
+C00758,Kansai,Large,Eye Clinic,Urban,82,Dealer
+C00759,Kyushu,Large,Eye Clinic,Rural,64,Dealer
+C00760,Kyushu,Small,Eye Clinic,Urban,66,Direct
+C00761,Kanto,Medium,Eye Clinic,Urban,87,Dealer
+C00762,Kanto,Small,Optical Shop,Urban,73,Dealer
+C00763,Kanto,Small,Eye Clinic,Urban,56,Dealer
+C00764,Chubu,Medium,Eye Clinic,Urban,63,Dealer
+C00765,Kanto,Large,Hospital,Urban,93,Dealer
+C00766,Kansai,Medium,Eye Clinic,Rural,82,Dealer
+C00767,Chubu,Medium,Hospital,Rural,80,Dealer
+C00768,Kyushu,Small,Eye Clinic,Urban,71,Dealer
+C00769,Kanto,Small,Optical Shop,Rural,63,Direct
+C00770,Kyushu,Medium,Optical Shop,Urban,80,Dealer
+C00771,Kanto,Large,Hospital,Urban,97,Direct
+C00772,Kyushu,Medium,Optical Shop,Urban,83,Direct
+C00773,Kanto,Small,Eye Clinic,Urban,59,Direct
+C00774,Kansai,Small,Eye Clinic,Urban,50,Dealer
+C00775,Kyushu,Medium,Hospital,Urban,91,Direct
+C00776,Kanto,Small,Eye Clinic,Urban,76,Dealer
+C00777,Kanto,Small,Eye Clinic,Urban,53,Dealer
+C00778,Chubu,Medium,Eye Clinic,Rural,74,Dealer
+C00779,Chubu,Large,Eye Clinic,Rural,95,Dealer
+C00780,Chubu,Medium,Eye Clinic,Rural,66,Direct
+C00781,Chubu,Small,Eye Clinic,Urban,56,Dealer
+C00782,Kansai,Medium,Hospital,Urban,85,Dealer
+C00783,Kanto,Large,Eye Clinic,Rural,72,Dealer
+C00784,Kanto,Small,Eye Clinic,Urban,58,Direct
+C00785,Kanto,Large,Eye Clinic,Rural,82,Dealer
+C00786,Hokkaido,Small,Eye Clinic,Urban,48,Dealer
+C00787,Kansai,Small,Optical Shop,Rural,40,Dealer
+C00788,Kansai,Large,Eye Clinic,Urban,88,Dealer
+C00789,Kansai,Small,Eye Clinic,Urban,64,Dealer
+C00790,Hokkaido,Small,Optical Shop,Rural,57,Dealer
+C00791,Kanto,Medium,Eye Clinic,Urban,95,Direct
+C00792,Kansai,Small,Eye Clinic,Urban,65,Dealer
+C00793,Kansai,Small,Eye Clinic,Urban,70,Dealer
+C00794,Kansai,Small,Optical Shop,Urban,54,Dealer
+C00795,Kanto,Medium,Eye Clinic,Urban,84,Direct
+C00796,Kyushu,Small,Eye Clinic,Urban,59,Direct
+C00797,Hokkaido,Large,Eye Clinic,Urban,89,Dealer
+C00798,Kansai,Small,Eye Clinic,Urban,63,Direct
+C00799,Chubu,Small,Eye Clinic,Rural,64,Dealer
+C00800,Hokkaido,Small,Eye Clinic,Urban,51,Dealer
+C00801,Chubu,Small,Eye Clinic,Urban,41,Dealer
+C00802,Kanto,Small,Optical Shop,Urban,62,Dealer
+C00803,Kansai,Medium,Optical Shop,Urban,81,Dealer
+C00804,Kansai,Small,Eye Clinic,Urban,66,Dealer
+C00805,Kansai,Small,Optical Shop,Urban,76,Direct
+C00806,Chubu,Small,Eye Clinic,Urban,68,Dealer
+C00807,Hokkaido,Medium,Eye Clinic,Rural,60,Dealer
+C00808,Hokkaido,Large,Hospital,Urban,73,Dealer
+C00809,Kansai,Small,Optical Shop,Urban,62,Dealer
+C00810,Kanto,Small,Optical Shop,Urban,74,Direct
+C00811,Hokkaido,Small,Eye Clinic,Urban,60,Dealer
+C00812,Kyushu,Small,Optical Shop,Urban,64,Direct
+C00813,Kanto,Small,Eye Clinic,Urban,68,Dealer
+C00814,Hokkaido,Small,Optical Shop,Rural,44,Dealer
+C00815,Kyushu,Small,Optical Shop,Rural,60,Dealer
+C00816,Kansai,Medium,Eye Clinic,Urban,92,Dealer
+C00817,Kansai,Medium,Hospital,Urban,82,Dealer
+C00818,Kansai,Large,Eye Clinic,Urban,77,Dealer
+C00819,Kanto,Large,Eye Clinic,Urban,87,Dealer
+C00820,Kanto,Medium,Eye Clinic,Rural,44,Dealer
+C00821,Kyushu,Small,Eye Clinic,Rural,57,Dealer
+C00822,Kanto,Small,Optical Shop,Urban,69,Dealer
+C00823,Kanto,Large,Hospital,Urban,100,Dealer
+C00824,Kansai,Medium,Eye Clinic,Urban,74,Dealer
+C00825,Kansai,Small,Optical Shop,Rural,58,Dealer
+C00826,Hokkaido,Medium,Optical Shop,Urban,67,Dealer
+C00827,Kanto,Large,Eye Clinic,Urban,84,Direct
+C00828,Kanto,Small,Optical Shop,Urban,49,Direct
+C00829,Chubu,Medium,Eye Clinic,Rural,64,Dealer
+C00830,Kansai,Small,Optical Shop,Urban,61,Dealer
+C00831,Kanto,Small,Eye Clinic,Rural,57,Dealer
+C00832,Kansai,Small,Eye Clinic,Urban,58,Dealer
+C00833,Kanto,Small,Eye Clinic,Rural,55,Direct
+C00834,Kanto,Large,Hospital,Urban,93,Direct
+C00835,Kansai,Small,Eye Clinic,Urban,61,Direct
+C00836,Kansai,Small,Eye Clinic,Urban,65,Dealer
+C00837,Hokkaido,Medium,Eye Clinic,Urban,76,Direct
+C00838,Kanto,Small,Optical Shop,Urban,72,Dealer
+C00839,Kansai,Small,Eye Clinic,Rural,53,Direct
+C00840,Chubu,Large,Eye Clinic,Urban,85,Dealer
+C00841,Kanto,Medium,Eye Clinic,Urban,74,Dealer
+C00842,Chubu,Small,Eye Clinic,Urban,57,Dealer
+C00843,Kanto,Small,Optical Shop,Urban,60,Dealer
+C00844,Hokkaido,Small,Optical Shop,Rural,74,Dealer
+C00845,Kanto,Medium,Eye Clinic,Urban,67,Direct
+C00846,Kansai,Medium,Eye Clinic,Rural,63,Dealer
+C00847,Kanto,Medium,Optical Shop,Rural,62,Dealer
+C00848,Hokkaido,Small,Eye Clinic,Urban,62,Dealer
+C00849,Kansai,Small,Optical Shop,Urban,61,Dealer
+C00850,Kansai,Medium,Hospital,Rural,77,Direct
+C00851,Kanto,Small,Optical Shop,Urban,47,Dealer
+C00852,Chubu,Medium,Eye Clinic,Urban,86,Dealer
+C00853,Kanto,Medium,Eye Clinic,Urban,82,Direct
+C00854,Kyushu,Small,Optical Shop,Urban,52,Direct
+C00855,Kanto,Small,Eye Clinic,Urban,41,Dealer
+C00856,Kanto,Large,Hospital,Urban,86,Dealer
+C00857,Kanto,Small,Eye Clinic,Urban,62,Dealer
+C00858,Kansai,Medium,Hospital,Rural,100,Dealer
+C00859,Kansai,Small,Eye Clinic,Urban,69,Dealer
+C00860,Kanto,Small,Eye Clinic,Urban,46,Direct
+C00861,Kyushu,Small,Eye Clinic,Rural,47,Dealer
+C00862,Kansai,Medium,Hospital,Urban,83,Dealer
+C00863,Kansai,Small,Optical Shop,Urban,67,Dealer
+C00864,Kansai,Medium,Eye Clinic,Urban,63,Dealer
+C00865,Kansai,Small,Eye Clinic,Urban,63,Direct
+C00866,Kansai,Large,Hospital,Urban,89,Dealer
+C00867,Kanto,Small,Eye Clinic,Urban,53,Dealer
+C00868,Kanto,Small,Eye Clinic,Rural,57,Dealer
+C00869,Kyushu,Small,Eye Clinic,Urban,72,Dealer
+C00870,Hokkaido,Small,Eye Clinic,Rural,62,Direct
+C00871,Kanto,Medium,Eye Clinic,Rural,72,Dealer
+C00872,Kanto,Small,Eye Clinic,Urban,59,Dealer
+C00873,Chubu,Large,Eye Clinic,Rural,85,Dealer
+C00874,Kansai,Large,Eye Clinic,Urban,91,Dealer
+C00875,Kanto,Medium,Eye Clinic,Rural,67,Dealer
+C00876,Kanto,Medium,Eye Clinic,Urban,70,Dealer
+C00877,Chubu,Medium,Eye Clinic,Rural,61,Direct
+C00878,Chubu,Small,Optical Shop,Urban,65,Dealer
+C00879,Kanto,Medium,Eye Clinic,Urban,100,Dealer
+C00880,Kanto,Small,Eye Clinic,Urban,67,Direct
+C00881,Kanto,Small,Eye Clinic,Urban,58,Direct
+C00882,Chubu,Small,Eye Clinic,Rural,46,Direct
+C00883,Kanto,Medium,Eye Clinic,Urban,71,Direct
+C00884,Kanto,Large,Eye Clinic,Urban,100,Dealer
+C00885,Kyushu,Small,Optical Shop,Urban,60,Dealer
+C00886,Kanto,Medium,Eye Clinic,Urban,85,Dealer
+C00887,Chubu,Small,Optical Shop,Urban,60,Dealer
+C00888,Kanto,Small,Eye Clinic,Rural,57,Direct
+C00889,Kanto,Small,Eye Clinic,Rural,62,Dealer
+C00890,Kanto,Small,Eye Clinic,Urban,58,Dealer
+C00891,Chubu,Small,Eye Clinic,Urban,58,Direct
+C00892,Kyushu,Medium,Eye Clinic,Urban,93,Dealer
+C00893,Kyushu,Large,Hospital,Rural,96,Dealer
+C00894,Kansai,Small,Eye Clinic,Urban,72,Dealer
+C00895,Chubu,Small,Optical Shop,Rural,62,Dealer
+C00896,Kanto,Medium,Optical Shop,Urban,81,Dealer
+C00897,Kanto,Medium,Eye Clinic,Urban,96,Direct
+C00898,Kyushu,Small,Eye Clinic,Rural,54,Dealer
+C00899,Kanto,Small,Eye Clinic,Urban,70,Direct
+C00900,Kanto,Large,Eye Clinic,Urban,73,Dealer
+C00901,Kanto,Medium,Eye Clinic,Urban,68,Dealer
+C00902,Kanto,Small,Eye Clinic,Urban,52,Dealer
+C00903,Kanto,Small,Eye Clinic,Rural,67,Dealer
+C00904,Kansai,Medium,Eye Clinic,Urban,50,Direct
+C00905,Kansai,Small,Optical Shop,Rural,50,Dealer
+C00906,Kyushu,Large,Hospital,Urban,66,Direct
+C00907,Kyushu,Small,Optical Shop,Urban,56,Direct
+C00908,Kanto,Medium,Eye Clinic,Urban,71,Direct
+C00909,Kanto,Small,Eye Clinic,Urban,78,Dealer
+C00910,Kanto,Small,Eye Clinic,Urban,68,Direct
+C00911,Kansai,Large,Eye Clinic,Urban,80,Dealer
+C00912,Kanto,Small,Eye Clinic,Urban,75,Dealer
+C00913,Chubu,Large,Hospital,Urban,96,Dealer
+C00914,Kansai,Medium,Hospital,Urban,84,Direct
+C00915,Kansai,Small,Eye Clinic,Urban,52,Dealer
+C00916,Kansai,Small,Eye Clinic,Urban,54,Dealer
+C00917,Kanto,Medium,Eye Clinic,Rural,58,Dealer
+C00918,Hokkaido,Small,Eye Clinic,Urban,64,Dealer
+C00919,Chubu,Small,Eye Clinic,Rural,55,Dealer
+C00920,Kanto,Small,Eye Clinic,Urban,79,Direct
+C00921,Kyushu,Medium,Eye Clinic,Rural,70,Dealer
+C00922,Kansai,Medium,Optical Shop,Urban,49,Direct
+C00923,Kyushu,Small,Eye Clinic,Rural,57,Dealer
+C00924,Kyushu,Medium,Hospital,Urban,69,Direct
+C00925,Kansai,Large,Eye Clinic,Rural,68,Dealer
+C00926,Kanto,Small,Eye Clinic,Urban,56,Dealer
+C00927,Kanto,Large,Eye Clinic,Urban,81,Dealer
+C00928,Kansai,Large,Eye Clinic,Urban,74,Dealer
+C00929,Chubu,Medium,Eye Clinic,Urban,78,Direct
+C00930,Kanto,Small,Optical Shop,Urban,50,Dealer
+C00931,Kanto,Large,Hospital,Urban,100,Direct
+C00932,Kyushu,Medium,Eye Clinic,Rural,88,Dealer
+C00933,Hokkaido,Medium,Eye Clinic,Rural,53,Dealer
+C00934,Kansai,Small,Optical Shop,Urban,61,Dealer
+C00935,Kanto,Small,Eye Clinic,Rural,29,Dealer
+C00936,Kanto,Small,Eye Clinic,Urban,61,Dealer
+C00937,Kanto,Medium,Eye Clinic,Urban,82,Dealer
+C00938,Hokkaido,Small,Optical Shop,Rural,61,Direct
+C00939,Kanto,Small,Optical Shop,Rural,55,Dealer
+C00940,Kansai,Small,Eye Clinic,Urban,73,Dealer
+C00941,Kanto,Small,Optical Shop,Urban,89,Dealer
+C00942,Kansai,Small,Optical Shop,Urban,81,Dealer
+C00943,Chubu,Large,Eye Clinic,Urban,83,Direct
+C00944,Kyushu,Small,Eye Clinic,Urban,49,Direct
+C00945,Kanto,Small,Eye Clinic,Urban,60,Dealer
+C00946,Kanto,Small,Optical Shop,Rural,45,Direct
+C00947,Kanto,Medium,Eye Clinic,Rural,71,Dealer
+C00948,Hokkaido,Medium,Optical Shop,Urban,64,Dealer
+C00949,Kyushu,Large,Eye Clinic,Urban,87,Dealer
+C00950,Kansai,Medium,Hospital,Rural,82,Direct
+C00951,Kansai,Large,Eye Clinic,Urban,87,Dealer
+C00952,Chubu,Small,Eye Clinic,Rural,45,Dealer
+C00953,Kanto,Small,Optical Shop,Urban,76,Dealer
+C00954,Hokkaido,Small,Optical Shop,Urban,45,Dealer
+C00955,Kansai,Medium,Optical Shop,Rural,63,Direct
+C00956,Kansai,Medium,Eye Clinic,Urban,76,Dealer
+C00957,Kansai,Large,Hospital,Urban,96,Dealer
+C00958,Kanto,Medium,Eye Clinic,Urban,78,Dealer
+C00959,Kanto,Small,Eye Clinic,Rural,60,Dealer
+C00960,Chubu,Small,Eye Clinic,Rural,54,Dealer
+C00961,Kanto,Large,Eye Clinic,Urban,84,Dealer
+C00962,Kansai,Small,Eye Clinic,Urban,60,Dealer
+C00963,Kanto,Small,Optical Shop,Urban,58,Dealer
+C00964,Kansai,Small,Eye Clinic,Urban,72,Dealer
+C00965,Kanto,Large,Hospital,Urban,90,Dealer
+C00966,Kanto,Small,Eye Clinic,Urban,72,Dealer
+C00967,Chubu,Small,Eye Clinic,Urban,64,Dealer
+C00968,Kanto,Small,Eye Clinic,Urban,59,Dealer
+C00969,Kansai,Small,Optical Shop,Urban,70,Dealer
+C00970,Kansai,Medium,Optical Shop,Rural,59,Dealer
+C00971,Chubu,Medium,Optical Shop,Urban,82,Direct
+C00972,Hokkaido,Small,Optical Shop,Urban,66,Dealer
+C00973,Chubu,Small,Eye Clinic,Rural,48,Direct
+C00974,Kanto,Large,Eye Clinic,Urban,93,Direct
+C00975,Kanto,Large,Hospital,Urban,100,Dealer
+C00976,Kanto,Small,Eye Clinic,Urban,76,Dealer
+C00977,Kansai,Large,Eye Clinic,Urban,98,Dealer
+C00978,Kanto,Medium,Eye Clinic,Urban,81,Dealer
+C00979,Kansai,Medium,Eye Clinic,Urban,65,Direct
+C00980,Kansai,Medium,Eye Clinic,Rural,90,Dealer
+C00981,Kanto,Small,Eye Clinic,Urban,50,Dealer
+C00982,Kyushu,Small,Eye Clinic,Urban,73,Dealer
+C00983,Kanto,Medium,Eye Clinic,Urban,80,Direct
+C00984,Kanto,Small,Eye Clinic,Urban,52,Dealer
+C00985,Chubu,Small,Eye Clinic,Urban,63,Dealer
+C00986,Kansai,Large,Hospital,Urban,95,Dealer
+C00987,Chubu,Medium,Eye Clinic,Urban,89,Dealer
+C00988,Kansai,Small,Eye Clinic,Urban,57,Dealer
+C00989,Kanto,Medium,Optical Shop,Urban,73,Dealer
+C00990,Kyushu,Medium,Eye Clinic,Urban,53,Dealer
+C00991,Kyushu,Medium,Eye Clinic,Rural,83,Dealer
+C00992,Chubu,Medium,Hospital,Urban,73,Dealer
+C00993,Kanto,Small,Eye Clinic,Urban,67,Dealer
+C00994,Kansai,Small,Optical Shop,Urban,63,Dealer
+C00995,Kanto,Medium,Hospital,Urban,83,Dealer
+C00996,Kanto,Medium,Hospital,Urban,92,Dealer
+C00997,Hokkaido,Small,Eye Clinic,Urban,81,Dealer
+C00998,Kanto,Small,Eye Clinic,Urban,67,Dealer
+C00999,Hokkaido,Large,Eye Clinic,Urban,95,Dealer
+C01000,Kansai,Small,Eye Clinic,Rural,57,Dealer
+C01001,Kanto,Medium,Eye Clinic,Urban,86,Dealer
+C01002,Kansai,Medium,Eye Clinic,Rural,61,Dealer
+C01003,Kyushu,Small,Eye Clinic,Rural,65,Dealer
+C01004,Chubu,Large,Eye Clinic,Urban,99,Dealer
+C01005,Kyushu,Medium,Eye Clinic,Urban,87,Dealer
+C01006,Chubu,Small,Eye Clinic,Rural,47,Direct
+C01007,Chubu,Large,Hospital,Rural,84,Dealer
+C01008,Kyushu,Small,Eye Clinic,Urban,66,Dealer
+C01009,Kanto,Medium,Eye Clinic,Urban,62,Direct
+C01010,Kansai,Small,Optical Shop,Urban,80,Dealer
+C01011,Kanto,Medium,Eye Clinic,Urban,76,Direct
+C01012,Hokkaido,Small,Eye Clinic,Urban,67,Dealer
+C01013,Hokkaido,Medium,Eye Clinic,Rural,60,Dealer
+C01014,Kanto,Medium,Hospital,Urban,71,Dealer
+C01015,Chubu,Medium,Eye Clinic,Rural,60,Dealer
+C01016,Hokkaido,Medium,Eye Clinic,Rural,68,Dealer
+C01017,Kanto,Small,Eye Clinic,Urban,71,Dealer
+C01018,Kansai,Small,Optical Shop,Urban,66,Dealer
+C01019,Hokkaido,Small,Eye Clinic,Rural,57,Direct
+C01020,Kanto,Large,Eye Clinic,Rural,75,Dealer
+C01021,Chubu,Small,Optical Shop,Rural,59,Dealer
+C01022,Kanto,Medium,Eye Clinic,Urban,91,Dealer
+C01023,Hokkaido,Medium,Optical Shop,Urban,83,Dealer
+C01024,Hokkaido,Small,Eye Clinic,Urban,72,Dealer
+C01025,Hokkaido,Small,Optical Shop,Urban,67,Dealer
+C01026,Kansai,Small,Eye Clinic,Urban,49,Dealer
+C01027,Kyushu,Large,Hospital,Urban,86,Dealer
+C01028,Kyushu,Small,Optical Shop,Rural,59,Direct
+C01029,Kanto,Medium,Eye Clinic,Urban,76,Dealer
+C01030,Kyushu,Medium,Eye Clinic,Rural,70,Dealer
+C01031,Kanto,Small,Eye Clinic,Rural,71,Dealer
+C01032,Kansai,Medium,Eye Clinic,Urban,83,Dealer
+C01033,Kanto,Small,Eye Clinic,Rural,67,Dealer
+C01034,Kanto,Small,Eye Clinic,Urban,65,Dealer
+C01035,Kanto,Medium,Eye Clinic,Urban,68,Direct
+C01036,Chubu,Small,Eye Clinic,Rural,53,Dealer
+C01037,Kanto,Small,Eye Clinic,Rural,46,Dealer
+C01038,Chubu,Large,Hospital,Urban,100,Dealer
+C01039,Kanto,Small,Eye Clinic,Urban,72,Dealer
+C01040,Kanto,Large,Eye Clinic,Urban,93,Dealer
+C01041,Kansai,Large,Eye Clinic,Rural,90,Dealer
+C01042,Kyushu,Small,Eye Clinic,Urban,44,Dealer
+C01043,Kanto,Small,Eye Clinic,Rural,60,Dealer
+C01044,Chubu,Medium,Eye Clinic,Urban,63,Dealer
+C01045,Kyushu,Small,Eye Clinic,Urban,64,Dealer
+C01046,Kansai,Small,Optical Shop,Urban,61,Dealer
+C01047,Kanto,Medium,Eye Clinic,Urban,83,Dealer
+C01048,Kanto,Medium,Hospital,Rural,76,Dealer
+C01049,Kyushu,Large,Hospital,Urban,100,Dealer
+C01050,Kanto,Small,Optical Shop,Rural,48,Dealer
+C01051,Kyushu,Small,Optical Shop,Urban,71,Dealer
+C01052,Kansai,Small,Eye Clinic,Urban,66,Dealer
+C01053,Hokkaido,Large,Eye Clinic,Rural,62,Direct
+C01054,Kyushu,Small,Optical Shop,Rural,45,Dealer
+C01055,Hokkaido,Medium,Eye Clinic,Rural,65,Direct
+C01056,Kanto,Small,Eye Clinic,Urban,75,Dealer
+C01057,Chubu,Medium,Hospital,Rural,79,Dealer
+C01058,Kansai,Medium,Hospital,Rural,62,Dealer
+C01059,Kansai,Small,Optical Shop,Urban,63,Dealer
+C01060,Chubu,Small,Optical Shop,Rural,74,Direct
+C01061,Kyushu,Large,Hospital,Urban,97,Dealer
+C01062,Hokkaido,Small,Eye Clinic,Urban,61,Dealer
+C01063,Chubu,Medium,Optical Shop,Rural,71,Dealer
+C01064,Kansai,Small,Eye Clinic,Urban,72,Dealer
+C01065,Kansai,Large,Eye Clinic,Rural,73,Dealer
+C01066,Chubu,Small,Optical Shop,Urban,69,Dealer
+C01067,Kanto,Small,Eye Clinic,Urban,61,Dealer
+C01068,Kanto,Small,Eye Clinic,Urban,71,Direct
+C01069,Kanto,Small,Eye Clinic,Urban,66,Dealer
+C01070,Kanto,Small,Optical Shop,Urban,69,Dealer
+C01071,Kanto,Small,Eye Clinic,Urban,56,Dealer
+C01072,Kanto,Large,Hospital,Urban,88,Direct
+C01073,Kanto,Medium,Eye Clinic,Urban,85,Dealer
+C01074,Kanto,Small,Optical Shop,Urban,63,Dealer
+C01075,Hokkaido,Medium,Optical Shop,Rural,69,Direct
+C01076,Kansai,Small,Eye Clinic,Urban,61,Dealer
+C01077,Kansai,Medium,Eye Clinic,Urban,85,Dealer
+C01078,Chubu,Medium,Eye Clinic,Rural,60,Dealer
+C01079,Kanto,Small,Optical Shop,Urban,63,Direct
+C01080,Hokkaido,Large,Hospital,Rural,94,Direct
+C01081,Kyushu,Small,Optical Shop,Urban,76,Direct
+C01082,Kanto,Small,Eye Clinic,Urban,59,Dealer
+C01083,Kansai,Small,Optical Shop,Rural,74,Dealer
+C01084,Kyushu,Small,Optical Shop,Rural,57,Dealer
+C01085,Hokkaido,Large,Hospital,Rural,76,Direct
+C01086,Kansai,Small,Optical Shop,Urban,68,Direct
+C01087,Kansai,Large,Eye Clinic,Urban,84,Dealer
+C01088,Kanto,Medium,Eye Clinic,Urban,80,Dealer
+C01089,Hokkaido,Medium,Hospital,Rural,74,Dealer
+C01090,Kanto,Large,Hospital,Urban,97,Dealer
+C01091,Hokkaido,Large,Eye Clinic,Urban,79,Dealer
+C01092,Chubu,Small,Eye Clinic,Rural,64,Dealer
+C01093,Kansai,Medium,Eye Clinic,Urban,64,Dealer
+C01094,Kansai,Large,Eye Clinic,Urban,77,Dealer
+C01095,Kanto,Medium,Eye Clinic,Rural,70,Direct
+C01096,Kanto,Large,Hospital,Urban,100,Direct
+C01097,Kanto,Medium,Hospital,Urban,80,Direct
+C01098,Kanto,Small,Eye Clinic,Urban,71,Dealer
+C01099,Kyushu,Small,Eye Clinic,Urban,75,Dealer
+C01100,Kanto,Medium,Eye Clinic,Urban,84,Dealer
+C01101,Kanto,Medium,Eye Clinic,Urban,73,Direct
+C01102,Hokkaido,Medium,Optical Shop,Rural,55,Dealer
+C01103,Kyushu,Small,Optical Shop,Rural,32,Dealer
+C01104,Hokkaido,Small,Eye Clinic,Rural,51,Dealer
+C01105,Hokkaido,Medium,Optical Shop,Urban,88,Direct
+C01106,Kanto,Small,Optical Shop,Urban,53,Dealer
+C01107,Kansai,Small,Optical Shop,Urban,71,Dealer
+C01108,Chubu,Small,Eye Clinic,Urban,54,Dealer
+C01109,Chubu,Medium,Optical Shop,Urban,77,Direct
+C01110,Kanto,Medium,Eye Clinic,Urban,83,Dealer
+C01111,Kyushu,Small,Eye Clinic,Rural,47,Dealer
+C01112,Kanto,Small,Eye Clinic,Urban,66,Dealer
+C01113,Kanto,Large,Eye Clinic,Urban,84,Dealer
+C01114,Kansai,Medium,Eye Clinic,Rural,73,Dealer
+C01115,Kansai,Small,Eye Clinic,Urban,66,Dealer
+C01116,Kansai,Small,Eye Clinic,Urban,65,Dealer
+C01117,Kanto,Medium,Optical Shop,Urban,92,Direct
+C01118,Kyushu,Small,Optical Shop,Urban,71,Dealer
+C01119,Kanto,Small,Eye Clinic,Rural,47,Dealer
+C01120,Kanto,Small,Optical Shop,Urban,63,Dealer
+C01121,Kyushu,Small,Optical Shop,Urban,63,Dealer
+C01122,Hokkaido,Small,Optical Shop,Urban,65,Direct
+C01123,Kyushu,Small,Eye Clinic,Urban,89,Dealer
+C01124,Kyushu,Large,Hospital,Urban,100,Dealer
+C01125,Chubu,Small,Optical Shop,Urban,44,Dealer
+C01126,Kansai,Medium,Hospital,Urban,79,Dealer
+C01127,Kanto,Small,Eye Clinic,Urban,45,Dealer
+C01128,Kansai,Large,Eye Clinic,Urban,85,Dealer
+C01129,Kanto,Large,Hospital,Urban,76,Direct
+C01130,Kanto,Small,Eye Clinic,Urban,55,Dealer
+C01131,Chubu,Medium,Eye Clinic,Rural,51,Dealer
+C01132,Kansai,Medium,Eye Clinic,Rural,70,Dealer
+C01133,Kanto,Medium,Optical Shop,Urban,76,Direct
+C01134,Kanto,Small,Optical Shop,Rural,57,Dealer
+C01135,Chubu,Medium,Eye Clinic,Urban,75,Dealer
+C01136,Kanto,Small,Optical Shop,Urban,50,Dealer
+C01137,Kyushu,Small,Eye Clinic,Rural,59,Direct
+C01138,Kansai,Large,Hospital,Urban,100,Dealer
+C01139,Kansai,Small,Optical Shop,Urban,68,Dealer
+C01140,Kansai,Small,Optical Shop,Urban,60,Dealer
+C01141,Kyushu,Small,Optical Shop,Rural,40,Direct
+C01142,Kanto,Medium,Eye Clinic,Rural,57,Dealer
+C01143,Chubu,Small,Optical Shop,Urban,69,Direct
+C01144,Kansai,Small,Eye Clinic,Urban,75,Dealer
+C01145,Kanto,Large,Hospital,Urban,99,Dealer
+C01146,Kyushu,Medium,Hospital,Urban,92,Dealer
+C01147,Kyushu,Medium,Hospital,Urban,91,Dealer
+C01148,Chubu,Large,Eye Clinic,Urban,93,Dealer
+C01149,Kyushu,Small,Optical Shop,Urban,57,Dealer
+C01150,Kyushu,Small,Eye Clinic,Rural,56,Dealer
+C01151,Chubu,Medium,Eye Clinic,Urban,68,Dealer
+C01152,Kyushu,Large,Hospital,Urban,96,Dealer
+C01153,Chubu,Small,Eye Clinic,Urban,67,Dealer
+C01154,Chubu,Medium,Optical Shop,Urban,93,Direct
+C01155,Kansai,Medium,Eye Clinic,Rural,53,Dealer
+C01156,Chubu,Small,Eye Clinic,Rural,59,Dealer
+C01157,Kanto,Medium,Optical Shop,Rural,81,Dealer
+C01158,Kyushu,Small,Eye Clinic,Rural,62,Dealer
+C01159,Kyushu,Small,Eye Clinic,Urban,72,Dealer
+C01160,Kanto,Large,Hospital,Urban,100,Direct
+C01161,Kyushu,Large,Eye Clinic,Rural,91,Direct
+C01162,Kanto,Medium,Hospital,Rural,63,Dealer
+C01163,Kanto,Small,Eye Clinic,Urban,50,Dealer
+C01164,Chubu,Small,Optical Shop,Rural,54,Dealer
+C01165,Kanto,Small,Optical Shop,Urban,42,Dealer
+C01166,Kyushu,Medium,Hospital,Urban,96,Dealer
+C01167,Kyushu,Small,Eye Clinic,Urban,76,Dealer
+C01168,Kansai,Small,Optical Shop,Rural,50,Dealer
+C01169,Kanto,Large,Hospital,Urban,92,Dealer
+C01170,Kanto,Medium,Hospital,Urban,83,Dealer
+C01171,Kansai,Medium,Eye Clinic,Urban,77,Dealer
+C01172,Hokkaido,Medium,Optical Shop,Urban,77,Dealer
+C01173,Chubu,Large,Hospital,Urban,100,Dealer
+C01174,Kanto,Small,Eye Clinic,Rural,52,Dealer
+C01175,Chubu,Medium,Eye Clinic,Urban,85,Direct
+C01176,Kansai,Small,Optical Shop,Urban,68,Direct
+C01177,Kyushu,Small,Eye Clinic,Urban,58,Dealer
+C01178,Kanto,Medium,Optical Shop,Urban,89,Dealer
+C01179,Chubu,Medium,Hospital,Urban,70,Dealer
+C01180,Kansai,Medium,Hospital,Urban,83,Dealer
+C01181,Hokkaido,Small,Eye Clinic,Urban,74,Dealer
+C01182,Kanto,Small,Eye Clinic,Urban,57,Dealer
+C01183,Chubu,Small,Optical Shop,Urban,67,Dealer
+C01184,Hokkaido,Large,Eye Clinic,Urban,93,Dealer
+C01185,Kanto,Small,Optical Shop,Rural,45,Direct
+C01186,Hokkaido,Small,Eye Clinic,Urban,63,Dealer
+C01187,Chubu,Small,Eye Clinic,Urban,62,Dealer
+C01188,Kanto,Large,Eye Clinic,Urban,82,Dealer
+C01189,Kanto,Medium,Eye Clinic,Urban,99,Dealer
+C01190,Chubu,Small,Optical Shop,Rural,46,Dealer
+C01191,Kanto,Large,Eye Clinic,Urban,98,Dealer
+C01192,Kansai,Small,Eye Clinic,Urban,60,Dealer
+C01193,Kanto,Small,Eye Clinic,Urban,53,Direct
+C01194,Chubu,Small,Eye Clinic,Rural,55,Dealer
+C01195,Kanto,Small,Eye Clinic,Urban,70,Direct
+C01196,Kyushu,Small,Optical Shop,Urban,73,Dealer
+C01197,Hokkaido,Medium,Eye Clinic,Urban,92,Dealer
+C01198,Hokkaido,Small,Eye Clinic,Rural,83,Dealer
+C01199,Chubu,Medium,Eye Clinic,Rural,69,Dealer
+C01200,Kanto,Small,Optical Shop,Urban,57,Dealer
+C01201,Chubu,Small,Eye Clinic,Urban,69,Dealer
+C01202,Kanto,Small,Eye Clinic,Urban,61,Dealer
+C01203,Kanto,Large,Hospital,Urban,100,Dealer
+C01204,Kanto,Small,Eye Clinic,Urban,51,Dealer
+C01205,Kansai,Medium,Eye Clinic,Urban,100,Dealer
+C01206,Kyushu,Small,Eye Clinic,Rural,63,Dealer
+C01207,Chubu,Small,Optical Shop,Rural,37,Dealer
+C01208,Kansai,Small,Eye Clinic,Rural,47,Dealer
+C01209,Kanto,Small,Optical Shop,Urban,72,Dealer
+C01210,Hokkaido,Medium,Hospital,Urban,96,Dealer
+C01211,Kansai,Small,Eye Clinic,Rural,41,Dealer
+C01212,Kansai,Medium,Eye Clinic,Urban,83,Direct
+C01213,Kanto,Small,Eye Clinic,Urban,45,Dealer
+C01214,Kyushu,Small,Optical Shop,Urban,63,Dealer
+C01215,Chubu,Small,Eye Clinic,Urban,75,Dealer
+C01216,Kanto,Medium,Eye Clinic,Urban,70,Dealer
+C01217,Kanto,Medium,Eye Clinic,Urban,61,Dealer
+C01218,Chubu,Small,Optical Shop,Rural,55,Dealer
+C01219,Chubu,Small,Eye Clinic,Urban,58,Dealer
+C01220,Kanto,Medium,Optical Shop,Urban,82,Dealer
+C01221,Hokkaido,Large,Eye Clinic,Urban,79,Direct
+C01222,Kanto,Small,Eye Clinic,Rural,46,Dealer
+C01223,Kansai,Small,Eye Clinic,Urban,44,Dealer
+C01224,Hokkaido,Large,Eye Clinic,Urban,90,Dealer
+C01225,Kansai,Small,Eye Clinic,Urban,62,Dealer
+C01226,Chubu,Medium,Eye Clinic,Urban,64,Dealer
+C01227,Kansai,Small,Optical Shop,Urban,66,Dealer
+C01228,Kanto,Small,Optical Shop,Urban,74,Dealer
+C01229,Hokkaido,Large,Hospital,Urban,94,Dealer
+C01230,Kansai,Medium,Eye Clinic,Urban,79,Direct
+C01231,Kyushu,Small,Eye Clinic,Rural,57,Dealer
+C01232,Kanto,Small,Eye Clinic,Urban,52,Dealer
+C01233,Kanto,Large,Hospital,Urban,100,Dealer
+C01234,Kanto,Small,Optical Shop,Urban,59,Direct
+C01235,Chubu,Small,Eye Clinic,Urban,71,Dealer
+C01236,Kanto,Medium,Eye Clinic,Urban,84,Direct
+C01237,Kyushu,Medium,Eye Clinic,Rural,65,Dealer
+C01238,Kansai,Medium,Eye Clinic,Urban,82,Dealer
+C01239,Hokkaido,Medium,Eye Clinic,Rural,68,Dealer
+C01240,Kanto,Medium,Hospital,Urban,70,Dealer
+C01241,Kyushu,Large,Hospital,Urban,93,Dealer
+C01242,Kyushu,Medium,Eye Clinic,Urban,70,Dealer
+C01243,Kyushu,Small,Eye Clinic,Urban,59,Dealer
+C01244,Kyushu,Small,Optical Shop,Rural,41,Dealer
+C01245,Chubu,Small,Eye Clinic,Rural,65,Dealer
+C01246,Chubu,Medium,Eye Clinic,Urban,92,Direct
+C01247,Kanto,Small,Eye Clinic,Urban,74,Direct
+C01248,Kanto,Medium,Eye Clinic,Urban,89,Dealer
+C01249,Hokkaido,Large,Eye Clinic,Urban,85,Direct
+C01250,Kansai,Medium,Optical Shop,Urban,70,Dealer
+C01251,Kyushu,Large,Eye Clinic,Urban,80,Dealer
+C01252,Kansai,Large,Eye Clinic,Rural,84,Dealer
+C01253,Kanto,Medium,Hospital,Urban,86,Dealer
+C01254,Kanto,Medium,Eye Clinic,Urban,75,Dealer
+C01255,Chubu,Small,Optical Shop,Urban,77,Dealer
+C01256,Kansai,Medium,Optical Shop,Urban,80,Dealer
+C01257,Kanto,Small,Eye Clinic,Rural,46,Dealer
+C01258,Kansai,Medium,Optical Shop,Rural,59,Direct
+C01259,Kanto,Medium,Eye Clinic,Rural,73,Direct
+C01260,Kansai,Medium,Optical Shop,Urban,86,Dealer
+C01261,Kanto,Small,Eye Clinic,Urban,70,Dealer
+C01262,Kyushu,Small,Optical Shop,Urban,83,Dealer
+C01263,Kanto,Medium,Optical Shop,Urban,92,Dealer
+C01264,Kansai,Small,Eye Clinic,Urban,68,Dealer
+C01265,Kanto,Medium,Eye Clinic,Urban,68,Dealer
+C01266,Kanto,Small,Optical Shop,Urban,51,Dealer
+C01267,Kansai,Small,Optical Shop,Urban,60,Dealer
+C01268,Kansai,Small,Eye Clinic,Urban,72,Direct
+C01269,Kansai,Large,Hospital,Urban,100,Direct
+C01270,Kanto,Medium,Eye Clinic,Urban,80,Dealer
+C01271,Chubu,Small,Eye Clinic,Urban,76,Dealer
+C01272,Kyushu,Small,Eye Clinic,Urban,62,Direct
+C01273,Kyushu,Small,Eye Clinic,Urban,70,Dealer
+C01274,Kanto,Small,Optical Shop,Urban,72,Dealer
+C01275,Kansai,Medium,Eye Clinic,Rural,46,Dealer
+C01276,Kanto,Medium,Optical Shop,Urban,72,Dealer
+C01277,Kanto,Medium,Eye Clinic,Urban,85,Direct
+C01278,Hokkaido,Small,Eye Clinic,Urban,67,Dealer
+C01279,Kanto,Small,Eye Clinic,Rural,42,Dealer
+C01280,Kansai,Small,Eye Clinic,Urban,40,Dealer
+C01281,Kansai,Small,Eye Clinic,Urban,60,Dealer
+C01282,Chubu,Large,Eye Clinic,Urban,87,Dealer
+C01283,Kansai,Large,Eye Clinic,Urban,79,Dealer
+C01284,Kanto,Small,Eye Clinic,Urban,65,Dealer
+C01285,Kanto,Medium,Eye Clinic,Urban,81,Dealer
+C01286,Kansai,Medium,Eye Clinic,Rural,73,Dealer
+C01287,Kanto,Small,Optical Shop,Rural,30,Dealer
+C01288,Kanto,Small,Optical Shop,Urban,51,Dealer
+C01289,Kanto,Small,Eye Clinic,Urban,61,Dealer
+C01290,Kanto,Medium,Eye Clinic,Urban,82,Dealer
+C01291,Kansai,Large,Eye Clinic,Rural,83,Dealer
+C01292,Kanto,Small,Optical Shop,Urban,69,Dealer
+C01293,Kansai,Small,Eye Clinic,Rural,50,Direct
+C01294,Chubu,Small,Eye Clinic,Urban,61,Dealer
+C01295,Kyushu,Medium,Eye Clinic,Urban,69,Dealer
+C01296,Kanto,Medium,Eye Clinic,Rural,74,Dealer
+C01297,Kanto,Medium,Eye Clinic,Urban,67,Dealer
+C01298,Kanto,Small,Optical Shop,Urban,73,Dealer
+C01299,Chubu,Small,Eye Clinic,Urban,66,Dealer
+C01300,Chubu,Large,Hospital,Urban,96,Dealer
+C01301,Kanto,Medium,Eye Clinic,Urban,69,Dealer
+C01302,Hokkaido,Small,Eye Clinic,Urban,50,Dealer
+C01303,Kanto,Medium,Optical Shop,Urban,70,Dealer
+C01304,Kansai,Small,Eye Clinic,Rural,51,Dealer
+C01305,Chubu,Small,Optical Shop,Rural,30,Dealer
+C01306,Kyushu,Small,Eye Clinic,Urban,62,Direct
+C01307,Chubu,Small,Eye Clinic,Rural,63,Direct
+C01308,Kyushu,Small,Optical Shop,Urban,70,Dealer
+C01309,Kanto,Small,Eye Clinic,Urban,59,Dealer
+C01310,Kyushu,Small,Optical Shop,Urban,64,Dealer
+C01311,Kanto,Small,Eye Clinic,Rural,48,Dealer
+C01312,Kyushu,Small,Optical Shop,Rural,55,Dealer
+C01313,Kansai,Small,Eye Clinic,Urban,79,Dealer
+C01314,Kyushu,Medium,Eye Clinic,Urban,86,Dealer
+C01315,Kansai,Small,Optical Shop,Urban,69,Dealer
+C01316,Chubu,Small,Optical Shop,Urban,59,Dealer
+C01317,Kansai,Medium,Optical Shop,Urban,83,Dealer
+C01318,Chubu,Medium,Optical Shop,Urban,59,Dealer
+C01319,Kanto,Medium,Optical Shop,Urban,73,Dealer
+C01320,Kanto,Small,Eye Clinic,Urban,70,Dealer
+C01321,Kanto,Small,Eye Clinic,Rural,61,Dealer
+C01322,Kanto,Medium,Eye Clinic,Urban,83,Dealer
+C01323,Kyushu,Small,Eye Clinic,Urban,67,Dealer
+C01324,Kanto,Small,Eye Clinic,Urban,62,Dealer
+C01325,Hokkaido,Small,Eye Clinic,Rural,59,Dealer
+C01326,Kanto,Medium,Eye Clinic,Urban,66,Dealer
+C01327,Kanto,Medium,Hospital,Urban,76,Dealer
+C01328,Kyushu,Large,Eye Clinic,Rural,79,Dealer
+C01329,Chubu,Large,Eye Clinic,Urban,90,Dealer
+C01330,Kansai,Small,Eye Clinic,Urban,46,Dealer
+C01331,Kansai,Medium,Optical Shop,Urban,81,Dealer
+C01332,Chubu,Large,Hospital,Rural,94,Dealer
+C01333,Kanto,Large,Hospital,Urban,95,Direct
+C01334,Hokkaido,Small,Eye Clinic,Rural,78,Dealer
+C01335,Hokkaido,Medium,Eye Clinic,Urban,69,Direct
+C01336,Chubu,Small,Eye Clinic,Urban,60,Dealer
+C01337,Kanto,Large,Eye Clinic,Urban,84,Direct
+C01338,Chubu,Small,Eye Clinic,Rural,53,Dealer
+C01339,Kanto,Small,Eye Clinic,Urban,61,Direct
+C01340,Kanto,Medium,Eye Clinic,Urban,62,Dealer
+C01341,Kanto,Medium,Optical Shop,Urban,71,Dealer
+C01342,Kansai,Small,Optical Shop,Urban,63,Dealer
+C01343,Kyushu,Small,Eye Clinic,Rural,66,Direct
+C01344,Chubu,Small,Eye Clinic,Rural,76,Dealer
+C01345,Chubu,Large,Eye Clinic,Rural,91,Dealer
+C01346,Kansai,Medium,Eye Clinic,Urban,68,Dealer
+C01347,Kanto,Medium,Optical Shop,Rural,59,Dealer
+C01348,Kanto,Small,Eye Clinic,Rural,52,Dealer
+C01349,Hokkaido,Small,Optical Shop,Urban,82,Dealer
+C01350,Kanto,Medium,Eye Clinic,Rural,64,Direct
+C01351,Kyushu,Medium,Optical Shop,Urban,63,Direct
+C01352,Kansai,Small,Eye Clinic,Rural,49,Dealer
+C01353,Kansai,Medium,Optical Shop,Rural,74,Dealer
+C01354,Chubu,Medium,Eye Clinic,Rural,73,Dealer
+C01355,Kansai,Medium,Hospital,Urban,82,Dealer
+C01356,Kyushu,Small,Eye Clinic,Urban,71,Dealer
+C01357,Hokkaido,Small,Eye Clinic,Urban,41,Dealer
+C01358,Kansai,Small,Optical Shop,Urban,65,Dealer
+C01359,Kanto,Small,Optical Shop,Urban,73,Direct
+C01360,Kansai,Small,Optical Shop,Urban,56,Direct
+C01361,Hokkaido,Large,Hospital,Rural,78,Dealer
+C01362,Kanto,Small,Optical Shop,Urban,45,Direct
+C01363,Chubu,Small,Eye Clinic,Rural,70,Dealer
+C01364,Chubu,Small,Eye Clinic,Rural,47,Dealer
+C01365,Chubu,Medium,Eye Clinic,Rural,68,Dealer
+C01366,Kanto,Large,Hospital,Urban,100,Dealer
+C01367,Chubu,Small,Eye Clinic,Urban,79,Dealer
+C01368,Hokkaido,Medium,Eye Clinic,Urban,74,Dealer
+C01369,Kanto,Medium,Eye Clinic,Urban,71,Dealer
+C01370,Kanto,Small,Optical Shop,Urban,66,Dealer
+C01371,Hokkaido,Small,Eye Clinic,Rural,67,Dealer
+C01372,Kanto,Small,Eye Clinic,Urban,62,Dealer
+C01373,Kyushu,Small,Eye Clinic,Urban,54,Dealer
+C01374,Kansai,Medium,Eye Clinic,Urban,61,Dealer
+C01375,Kanto,Medium,Eye Clinic,Rural,54,Dealer
+C01376,Kyushu,Medium,Hospital,Rural,83,Dealer
+C01377,Kansai,Medium,Hospital,Rural,71,Direct
+C01378,Kansai,Medium,Hospital,Urban,78,Dealer
+C01379,Kanto,Medium,Eye Clinic,Urban,69,Dealer
+C01380,Kansai,Small,Optical Shop,Rural,55,Dealer
+C01381,Kanto,Medium,Eye Clinic,Urban,74,Dealer
+C01382,Kansai,Small,Eye Clinic,Urban,61,Dealer
+C01383,Hokkaido,Small,Optical Shop,Urban,77,Dealer
+C01384,Kanto,Large,Eye Clinic,Urban,100,Direct
+C01385,Chubu,Small,Eye Clinic,Rural,38,Dealer
+C01386,Kanto,Small,Optical Shop,Urban,67,Dealer
+C01387,Kyushu,Large,Eye Clinic,Urban,80,Direct
+C01388,Kanto,Medium,Hospital,Urban,82,Dealer
+C01389,Hokkaido,Medium,Eye Clinic,Urban,79,Direct
+C01390,Kansai,Medium,Hospital,Urban,82,Dealer
+C01391,Kanto,Medium,Eye Clinic,Urban,78,Dealer
+C01392,Kanto,Small,Eye Clinic,Urban,71,Dealer
+C01393,Kanto,Large,Hospital,Urban,99,Dealer
+C01394,Kansai,Medium,Eye Clinic,Urban,70,Dealer
+C01395,Kanto,Medium,Eye Clinic,Urban,70,Dealer
+C01396,Kyushu,Medium,Eye Clinic,Urban,62,Dealer
+C01397,Kansai,Medium,Eye Clinic,Urban,67,Dealer
+C01398,Kanto,Small,Eye Clinic,Rural,74,Dealer
+C01399,Kansai,Large,Eye Clinic,Urban,80,Dealer
+C01400,Chubu,Medium,Optical Shop,Urban,64,Direct
+C01401,Kanto,Small,Eye Clinic,Urban,67,Direct
+C01402,Kanto,Large,Eye Clinic,Rural,77,Dealer
+C01403,Kanto,Medium,Eye Clinic,Urban,74,Dealer
+C01404,Chubu,Medium,Eye Clinic,Urban,90,Dealer
+C01405,Chubu,Small,Optical Shop,Rural,59,Dealer
+C01406,Kansai,Small,Eye Clinic,Urban,59,Direct
+C01407,Kyushu,Small,Optical Shop,Rural,50,Dealer
+C01408,Kyushu,Small,Eye Clinic,Urban,59,Direct
+C01409,Kansai,Large,Hospital,Urban,100,Dealer
+C01410,Kyushu,Small,Eye Clinic,Urban,61,Dealer
+C01411,Kanto,Small,Optical Shop,Rural,36,Direct
+C01412,Kanto,Large,Eye Clinic,Urban,88,Dealer
+C01413,Kanto,Small,Eye Clinic,Urban,49,Dealer
+C01414,Kanto,Small,Eye Clinic,Rural,76,Dealer
+C01415,Kansai,Small,Eye Clinic,Rural,44,Dealer
+C01416,Hokkaido,Small,Optical Shop,Rural,52,Dealer
+C01417,Kanto,Medium,Eye Clinic,Rural,69,Direct
+C01418,Kanto,Medium,Eye Clinic,Rural,63,Dealer
+C01419,Kansai,Medium,Optical Shop,Urban,73,Direct
+C01420,Hokkaido,Small,Eye Clinic,Rural,58,Dealer
+C01421,Kanto,Small,Optical Shop,Rural,69,Dealer
+C01422,Kansai,Medium,Hospital,Urban,92,Direct
+C01423,Kanto,Small,Eye Clinic,Urban,79,Dealer
+C01424,Kanto,Small,Optical Shop,Rural,44,Dealer
+C01425,Hokkaido,Small,Eye Clinic,Urban,67,Dealer
+C01426,Hokkaido,Small,Eye Clinic,Rural,56,Dealer
+C01427,Kanto,Small,Eye Clinic,Urban,68,Dealer
+C01428,Hokkaido,Large,Eye Clinic,Urban,100,Direct
+C01429,Chubu,Medium,Hospital,Urban,82,Direct
+C01430,Kyushu,Small,Optical Shop,Urban,60,Dealer
+C01431,Kansai,Small,Eye Clinic,Urban,69,Dealer
+C01432,Kansai,Medium,Eye Clinic,Urban,58,Direct
+C01433,Kansai,Small,Optical Shop,Urban,62,Dealer
+C01434,Chubu,Large,Eye Clinic,Urban,87,Dealer
+C01435,Kanto,Large,Eye Clinic,Urban,79,Dealer
+C01436,Kanto,Small,Eye Clinic,Urban,75,Dealer
+C01437,Kanto,Small,Optical Shop,Urban,53,Dealer
+C01438,Chubu,Small,Eye Clinic,Urban,63,Dealer
+C01439,Kanto,Small,Optical Shop,Urban,67,Dealer
+C01440,Chubu,Small,Optical Shop,Urban,78,Dealer
+C01441,Hokkaido,Small,Eye Clinic,Urban,64,Dealer
+C01442,Kanto,Small,Eye Clinic,Urban,73,Dealer
+C01443,Chubu,Small,Optical Shop,Urban,71,Dealer
+C01444,Kansai,Small,Eye Clinic,Rural,55,Dealer
+C01445,Kyushu,Small,Optical Shop,Rural,43,Dealer
+C01446,Kanto,Small,Optical Shop,Rural,40,Direct
+C01447,Chubu,Large,Hospital,Urban,97,Direct
+C01448,Kyushu,Large,Hospital,Urban,91,Dealer
+C01449,Hokkaido,Small,Optical Shop,Urban,73,Dealer
+C01450,Chubu,Medium,Optical Shop,Rural,73,Direct
+C01451,Kansai,Medium,Eye Clinic,Rural,64,Dealer
+C01452,Kansai,Small,Eye Clinic,Urban,52,Direct
+C01453,Kyushu,Medium,Eye Clinic,Urban,81,Dealer
+C01454,Kansai,Large,Hospital,Urban,86,Dealer
+C01455,Kanto,Large,Eye Clinic,Rural,70,Dealer
+C01456,Hokkaido,Medium,Hospital,Rural,64,Dealer
+C01457,Chubu,Medium,Eye Clinic,Rural,65,Dealer
+C01458,Chubu,Medium,Hospital,Rural,86,Dealer
+C01459,Kanto,Large,Eye Clinic,Urban,88,Dealer
+C01460,Chubu,Medium,Hospital,Rural,70,Dealer
+C01461,Kansai,Large,Eye Clinic,Rural,63,Dealer
+C01462,Chubu,Large,Eye Clinic,Rural,84,Dealer
+C01463,Kanto,Small,Eye Clinic,Urban,56,Dealer
+C01464,Chubu,Large,Hospital,Urban,97,Dealer
+C01465,Hokkaido,Large,Eye Clinic,Urban,84,Dealer
+C01466,Kanto,Small,Eye Clinic,Urban,72,Dealer
+C01467,Hokkaido,Small,Optical Shop,Rural,52,Dealer
+C01468,Kansai,Large,Hospital,Urban,95,Dealer
+C01469,Kyushu,Small,Optical Shop,Urban,69,Direct
+C01470,Kyushu,Small,Eye Clinic,Rural,75,Dealer
+C01471,Kansai,Small,Eye Clinic,Urban,73,Dealer
+C01472,Chubu,Small,Optical Shop,Urban,63,Dealer
+C01473,Kyushu,Small,Eye Clinic,Urban,64,Dealer
+C01474,Kansai,Medium,Hospital,Urban,79,Dealer
+C01475,Kanto,Large,Eye Clinic,Urban,79,Direct
+C01476,Chubu,Medium,Eye Clinic,Rural,60,Dealer
+C01477,Kyushu,Small,Eye Clinic,Urban,56,Dealer
+C01478,Chubu,Medium,Eye Clinic,Rural,73,Direct
+C01479,Kyushu,Medium,Eye Clinic,Urban,65,Dealer
+C01480,Kansai,Large,Eye Clinic,Urban,100,Dealer
+C01481,Kyushu,Small,Optical Shop,Urban,72,Dealer
+C01482,Kanto,Small,Eye Clinic,Urban,64,Dealer
+C01483,Kansai,Large,Hospital,Urban,96,Dealer
+C01484,Kanto,Medium,Optical Shop,Urban,70,Dealer
+C01485,Kanto,Medium,Eye Clinic,Urban,79,Dealer
+C01486,Kanto,Medium,Eye Clinic,Urban,87,Dealer
+C01487,Kansai,Medium,Hospital,Urban,77,Direct
+C01488,Chubu,Large,Hospital,Urban,81,Dealer
+C01489,Kansai,Medium,Hospital,Urban,91,Dealer
+C01490,Kansai,Small,Optical Shop,Rural,57,Dealer
+C01491,Kanto,Medium,Optical Shop,Urban,65,Dealer
+C01492,Kanto,Small,Eye Clinic,Urban,57,Dealer
+C01493,Kanto,Small,Eye Clinic,Rural,45,Dealer
+C01494,Kanto,Large,Hospital,Urban,89,Dealer
+C01495,Kansai,Small,Eye Clinic,Rural,51,Dealer
+C01496,Chubu,Medium,Optical Shop,Urban,73,Dealer
+C01497,Kansai,Large,Eye Clinic,Rural,71,Direct
+C01498,Kansai,Medium,Eye Clinic,Urban,68,Dealer
+C01499,Kanto,Small,Optical Shop,Rural,52,Dealer
+C01500,Kyushu,Small,Eye Clinic,Urban,66,Dealer
+C01501,Kansai,Small,Eye Clinic,Urban,61,Dealer
+C01502,Kansai,Small,Eye Clinic,Urban,76,Dealer
+C01503,Kanto,Small,Optical Shop,Urban,69,Dealer
+C01504,Kanto,Large,Eye Clinic,Urban,72,Direct
+C01505,Kansai,Small,Optical Shop,Urban,69,Dealer
+C01506,Kansai,Medium,Eye Clinic,Rural,72,Dealer
+C01507,Kansai,Small,Optical Shop,Urban,60,Direct
+C01508,Kansai,Small,Optical Shop,Rural,39,Direct
+C01509,Kansai,Large,Eye Clinic,Urban,88,Dealer
+C01510,Chubu,Small,Eye Clinic,Rural,54,Dealer
+C01511,Kyushu,Small,Eye Clinic,Rural,43,Dealer
+C01512,Chubu,Large,Hospital,Urban,81,Dealer
+C01513,Hokkaido,Medium,Eye Clinic,Rural,65,Dealer
+C01514,Kanto,Large,Hospital,Rural,84,Dealer
+C01515,Kanto,Small,Eye Clinic,Urban,60,Direct
+C01516,Kanto,Small,Eye Clinic,Urban,63,Dealer
+C01517,Chubu,Large,Eye Clinic,Urban,77,Direct
+C01518,Kyushu,Large,Eye Clinic,Rural,74,Direct
+C01519,Kanto,Small,Eye Clinic,Urban,69,Dealer
+C01520,Hokkaido,Medium,Optical Shop,Urban,73,Dealer
+C01521,Kanto,Large,Hospital,Urban,79,Dealer
+C01522,Hokkaido,Small,Eye Clinic,Urban,59,Dealer
+C01523,Kanto,Small,Optical Shop,Rural,43,Dealer
+C01524,Kanto,Large,Hospital,Rural,89,Dealer
+C01525,Kansai,Small,Optical Shop,Urban,67,Dealer
+C01526,Kanto,Small,Eye Clinic,Urban,47,Direct
+C01527,Kanto,Small,Eye Clinic,Urban,72,Dealer
+C01528,Kanto,Medium,Eye Clinic,Urban,65,Dealer
+C01529,Kyushu,Large,Hospital,Urban,100,Dealer
+C01530,Kansai,Medium,Eye Clinic,Urban,76,Dealer
+C01531,Kanto,Large,Eye Clinic,Urban,76,Direct
+C01532,Kansai,Small,Eye Clinic,Urban,53,Direct
+C01533,Chubu,Medium,Eye Clinic,Rural,69,Dealer
+C01534,Kanto,Large,Hospital,Urban,92,Dealer
+C01535,Kansai,Medium,Eye Clinic,Rural,65,Dealer
+C01536,Kanto,Small,Eye Clinic,Urban,80,Dealer
+C01537,Kanto,Medium,Hospital,Urban,77,Dealer
+C01538,Chubu,Medium,Optical Shop,Rural,67,Dealer
+C01539,Kanto,Large,Hospital,Urban,100,Dealer
+C01540,Kansai,Medium,Optical Shop,Urban,79,Direct
+C01541,Chubu,Small,Optical Shop,Rural,38,Dealer
+C01542,Kanto,Medium,Eye Clinic,Urban,81,Dealer
+C01543,Kansai,Medium,Eye Clinic,Rural,54,Dealer
+C01544,Kanto,Large,Hospital,Urban,100,Direct
+C01545,Hokkaido,Medium,Hospital,Rural,66,Dealer
+C01546,Kansai,Large,Hospital,Urban,100,Direct
+C01547,Kyushu,Medium,Eye Clinic,Urban,91,Dealer
+C01548,Kansai,Small,Eye Clinic,Rural,46,Dealer
+C01549,Kanto,Small,Eye Clinic,Rural,54,Dealer
+C01550,Chubu,Small,Eye Clinic,Urban,72,Dealer
+C01551,Hokkaido,Large,Eye Clinic,Urban,96,Dealer
+C01552,Kansai,Small,Optical Shop,Urban,68,Direct
+C01553,Kyushu,Medium,Eye Clinic,Rural,79,Dealer
+C01554,Kyushu,Small,Eye Clinic,Rural,53,Dealer
+C01555,Kanto,Small,Eye Clinic,Urban,60,Dealer
+C01556,Kanto,Large,Hospital,Urban,93,Dealer
+C01557,Kansai,Small,Eye Clinic,Rural,63,Dealer
+C01558,Kansai,Medium,Eye Clinic,Urban,80,Dealer
+C01559,Kyushu,Medium,Eye Clinic,Urban,79,Dealer
+C01560,Hokkaido,Medium,Eye Clinic,Urban,84,Direct
+C01561,Kanto,Small,Optical Shop,Rural,33,Dealer
+C01562,Kanto,Medium,Optical Shop,Urban,79,Direct
+C01563,Kyushu,Medium,Eye Clinic,Urban,78,Dealer
+C01564,Kanto,Large,Eye Clinic,Urban,100,Direct
+C01565,Kyushu,Large,Hospital,Rural,71,Dealer
+C01566,Kansai,Medium,Eye Clinic,Urban,92,Dealer
+C01567,Chubu,Large,Eye Clinic,Urban,89,Dealer
+C01568,Kanto,Large,Eye Clinic,Rural,83,Dealer
+C01569,Chubu,Small,Optical Shop,Rural,71,Direct
+C01570,Kansai,Small,Eye Clinic,Urban,70,Dealer
+C01571,Kansai,Small,Eye Clinic,Urban,68,Direct
+C01572,Kanto,Medium,Hospital,Urban,86,Dealer
+C01573,Chubu,Small,Eye Clinic,Urban,59,Dealer
+C01574,Kyushu,Small,Eye Clinic,Rural,54,Direct
+C01575,Kanto,Medium,Optical Shop,Urban,69,Dealer
+C01576,Kanto,Small,Eye Clinic,Rural,54,Dealer
+C01577,Kanto,Large,Hospital,Urban,73,Dealer
+C01578,Chubu,Small,Eye Clinic,Urban,68,Direct
+C01579,Kansai,Small,Eye Clinic,Urban,63,Dealer
+C01580,Kansai,Small,Eye Clinic,Urban,61,Dealer
+C01581,Kanto,Small,Eye Clinic,Urban,66,Dealer
+C01582,Kansai,Medium,Eye Clinic,Urban,62,Dealer
+C01583,Kansai,Medium,Optical Shop,Urban,95,Direct
+C01584,Kansai,Small,Eye Clinic,Urban,63,Direct
+C01585,Hokkaido,Small,Eye Clinic,Urban,63,Dealer
+C01586,Kanto,Small,Eye Clinic,Urban,54,Dealer
+C01587,Chubu,Medium,Optical Shop,Rural,66,Dealer
+C01588,Kansai,Medium,Eye Clinic,Urban,90,Dealer
+C01589,Kansai,Medium,Eye Clinic,Urban,86,Dealer
+C01590,Chubu,Medium,Eye Clinic,Urban,85,Dealer
+C01591,Chubu,Medium,Eye Clinic,Urban,81,Dealer
+C01592,Hokkaido,Small,Eye Clinic,Urban,60,Dealer
+C01593,Kanto,Small,Optical Shop,Urban,49,Dealer
+C01594,Kanto,Large,Eye Clinic,Rural,76,Dealer
+C01595,Chubu,Medium,Eye Clinic,Rural,64,Direct
+C01596,Kansai,Medium,Eye Clinic,Urban,86,Dealer
+C01597,Kanto,Small,Optical Shop,Urban,67,Dealer
+C01598,Kanto,Small,Eye Clinic,Rural,70,Dealer
+C01599,Kanto,Medium,Eye Clinic,Urban,88,Dealer
+C01600,Kyushu,Medium,Eye Clinic,Rural,61,Dealer
+C01601,Kanto,Small,Eye Clinic,Urban,46,Dealer
+C01602,Kanto,Medium,Eye Clinic,Urban,90,Dealer
+C01603,Kanto,Large,Eye Clinic,Rural,92,Dealer
+C01604,Kanto,Small,Eye Clinic,Urban,50,Direct
+C01605,Kanto,Small,Eye Clinic,Urban,79,Dealer
+C01606,Kansai,Small,Eye Clinic,Rural,58,Direct
+C01607,Kanto,Medium,Eye Clinic,Urban,78,Dealer
+C01608,Kyushu,Small,Eye Clinic,Urban,80,Dealer
+C01609,Kanto,Small,Optical Shop,Urban,77,Dealer
+C01610,Kansai,Medium,Optical Shop,Urban,83,Dealer
+C01611,Kyushu,Small,Optical Shop,Urban,69,Dealer
+C01612,Chubu,Medium,Optical Shop,Rural,72,Dealer
+C01613,Kansai,Large,Hospital,Urban,92,Dealer
+C01614,Kanto,Medium,Hospital,Rural,73,Dealer
+C01615,Kanto,Small,Eye Clinic,Rural,45,Dealer
+C01616,Chubu,Large,Hospital,Urban,93,Dealer
+C01617,Hokkaido,Large,Eye Clinic,Urban,84,Dealer
+C01618,Chubu,Small,Eye Clinic,Rural,48,Dealer
+C01619,Kansai,Small,Optical Shop,Urban,65,Dealer
+C01620,Chubu,Small,Eye Clinic,Rural,51,Dealer
+C01621,Kansai,Large,Eye Clinic,Urban,93,Dealer
+C01622,Kanto,Small,Optical Shop,Urban,48,Dealer
+C01623,Kansai,Medium,Eye Clinic,Urban,75,Dealer
+C01624,Hokkaido,Medium,Eye Clinic,Rural,67,Direct
+C01625,Kanto,Small,Optical Shop,Urban,61,Dealer
+C01626,Chubu,Large,Hospital,Rural,84,Dealer
+C01627,Kanto,Small,Eye Clinic,Urban,48,Direct
+C01628,Kansai,Large,Eye Clinic,Rural,82,Dealer
+C01629,Kanto,Small,Eye Clinic,Urban,70,Dealer
+C01630,Kansai,Small,Optical Shop,Urban,69,Dealer
+C01631,Chubu,Medium,Eye Clinic,Rural,76,Dealer
+C01632,Kanto,Small,Eye Clinic,Urban,66,Dealer
+C01633,Chubu,Small,Eye Clinic,Urban,69,Dealer
+C01634,Kyushu,Small,Eye Clinic,Urban,66,Direct
+C01635,Hokkaido,Small,Optical Shop,Urban,71,Dealer
+C01636,Kanto,Medium,Eye Clinic,Urban,60,Dealer
+C01637,Kansai,Large,Hospital,Urban,87,Dealer
+C01638,Kanto,Small,Eye Clinic,Urban,80,Direct
+C01639,Hokkaido,Large,Hospital,Urban,71,Dealer
+C01640,Hokkaido,Small,Optical Shop,Rural,53,Dealer
+C01641,Kansai,Medium,Eye Clinic,Urban,88,Dealer
+C01642,Kyushu,Small,Eye Clinic,Rural,53,Dealer
+C01643,Kansai,Small,Eye Clinic,Urban,60,Dealer
+C01644,Chubu,Small,Optical Shop,Urban,65,Direct
+C01645,Kanto,Medium,Eye Clinic,Urban,72,Dealer
+C01646,Chubu,Small,Optical Shop,Rural,54,Dealer
+C01647,Kanto,Large,Hospital,Urban,89,Direct
+C01648,Kyushu,Small,Optical Shop,Urban,75,Dealer
+C01649,Kyushu,Large,Hospital,Urban,100,Dealer
+C01650,Chubu,Small,Eye Clinic,Urban,63,Dealer
+C01651,Kanto,Small,Eye Clinic,Urban,50,Dealer
+C01652,Kanto,Small,Eye Clinic,Urban,59,Dealer
+C01653,Kanto,Small,Optical Shop,Urban,62,Direct
+C01654,Kanto,Small,Optical Shop,Urban,69,Dealer
+C01655,Kanto,Medium,Hospital,Urban,74,Dealer
+C01656,Hokkaido,Small,Eye Clinic,Urban,56,Dealer
+C01657,Kansai,Medium,Eye Clinic,Urban,81,Dealer
+C01658,Kanto,Small,Optical Shop,Urban,73,Dealer
+C01659,Kansai,Small,Eye Clinic,Urban,58,Dealer
+C01660,Kansai,Large,Eye Clinic,Urban,75,Dealer
+C01661,Kansai,Large,Hospital,Urban,100,Dealer
+C01662,Kansai,Small,Eye Clinic,Urban,72,Dealer
+C01663,Hokkaido,Small,Eye Clinic,Urban,61,Dealer
+C01664,Kansai,Small,Eye Clinic,Urban,73,Dealer
+C01665,Hokkaido,Medium,Eye Clinic,Urban,75,Dealer
+C01666,Kyushu,Small,Optical Shop,Rural,63,Dealer
+C01667,Kanto,Medium,Eye Clinic,Rural,68,Dealer
+C01668,Hokkaido,Small,Eye Clinic,Rural,55,Dealer
+C01669,Kanto,Small,Eye Clinic,Urban,63,Dealer
+C01670,Kyushu,Medium,Optical Shop,Urban,62,Dealer
+C01671,Kansai,Large,Eye Clinic,Urban,100,Dealer
+C01672,Kyushu,Small,Eye Clinic,Rural,45,Dealer
+C01673,Kyushu,Small,Eye Clinic,Urban,50,Dealer
+C01674,Kyushu,Small,Eye Clinic,Rural,52,Dealer
+C01675,Kyushu,Small,Eye Clinic,Rural,44,Dealer
+C01676,Kanto,Small,Optical Shop,Urban,63,Dealer
+C01677,Kanto,Small,Optical Shop,Urban,71,Dealer
+C01678,Kansai,Medium,Eye Clinic,Urban,86,Dealer
+C01679,Kanto,Medium,Eye Clinic,Urban,84,Dealer
+C01680,Chubu,Small,Optical Shop,Urban,61,Dealer
+C01681,Kanto,Small,Eye Clinic,Urban,64,Dealer
+C01682,Hokkaido,Medium,Optical Shop,Rural,70,Dealer
+C01683,Chubu,Small,Eye Clinic,Urban,46,Dealer
+C01684,Kyushu,Small,Optical Shop,Urban,70,Dealer
+C01685,Kanto,Small,Optical Shop,Urban,49,Dealer
+C01686,Kyushu,Small,Optical Shop,Rural,74,Dealer
+C01687,Hokkaido,Medium,Hospital,Rural,70,Direct
+C01688,Kansai,Small,Eye Clinic,Urban,62,Dealer
+C01689,Kansai,Small,Optical Shop,Urban,56,Direct
+C01690,Chubu,Small,Eye Clinic,Urban,58,Dealer
+C01691,Kanto,Small,Eye Clinic,Urban,87,Dealer
+C01692,Kansai,Large,Hospital,Urban,100,Dealer
+C01693,Kansai,Small,Optical Shop,Rural,39,Dealer
+C01694,Kanto,Small,Optical Shop,Urban,79,Dealer
+C01695,Kanto,Medium,Eye Clinic,Urban,88,Direct
+C01696,Kanto,Small,Optical Shop,Urban,61,Direct
+C01697,Kanto,Large,Hospital,Rural,89,Dealer
+C01698,Kanto,Medium,Eye Clinic,Urban,76,Dealer
+C01699,Hokkaido,Small,Eye Clinic,Urban,84,Direct
+C01700,Kansai,Medium,Eye Clinic,Urban,68,Direct
+C01701,Hokkaido,Large,Eye Clinic,Urban,89,Dealer
+C01702,Kansai,Medium,Optical Shop,Urban,72,Dealer
+C01703,Kanto,Medium,Hospital,Urban,70,Dealer
+C01704,Kansai,Medium,Hospital,Urban,100,Dealer
+C01705,Kansai,Small,Optical Shop,Urban,52,Dealer
+C01706,Kanto,Medium,Eye Clinic,Urban,78,Dealer
+C01707,Chubu,Medium,Optical Shop,Rural,49,Dealer
+C01708,Kanto,Medium,Eye Clinic,Urban,72,Dealer
+C01709,Kansai,Small,Optical Shop,Urban,68,Dealer
+C01710,Chubu,Medium,Eye Clinic,Urban,68,Direct
+C01711,Kanto,Medium,Optical Shop,Urban,82,Direct
+C01712,Kanto,Small,Eye Clinic,Urban,61,Dealer
+C01713,Kyushu,Medium,Eye Clinic,Rural,78,Dealer
+C01714,Kansai,Small,Optical Shop,Rural,68,Dealer
+C01715,Kanto,Large,Eye Clinic,Urban,82,Dealer
+C01716,Hokkaido,Large,Hospital,Urban,97,Dealer
+C01717,Kanto,Medium,Eye Clinic,Urban,78,Dealer
+C01718,Chubu,Large,Hospital,Rural,92,Dealer
+C01719,Hokkaido,Large,Eye Clinic,Urban,88,Dealer
+C01720,Kanto,Small,Eye Clinic,Urban,66,Dealer
+C01721,Kanto,Small,Eye Clinic,Urban,62,Direct
+C01722,Kanto,Medium,Eye Clinic,Urban,77,Dealer
+C01723,Kanto,Small,Eye Clinic,Urban,77,Dealer
+C01724,Kanto,Small,Eye Clinic,Urban,70,Dealer
+C01725,Chubu,Large,Eye Clinic,Rural,85,Dealer
+C01726,Kanto,Medium,Eye Clinic,Urban,83,Dealer
+C01727,Kansai,Small,Eye Clinic,Urban,62,Dealer
+C01728,Hokkaido,Small,Optical Shop,Urban,67,Dealer
+C01729,Kyushu,Small,Eye Clinic,Urban,53,Direct
+C01730,Kansai,Small,Eye Clinic,Urban,77,Dealer
+C01731,Kanto,Medium,Hospital,Urban,56,Dealer
+C01732,Chubu,Medium,Eye Clinic,Rural,65,Dealer
+C01733,Kansai,Medium,Hospital,Urban,95,Dealer
+C01734,Kansai,Small,Eye Clinic,Urban,50,Dealer
+C01735,Kanto,Small,Eye Clinic,Urban,68,Direct
+C01736,Kyushu,Large,Eye Clinic,Rural,71,Dealer
+C01737,Kansai,Medium,Hospital,Urban,80,Dealer
+C01738,Kanto,Medium,Hospital,Rural,83,Direct
+C01739,Kanto,Small,Eye Clinic,Urban,66,Dealer
+C01740,Kansai,Medium,Eye Clinic,Rural,46,Dealer
+C01741,Kyushu,Small,Optical Shop,Urban,54,Dealer
+C01742,Chubu,Small,Eye Clinic,Urban,74,Dealer
+C01743,Chubu,Small,Eye Clinic,Rural,58,Dealer
+C01744,Kanto,Small,Optical Shop,Rural,71,Dealer
+C01745,Kansai,Large,Hospital,Urban,100,Dealer
+C01746,Kansai,Medium,Eye Clinic,Urban,73,Dealer
+C01747,Kanto,Small,Optical Shop,Urban,89,Dealer
+C01748,Kanto,Small,Optical Shop,Urban,64,Dealer
+C01749,Chubu,Small,Eye Clinic,Urban,54,Dealer
+C01750,Kanto,Small,Eye Clinic,Rural,48,Direct
+C01751,Kansai,Medium,Eye Clinic,Urban,53,Dealer
+C01752,Kanto,Small,Optical Shop,Urban,80,Dealer
+C01753,Kanto,Medium,Hospital,Urban,100,Dealer
+C01754,Kanto,Small,Eye Clinic,Urban,54,Dealer
+C01755,Hokkaido,Medium,Optical Shop,Rural,64,Dealer
+C01756,Kyushu,Large,Eye Clinic,Urban,89,Direct
+C01757,Hokkaido,Small,Eye Clinic,Urban,54,Dealer
+C01758,Kansai,Small,Eye Clinic,Urban,46,Direct
+C01759,Kanto,Small,Eye Clinic,Urban,62,Direct
+C01760,Kansai,Small,Optical Shop,Rural,51,Dealer
+C01761,Kansai,Small,Eye Clinic,Rural,50,Dealer
+C01762,Kyushu,Small,Optical Shop,Urban,66,Dealer
+C01763,Kanto,Medium,Eye Clinic,Urban,90,Dealer
+C01764,Kansai,Large,Eye Clinic,Urban,85,Dealer
+C01765,Kanto,Small,Optical Shop,Urban,66,Direct
+C01766,Kanto,Medium,Eye Clinic,Urban,83,Dealer
+C01767,Chubu,Medium,Eye Clinic,Urban,82,Dealer
+C01768,Kansai,Small,Eye Clinic,Urban,58,Dealer
+C01769,Kanto,Small,Optical Shop,Urban,65,Direct
+C01770,Kansai,Small,Eye Clinic,Urban,69,Dealer
+C01771,Kansai,Small,Eye Clinic,Rural,43,Direct
+C01772,Kyushu,Small,Eye Clinic,Urban,77,Direct
+C01773,Kyushu,Medium,Eye Clinic,Rural,80,Dealer
+C01774,Hokkaido,Small,Optical Shop,Rural,47,Dealer
+C01775,Kyushu,Large,Eye Clinic,Urban,90,Dealer
+C01776,Kanto,Small,Eye Clinic,Urban,70,Dealer
+C01777,Chubu,Large,Eye Clinic,Rural,73,Dealer
+C01778,Kansai,Small,Eye Clinic,Urban,69,Dealer
+C01779,Kanto,Medium,Optical Shop,Urban,78,Dealer
+C01780,Kyushu,Small,Eye Clinic,Urban,49,Dealer
+C01781,Kanto,Small,Optical Shop,Urban,69,Dealer
+C01782,Hokkaido,Large,Eye Clinic,Rural,67,Dealer
+C01783,Kansai,Small,Eye Clinic,Urban,73,Dealer
+C01784,Chubu,Small,Optical Shop,Urban,57,Direct
+C01785,Chubu,Medium,Eye Clinic,Urban,74,Dealer
+C01786,Kyushu,Large,Hospital,Rural,100,Dealer
+C01787,Chubu,Small,Optical Shop,Rural,59,Dealer
+C01788,Kansai,Medium,Eye Clinic,Urban,65,Direct
+C01789,Kanto,Small,Eye Clinic,Urban,54,Dealer
+C01790,Kansai,Large,Hospital,Urban,90,Dealer
+C01791,Kanto,Large,Eye Clinic,Urban,92,Dealer
+C01792,Chubu,Small,Eye Clinic,Urban,68,Dealer
+C01793,Kansai,Small,Eye Clinic,Rural,46,Direct
+C01794,Chubu,Medium,Eye Clinic,Urban,64,Dealer
+C01795,Kanto,Small,Optical Shop,Urban,67,Dealer
+C01796,Kanto,Small,Eye Clinic,Rural,52,Dealer
+C01797,Chubu,Small,Eye Clinic,Urban,86,Dealer
+C01798,Kanto,Large,Hospital,Urban,96,Dealer
+C01799,Kanto,Small,Eye Clinic,Urban,82,Dealer
+C01800,Kanto,Small,Eye Clinic,Urban,52,Dealer
+C01801,Hokkaido,Medium,Optical Shop,Rural,50,Dealer
+C01802,Chubu,Small,Eye Clinic,Urban,53,Dealer
+C01803,Kanto,Small,Optical Shop,Urban,76,Direct
+C01804,Kanto,Medium,Optical Shop,Urban,94,Dealer
+C01805,Kanto,Medium,Eye Clinic,Rural,58,Dealer
+C01806,Kyushu,Medium,Eye Clinic,Urban,71,Dealer
+C01807,Chubu,Small,Eye Clinic,Urban,52,Dealer
+C01808,Kanto,Medium,Eye Clinic,Rural,48,Direct
+C01809,Kanto,Small,Optical Shop,Urban,71,Dealer
+C01810,Kanto,Small,Optical Shop,Urban,66,Direct
+C01811,Chubu,Small,Eye Clinic,Rural,54,Dealer
+C01812,Chubu,Large,Hospital,Rural,72,Direct
+C01813,Kanto,Medium,Optical Shop,Urban,92,Dealer
+C01814,Kanto,Small,Optical Shop,Urban,59,Dealer
+C01815,Kanto,Medium,Eye Clinic,Urban,81,Dealer
+C01816,Hokkaido,Medium,Eye Clinic,Urban,61,Dealer
+C01817,Kanto,Medium,Eye Clinic,Urban,74,Dealer
+C01818,Chubu,Small,Optical Shop,Urban,67,Direct
+C01819,Chubu,Medium,Eye Clinic,Urban,79,Dealer
+C01820,Kansai,Small,Eye Clinic,Rural,56,Dealer
+C01821,Kanto,Small,Eye Clinic,Urban,69,Direct
+C01822,Kanto,Large,Eye Clinic,Rural,67,Dealer
+C01823,Kansai,Small,Eye Clinic,Urban,66,Dealer
+C01824,Kyushu,Small,Optical Shop,Urban,65,Dealer
+C01825,Chubu,Large,Eye Clinic,Urban,90,Dealer
+C01826,Kansai,Small,Eye Clinic,Urban,65,Direct
+C01827,Kanto,Medium,Eye Clinic,Urban,63,Direct
+C01828,Hokkaido,Small,Eye Clinic,Urban,51,Dealer
+C01829,Kyushu,Small,Eye Clinic,Rural,32,Dealer
+C01830,Kanto,Small,Eye Clinic,Urban,72,Dealer
+C01831,Hokkaido,Small,Eye Clinic,Rural,62,Direct
+C01832,Kansai,Small,Eye Clinic,Rural,62,Dealer
+C01833,Kansai,Medium,Eye Clinic,Rural,69,Dealer
+C01834,Chubu,Medium,Eye Clinic,Rural,45,Dealer
+C01835,Kyushu,Medium,Optical Shop,Urban,66,Dealer
+C01836,Chubu,Small,Optical Shop,Urban,66,Dealer
+C01837,Kanto,Medium,Eye Clinic,Urban,77,Direct
+C01838,Kanto,Medium,Eye Clinic,Urban,74,Dealer
+C01839,Hokkaido,Medium,Optical Shop,Rural,70,Direct
+C01840,Kanto,Small,Eye Clinic,Urban,64,Dealer
+C01841,Kanto,Small,Optical Shop,Urban,65,Direct
+C01842,Kansai,Medium,Optical Shop,Urban,70,Dealer
+C01843,Kansai,Small,Eye Clinic,Urban,74,Dealer
+C01844,Kansai,Large,Eye Clinic,Urban,84,Dealer
+C01845,Hokkaido,Small,Optical Shop,Urban,51,Dealer
+C01846,Kanto,Medium,Eye Clinic,Rural,58,Direct
+C01847,Kanto,Large,Eye Clinic,Urban,85,Dealer
+C01848,Kanto,Medium,Eye Clinic,Urban,86,Dealer
+C01849,Kyushu,Small,Eye Clinic,Urban,64,Direct
+C01850,Chubu,Medium,Hospital,Urban,82,Direct
+C01851,Kanto,Large,Hospital,Urban,84,Dealer
+C01852,Kyushu,Small,Optical Shop,Rural,62,Direct
+C01853,Kyushu,Small,Eye Clinic,Urban,57,Dealer
+C01854,Kyushu,Medium,Eye Clinic,Urban,75,Dealer
+C01855,Hokkaido,Small,Eye Clinic,Urban,79,Dealer
+C01856,Kanto,Small,Eye Clinic,Urban,69,Dealer
+C01857,Chubu,Small,Eye Clinic,Rural,38,Dealer
+C01858,Kansai,Small,Optical Shop,Urban,46,Dealer
+C01859,Kyushu,Small,Optical Shop,Urban,63,Dealer
+C01860,Chubu,Medium,Eye Clinic,Urban,64,Direct
+C01861,Kyushu,Large,Hospital,Rural,92,Dealer
+C01862,Chubu,Medium,Eye Clinic,Urban,76,Direct
+C01863,Kanto,Large,Eye Clinic,Urban,90,Dealer
+C01864,Kansai,Large,Hospital,Urban,89,Dealer
+C01865,Hokkaido,Small,Eye Clinic,Rural,71,Dealer
+C01866,Hokkaido,Small,Optical Shop,Urban,92,Dealer
+C01867,Kanto,Large,Hospital,Rural,83,Direct
+C01868,Kanto,Medium,Eye Clinic,Urban,80,Dealer
+C01869,Kanto,Small,Optical Shop,Urban,65,Dealer
+C01870,Chubu,Small,Eye Clinic,Rural,51,Direct
+C01871,Kyushu,Large,Eye Clinic,Urban,80,Dealer
+C01872,Kanto,Small,Eye Clinic,Urban,53,Dealer
+C01873,Kansai,Medium,Eye Clinic,Urban,65,Dealer
+C01874,Kyushu,Small,Optical Shop,Urban,68,Direct
+C01875,Chubu,Large,Eye Clinic,Rural,73,Direct
+C01876,Kansai,Small,Optical Shop,Urban,38,Dealer
+C01877,Kansai,Small,Eye Clinic,Urban,68,Dealer
+C01878,Kansai,Small,Eye Clinic,Urban,64,Direct
+C01879,Kanto,Small,Optical Shop,Urban,77,Dealer
+C01880,Kansai,Small,Eye Clinic,Rural,58,Direct
+C01881,Chubu,Medium,Eye Clinic,Urban,61,Dealer
+C01882,Kyushu,Small,Eye Clinic,Urban,42,Direct
+C01883,Chubu,Small,Eye Clinic,Urban,57,Dealer
+C01884,Chubu,Small,Eye Clinic,Urban,58,Dealer
+C01885,Kanto,Large,Hospital,Urban,100,Dealer
+C01886,Kansai,Medium,Eye Clinic,Urban,76,Dealer
+C01887,Kanto,Medium,Eye Clinic,Urban,87,Direct
+C01888,Kanto,Small,Optical Shop,Urban,51,Dealer
+C01889,Chubu,Small,Eye Clinic,Rural,64,Direct
+C01890,Hokkaido,Small,Optical Shop,Urban,71,Dealer
+C01891,Kanto,Small,Eye Clinic,Urban,44,Dealer
+C01892,Kansai,Medium,Eye Clinic,Rural,79,Dealer
+C01893,Kyushu,Medium,Optical Shop,Rural,67,Dealer
+C01894,Kanto,Small,Eye Clinic,Rural,58,Dealer
+C01895,Kansai,Medium,Hospital,Rural,65,Dealer
+C01896,Chubu,Small,Eye Clinic,Urban,77,Dealer
+C01897,Kansai,Small,Eye Clinic,Urban,52,Dealer
+C01898,Kanto,Medium,Eye Clinic,Urban,84,Direct
+C01899,Kanto,Small,Eye Clinic,Urban,72,Dealer
+C01900,Kyushu,Medium,Optical Shop,Urban,66,Dealer
+C01901,Kansai,Small,Eye Clinic,Urban,84,Dealer
+C01902,Kanto,Medium,Optical Shop,Urban,78,Direct
+C01903,Chubu,Medium,Optical Shop,Urban,83,Dealer
+C01904,Kanto,Medium,Eye Clinic,Urban,61,Dealer
+C01905,Chubu,Medium,Eye Clinic,Rural,87,Dealer
+C01906,Kanto,Small,Optical Shop,Urban,52,Dealer
+C01907,Hokkaido,Small,Optical Shop,Urban,74,Dealer
+C01908,Kanto,Medium,Eye Clinic,Urban,66,Direct
+C01909,Kanto,Medium,Eye Clinic,Rural,60,Dealer
+C01910,Kanto,Large,Eye Clinic,Rural,86,Dealer
+C01911,Kanto,Large,Hospital,Urban,100,Dealer
+C01912,Kyushu,Medium,Eye Clinic,Rural,53,Direct
+C01913,Hokkaido,Large,Hospital,Urban,100,Dealer
+C01914,Kanto,Small,Eye Clinic,Rural,64,Dealer
+C01915,Kansai,Small,Eye Clinic,Urban,55,Dealer
+C01916,Chubu,Small,Eye Clinic,Urban,80,Dealer
+C01917,Kyushu,Medium,Eye Clinic,Urban,61,Dealer
+C01918,Kansai,Medium,Eye Clinic,Urban,70,Dealer
+C01919,Kansai,Small,Eye Clinic,Urban,69,Dealer
+C01920,Kansai,Medium,Eye Clinic,Urban,67,Dealer
+C01921,Chubu,Medium,Eye Clinic,Rural,69,Dealer
+C01922,Kanto,Small,Eye Clinic,Urban,66,Dealer
+C01923,Kansai,Small,Optical Shop,Urban,62,Direct
+C01924,Kanto,Medium,Eye Clinic,Urban,84,Dealer
+C01925,Kyushu,Small,Eye Clinic,Rural,52,Dealer
+C01926,Kanto,Medium,Eye Clinic,Rural,68,Dealer
+C01927,Kansai,Small,Optical Shop,Urban,75,Dealer
+C01928,Kansai,Small,Eye Clinic,Urban,72,Direct
+C01929,Chubu,Medium,Hospital,Urban,92,Direct
+C01930,Kanto,Large,Hospital,Urban,85,Dealer
+C01931,Kansai,Medium,Hospital,Rural,79,Dealer
+C01932,Kansai,Small,Eye Clinic,Urban,55,Dealer
+C01933,Kansai,Medium,Hospital,Rural,61,Direct
+C01934,Kansai,Medium,Eye Clinic,Urban,75,Dealer
+C01935,Chubu,Medium,Eye Clinic,Urban,67,Dealer
+C01936,Kyushu,Large,Hospital,Rural,94,Dealer
+C01937,Kanto,Small,Eye Clinic,Urban,72,Direct
+C01938,Kyushu,Medium,Optical Shop,Urban,57,Dealer
+C01939,Kansai,Small,Eye Clinic,Urban,56,Dealer
+C01940,Kanto,Small,Optical Shop,Urban,49,Dealer
+C01941,Kanto,Small,Eye Clinic,Rural,49,Dealer
+C01942,Kanto,Small,Eye Clinic,Urban,69,Dealer
+C01943,Kyushu,Large,Eye Clinic,Rural,76,Direct
+C01944,Chubu,Medium,Optical Shop,Urban,70,Direct
+C01945,Kyushu,Small,Eye Clinic,Urban,77,Dealer
+C01946,Kansai,Large,Eye Clinic,Urban,65,Direct
+C01947,Kansai,Medium,Eye Clinic,Urban,88,Dealer
+C01948,Kanto,Large,Hospital,Rural,81,Dealer
+C01949,Kanto,Small,Eye Clinic,Urban,63,Direct
+C01950,Kansai,Medium,Eye Clinic,Urban,71,Dealer
+C01951,Kanto,Small,Eye Clinic,Rural,69,Dealer
+C01952,Kanto,Medium,Eye Clinic,Urban,64,Direct
+C01953,Kansai,Small,Eye Clinic,Urban,64,Dealer
+C01954,Chubu,Medium,Eye Clinic,Rural,71,Dealer
+C01955,Hokkaido,Medium,Hospital,Urban,68,Direct
+C01956,Hokkaido,Small,Eye Clinic,Urban,55,Dealer
+C01957,Chubu,Medium,Eye Clinic,Urban,75,Dealer
+C01958,Kansai,Large,Eye Clinic,Urban,79,Dealer
+C01959,Chubu,Small,Optical Shop,Urban,56,Dealer
+C01960,Kyushu,Medium,Optical Shop,Urban,73,Dealer
+C01961,Kanto,Small,Optical Shop,Urban,70,Dealer
+C01962,Kansai,Medium,Eye Clinic,Urban,73,Dealer
+C01963,Kyushu,Small,Eye Clinic,Rural,65,Dealer
+C01964,Kansai,Small,Eye Clinic,Urban,54,Dealer
+C01965,Kansai,Medium,Eye Clinic,Urban,63,Dealer
+C01966,Kansai,Medium,Eye Clinic,Urban,95,Direct
+C01967,Kanto,Small,Optical Shop,Urban,57,Dealer
+C01968,Kanto,Medium,Optical Shop,Urban,63,Direct
+C01969,Kanto,Small,Optical Shop,Urban,47,Dealer
+C01970,Kanto,Small,Eye Clinic,Urban,75,Dealer
+C01971,Kanto,Medium,Hospital,Urban,81,Dealer
+C01972,Kyushu,Medium,Eye Clinic,Rural,63,Dealer
+C01973,Kanto,Small,Eye Clinic,Urban,62,Dealer
+C01974,Kansai,Medium,Hospital,Urban,94,Dealer
+C01975,Kanto,Small,Eye Clinic,Urban,62,Direct
+C01976,Hokkaido,Medium,Eye Clinic,Urban,99,Dealer
+C01977,Kanto,Small,Eye Clinic,Urban,65,Direct
+C01978,Kansai,Large,Hospital,Urban,100,Dealer
+C01979,Kyushu,Small,Optical Shop,Urban,72,Dealer
+C01980,Kyushu,Small,Eye Clinic,Urban,64,Dealer
+C01981,Kanto,Medium,Optical Shop,Rural,60,Dealer
+C01982,Kyushu,Medium,Eye Clinic,Rural,69,Direct
+C01983,Kansai,Medium,Eye Clinic,Urban,81,Dealer
+C01984,Kansai,Large,Hospital,Urban,90,Dealer
+C01985,Kanto,Medium,Hospital,Urban,86,Dealer
+C01986,Kanto,Small,Optical Shop,Urban,76,Dealer
+C01987,Chubu,Small,Eye Clinic,Urban,85,Direct
+C01988,Kansai,Large,Hospital,Urban,100,Dealer
+C01989,Kansai,Large,Hospital,Urban,100,Dealer
+C01990,Chubu,Small,Optical Shop,Rural,48,Dealer
+C01991,Chubu,Small,Eye Clinic,Rural,61,Direct
+C01992,Kanto,Small,Optical Shop,Urban,77,Dealer
+C01993,Kansai,Small,Eye Clinic,Urban,55,Dealer
+C01994,Kanto,Small,Eye Clinic,Urban,59,Dealer
+C01995,Chubu,Small,Eye Clinic,Urban,81,Direct
+C01996,Chubu,Medium,Eye Clinic,Rural,56,Dealer
+C01997,Hokkaido,Small,Eye Clinic,Rural,41,Dealer
+C01998,Kanto,Medium,Optical Shop,Urban,91,Dealer
+C01999,Kanto,Small,Eye Clinic,Urban,76,Dealer
+C02000,Kanto,Large,Hospital,Rural,90,Dealer
+C02001,Kanto,Large,Eye Clinic,Rural,78,Dealer
+C02002,Kanto,Medium,Eye Clinic,Urban,72,Dealer
+C02003,Hokkaido,Medium,Eye Clinic,Urban,79,Dealer
+C02004,Kanto,Small,Eye Clinic,Urban,80,Dealer
+C02005,Kanto,Medium,Eye Clinic,Urban,78,Dealer
+C02006,Chubu,Small,Eye Clinic,Rural,76,Direct
+C02007,Kansai,Small,Eye Clinic,Urban,55,Direct
+C02008,Kyushu,Medium,Eye Clinic,Rural,66,Dealer
+C02009,Kanto,Small,Eye Clinic,Urban,60,Dealer
+C02010,Kansai,Medium,Eye Clinic,Rural,55,Direct
+C02011,Kanto,Small,Eye Clinic,Urban,62,Dealer
+C02012,Kanto,Small,Optical Shop,Rural,58,Dealer
+C02013,Hokkaido,Small,Optical Shop,Urban,69,Direct
+C02014,Kanto,Medium,Hospital,Urban,100,Dealer
+C02015,Kansai,Small,Eye Clinic,Urban,69,Dealer
+C02016,Kansai,Small,Optical Shop,Urban,76,Dealer
+C02017,Kanto,Small,Optical Shop,Urban,65,Dealer
+C02018,Kyushu,Medium,Optical Shop,Rural,83,Dealer
+C02019,Kanto,Small,Eye Clinic,Urban,88,Direct
+C02020,Chubu,Large,Hospital,Rural,91,Dealer
+C02021,Hokkaido,Small,Optical Shop,Urban,54,Dealer
+C02022,Kansai,Large,Eye Clinic,Rural,73,Direct
+C02023,Hokkaido,Large,Hospital,Rural,89,Dealer
+C02024,Kanto,Small,Eye Clinic,Urban,69,Dealer
+C02025,Kansai,Medium,Eye Clinic,Urban,83,Dealer
+C02026,Kanto,Small,Eye Clinic,Urban,69,Direct
+C02027,Chubu,Large,Hospital,Urban,96,Dealer
+C02028,Hokkaido,Small,Eye Clinic,Urban,58,Dealer
+C02029,Kanto,Large,Eye Clinic,Urban,92,Dealer
+C02030,Chubu,Small,Eye Clinic,Urban,83,Dealer
+C02031,Kanto,Small,Eye Clinic,Urban,74,Dealer
+C02032,Kansai,Medium,Eye Clinic,Urban,81,Dealer
+C02033,Kansai,Medium,Hospital,Urban,94,Dealer
+C02034,Hokkaido,Medium,Optical Shop,Urban,72,Dealer
+C02035,Kansai,Small,Eye Clinic,Urban,59,Dealer
+C02036,Kanto,Medium,Eye Clinic,Urban,69,Dealer
+C02037,Kanto,Small,Eye Clinic,Urban,63,Dealer
+C02038,Kanto,Medium,Optical Shop,Urban,72,Direct
+C02039,Kanto,Medium,Eye Clinic,Urban,88,Direct
+C02040,Kanto,Small,Eye Clinic,Urban,59,Direct
+C02041,Kyushu,Small,Eye Clinic,Urban,56,Dealer
+C02042,Kansai,Medium,Hospital,Urban,100,Dealer
+C02043,Kansai,Medium,Optical Shop,Rural,61,Dealer
+C02044,Kanto,Small,Optical Shop,Urban,66,Dealer
+C02045,Kyushu,Large,Hospital,Urban,100,Dealer
+C02046,Chubu,Small,Eye Clinic,Urban,53,Dealer
+C02047,Kanto,Small,Eye Clinic,Urban,76,Dealer
+C02048,Chubu,Medium,Eye Clinic,Rural,72,Dealer
+C02049,Kansai,Large,Eye Clinic,Urban,100,Dealer
+C02050,Kanto,Medium,Eye Clinic,Rural,59,Dealer
+C02051,Kansai,Medium,Eye Clinic,Urban,77,Dealer
+C02052,Kansai,Medium,Eye Clinic,Urban,76,Dealer
+C02053,Kanto,Small,Optical Shop,Urban,67,Direct
+C02054,Hokkaido,Medium,Hospital,Rural,59,Dealer
+C02055,Kyushu,Small,Optical Shop,Rural,55,Dealer
+C02056,Chubu,Large,Hospital,Urban,82,Direct
+C02057,Kansai,Large,Eye Clinic,Urban,92,Dealer
+C02058,Kansai,Medium,Hospital,Urban,63,Dealer
+C02059,Chubu,Small,Eye Clinic,Rural,35,Dealer
+C02060,Kansai,Medium,Hospital,Urban,92,Dealer
+C02061,Kanto,Large,Eye Clinic,Urban,83,Dealer
+C02062,Kansai,Medium,Optical Shop,Urban,66,Dealer
+C02063,Kyushu,Medium,Eye Clinic,Rural,79,Dealer
+C02064,Kansai,Small,Eye Clinic,Rural,57,Direct
+C02065,Kanto,Small,Optical Shop,Urban,73,Dealer
+C02066,Kyushu,Small,Eye Clinic,Rural,52,Dealer
+C02067,Kanto,Medium,Hospital,Urban,100,Dealer
+C02068,Kanto,Large,Hospital,Urban,90,Dealer
+C02069,Kanto,Small,Optical Shop,Urban,81,Direct
+C02070,Kanto,Small,Optical Shop,Urban,63,Dealer
+C02071,Chubu,Medium,Optical Shop,Rural,49,Direct
+C02072,Kansai,Medium,Eye Clinic,Rural,71,Dealer
+C02073,Kanto,Small,Optical Shop,Urban,67,Direct
+C02074,Kyushu,Large,Hospital,Urban,85,Dealer
+C02075,Kyushu,Medium,Hospital,Urban,75,Dealer
+C02076,Kyushu,Medium,Eye Clinic,Urban,76,Dealer
+C02077,Kanto,Large,Hospital,Urban,99,Dealer
+C02078,Kansai,Medium,Optical Shop,Urban,51,Dealer
+C02079,Hokkaido,Medium,Optical Shop,Urban,87,Direct
+C02080,Kyushu,Small,Eye Clinic,Urban,59,Dealer
+C02081,Kanto,Small,Eye Clinic,Rural,41,Dealer
+C02082,Kanto,Small,Eye Clinic,Rural,63,Dealer
+C02083,Kansai,Small,Optical Shop,Urban,64,Dealer
+C02084,Hokkaido,Large,Hospital,Rural,98,Direct
+C02085,Kansai,Small,Eye Clinic,Urban,68,Dealer
+C02086,Kansai,Small,Eye Clinic,Urban,64,Dealer
+C02087,Kanto,Small,Eye Clinic,Urban,62,Dealer
+C02088,Chubu,Large,Eye Clinic,Rural,83,Dealer
+C02089,Kyushu,Small,Optical Shop,Rural,50,Dealer
+C02090,Kansai,Large,Hospital,Urban,87,Dealer
+C02091,Kyushu,Small,Eye Clinic,Rural,60,Dealer
+C02092,Hokkaido,Small,Eye Clinic,Rural,53,Dealer
+C02093,Kanto,Small,Eye Clinic,Urban,64,Dealer
+C02094,Kansai,Medium,Optical Shop,Urban,87,Dealer
+C02095,Kanto,Medium,Eye Clinic,Urban,75,Dealer
+C02096,Kyushu,Large,Eye Clinic,Urban,88,Dealer
+C02097,Kansai,Small,Eye Clinic,Urban,58,Dealer
+C02098,Chubu,Medium,Hospital,Urban,88,Dealer
+C02099,Kyushu,Large,Hospital,Urban,99,Dealer
+C02100,Kansai,Medium,Hospital,Urban,93,Dealer
+C02101,Hokkaido,Medium,Eye Clinic,Urban,70,Direct
+C02102,Kansai,Medium,Eye Clinic,Urban,71,Dealer
+C02103,Kanto,Small,Eye Clinic,Urban,72,Dealer
+C02104,Chubu,Large,Hospital,Urban,99,Dealer
+C02105,Kyushu,Small,Eye Clinic,Rural,45,Dealer
+C02106,Kanto,Small,Eye Clinic,Urban,77,Direct
+C02107,Kyushu,Small,Optical Shop,Rural,37,Direct
+C02108,Hokkaido,Medium,Optical Shop,Rural,74,Dealer
+C02109,Kanto,Small,Eye Clinic,Rural,41,Dealer
+C02110,Hokkaido,Medium,Eye Clinic,Rural,85,Dealer
+C02111,Kanto,Large,Eye Clinic,Urban,73,Dealer
+C02112,Kanto,Large,Hospital,Urban,100,Dealer
+C02113,Kanto,Small,Optical Shop,Urban,63,Direct
+C02114,Kyushu,Small,Eye Clinic,Urban,60,Dealer
+C02115,Chubu,Small,Eye Clinic,Rural,56,Direct
+C02116,Kanto,Small,Optical Shop,Urban,70,Direct
+C02117,Kansai,Small,Optical Shop,Urban,55,Direct
+C02118,Kansai,Large,Eye Clinic,Urban,80,Dealer
+C02119,Kanto,Large,Eye Clinic,Urban,94,Dealer
+C02120,Kyushu,Large,Eye Clinic,Rural,61,Dealer
+C02121,Kyushu,Large,Eye Clinic,Rural,72,Dealer
+C02122,Kansai,Small,Optical Shop,Rural,84,Dealer
+C02123,Hokkaido,Small,Optical Shop,Rural,44,Dealer
+C02124,Kansai,Medium,Optical Shop,Urban,87,Dealer
+C02125,Hokkaido,Small,Eye Clinic,Urban,58,Dealer
+C02126,Chubu,Medium,Optical Shop,Urban,81,Dealer
+C02127,Chubu,Small,Eye Clinic,Urban,71,Dealer
+C02128,Kanto,Medium,Eye Clinic,Rural,77,Dealer
+C02129,Kyushu,Medium,Eye Clinic,Urban,74,Dealer
+C02130,Kansai,Large,Eye Clinic,Urban,100,Dealer
+C02131,Kanto,Small,Optical Shop,Urban,58,Direct
+C02132,Kanto,Medium,Eye Clinic,Urban,78,Dealer
+C02133,Kansai,Medium,Eye Clinic,Urban,78,Dealer
+C02134,Kansai,Small,Eye Clinic,Urban,53,Dealer
+C02135,Chubu,Medium,Eye Clinic,Rural,63,Dealer
+C02136,Kyushu,Medium,Eye Clinic,Urban,78,Dealer
+C02137,Kanto,Medium,Eye Clinic,Urban,72,Direct
+C02138,Chubu,Small,Optical Shop,Rural,78,Direct
+C02139,Kanto,Small,Eye Clinic,Urban,56,Dealer
+C02140,Kyushu,Medium,Eye Clinic,Rural,78,Dealer
+C02141,Kyushu,Small,Eye Clinic,Urban,73,Dealer
+C02142,Kansai,Small,Optical Shop,Urban,64,Dealer
+C02143,Chubu,Large,Eye Clinic,Rural,69,Dealer
+C02144,Kanto,Medium,Eye Clinic,Rural,58,Dealer
+C02145,Kansai,Medium,Eye Clinic,Urban,71,Dealer
+C02146,Kyushu,Small,Eye Clinic,Urban,46,Dealer
+C02147,Kansai,Small,Eye Clinic,Urban,54,Dealer
+C02148,Kanto,Large,Hospital,Urban,81,Dealer
+C02149,Kansai,Large,Hospital,Urban,100,Dealer
+C02150,Kyushu,Medium,Eye Clinic,Rural,72,Dealer
+C02151,Kanto,Large,Hospital,Urban,100,Dealer
+C02152,Kanto,Large,Hospital,Urban,100,Dealer
+C02153,Chubu,Small,Eye Clinic,Urban,66,Dealer
+C02154,Kyushu,Small,Eye Clinic,Urban,79,Dealer
+C02155,Kanto,Small,Eye Clinic,Urban,58,Dealer
+C02156,Kanto,Small,Eye Clinic,Urban,65,Dealer
+C02157,Kanto,Large,Hospital,Urban,100,Dealer
+C02158,Kanto,Small,Optical Shop,Urban,51,Dealer
+C02159,Kansai,Small,Optical Shop,Urban,95,Dealer
+C02160,Chubu,Large,Hospital,Rural,86,Dealer
+C02161,Chubu,Large,Eye Clinic,Urban,89,Dealer
+C02162,Chubu,Medium,Eye Clinic,Rural,79,Dealer
+C02163,Kanto,Medium,Optical Shop,Urban,85,Direct
+C02164,Kyushu,Small,Eye Clinic,Rural,54,Dealer
+C02165,Kansai,Large,Hospital,Urban,97,Dealer
+C02166,Hokkaido,Medium,Optical Shop,Urban,61,Dealer
+C02167,Chubu,Large,Hospital,Rural,80,Dealer
+C02168,Kanto,Small,Optical Shop,Urban,69,Dealer
+C02169,Chubu,Small,Eye Clinic,Urban,68,Direct
+C02170,Kanto,Medium,Hospital,Urban,96,Dealer
+C02171,Chubu,Small,Optical Shop,Urban,63,Dealer
+C02172,Kanto,Large,Eye Clinic,Urban,74,Dealer
+C02173,Kanto,Medium,Hospital,Urban,95,Dealer
+C02174,Kyushu,Small,Eye Clinic,Urban,78,Direct
+C02175,Kanto,Small,Optical Shop,Urban,73,Dealer
+C02176,Kyushu,Small,Eye Clinic,Rural,52,Dealer
+C02177,Kanto,Small,Eye Clinic,Urban,74,Direct
+C02178,Chubu,Medium,Eye Clinic,Rural,100,Dealer
+C02179,Chubu,Large,Hospital,Rural,87,Dealer
+C02180,Kansai,Small,Eye Clinic,Urban,51,Direct
+C02181,Kanto,Small,Eye Clinic,Urban,58,Dealer
+C02182,Kanto,Small,Eye Clinic,Urban,70,Dealer
+C02183,Kanto,Small,Optical Shop,Urban,48,Dealer
+C02184,Kanto,Medium,Eye Clinic,Urban,78,Dealer
+C02185,Chubu,Medium,Eye Clinic,Urban,80,Dealer
+C02186,Hokkaido,Medium,Optical Shop,Rural,81,Dealer
+C02187,Kyushu,Medium,Eye Clinic,Rural,79,Direct
+C02188,Chubu,Small,Optical Shop,Urban,73,Direct
+C02189,Kyushu,Large,Eye Clinic,Rural,56,Direct
+C02190,Chubu,Large,Hospital,Urban,100,Dealer
+C02191,Kanto,Large,Eye Clinic,Urban,95,Direct
+C02192,Hokkaido,Small,Eye Clinic,Rural,57,Dealer
+C02193,Chubu,Large,Hospital,Urban,79,Dealer
+C02194,Kansai,Medium,Eye Clinic,Rural,58,Dealer
+C02195,Kanto,Medium,Optical Shop,Urban,64,Dealer
+C02196,Kansai,Small,Eye Clinic,Urban,44,Dealer
+C02197,Kansai,Medium,Eye Clinic,Urban,76,Direct
+C02198,Kyushu,Large,Eye Clinic,Rural,70,Dealer
+C02199,Kansai,Small,Optical Shop,Rural,80,Dealer
+C02200,Kansai,Medium,Eye Clinic,Urban,74,Dealer
+C02201,Hokkaido,Large,Eye Clinic,Urban,100,Direct
+C02202,Kanto,Small,Eye Clinic,Urban,48,Dealer
+C02203,Kansai,Medium,Eye Clinic,Urban,71,Dealer
+C02204,Kanto,Small,Eye Clinic,Urban,65,Dealer
+C02205,Chubu,Medium,Optical Shop,Urban,67,Dealer
+C02206,Hokkaido,Small,Eye Clinic,Rural,50,Direct
+C02207,Kanto,Small,Optical Shop,Urban,62,Dealer
+C02208,Kyushu,Medium,Eye Clinic,Rural,64,Dealer
+C02209,Kanto,Large,Hospital,Urban,100,Dealer
+C02210,Hokkaido,Small,Optical Shop,Urban,68,Direct
+C02211,Chubu,Large,Eye Clinic,Urban,93,Dealer
+C02212,Kyushu,Medium,Optical Shop,Urban,81,Dealer
+C02213,Kanto,Small,Eye Clinic,Urban,70,Dealer
+C02214,Hokkaido,Small,Optical Shop,Urban,63,Dealer
+C02215,Chubu,Medium,Hospital,Urban,81,Direct
+C02216,Kanto,Small,Eye Clinic,Urban,66,Direct
+C02217,Kyushu,Medium,Eye Clinic,Urban,88,Direct
+C02218,Kanto,Large,Eye Clinic,Urban,99,Direct
+C02219,Kyushu,Medium,Eye Clinic,Rural,64,Direct
+C02220,Kanto,Small,Eye Clinic,Urban,72,Dealer
+C02221,Chubu,Small,Eye Clinic,Urban,62,Direct
+C02222,Kansai,Medium,Eye Clinic,Urban,76,Dealer
+C02223,Kanto,Small,Optical Shop,Rural,49,Dealer
+C02224,Kanto,Small,Eye Clinic,Rural,52,Dealer
+C02225,Kanto,Large,Eye Clinic,Urban,100,Direct
+C02226,Kansai,Large,Hospital,Rural,87,Dealer
+C02227,Kanto,Small,Eye Clinic,Rural,55,Direct
+C02228,Kansai,Large,Eye Clinic,Rural,64,Dealer
+C02229,Kanto,Small,Eye Clinic,Urban,61,Dealer
+C02230,Kanto,Medium,Optical Shop,Urban,74,Dealer
+C02231,Chubu,Small,Optical Shop,Urban,56,Dealer
+C02232,Kanto,Small,Eye Clinic,Urban,64,Dealer
+C02233,Hokkaido,Large,Hospital,Rural,82,Dealer
+C02234,Kyushu,Small,Eye Clinic,Urban,65,Direct
+C02235,Chubu,Large,Hospital,Urban,97,Dealer
+C02236,Kansai,Medium,Hospital,Urban,74,Dealer
+C02237,Kyushu,Medium,Hospital,Urban,80,Dealer
+C02238,Kanto,Small,Eye Clinic,Urban,65,Dealer
+C02239,Kanto,Small,Eye Clinic,Rural,66,Dealer
+C02240,Kanto,Medium,Eye Clinic,Urban,79,Dealer
+C02241,Kyushu,Small,Optical Shop,Rural,47,Dealer
+C02242,Kanto,Medium,Eye Clinic,Urban,80,Dealer
+C02243,Kansai,Small,Optical Shop,Urban,81,Dealer
+C02244,Hokkaido,Medium,Optical Shop,Urban,85,Direct
+C02245,Kyushu,Small,Eye Clinic,Rural,59,Dealer
+C02246,Kansai,Large,Hospital,Urban,100,Dealer
+C02247,Kanto,Large,Hospital,Urban,100,Dealer
+C02248,Kyushu,Small,Optical Shop,Rural,65,Dealer
+C02249,Kansai,Small,Optical Shop,Urban,70,Dealer
+C02250,Kanto,Medium,Hospital,Urban,95,Dealer
+C02251,Kanto,Small,Eye Clinic,Urban,53,Dealer
+C02252,Hokkaido,Small,Optical Shop,Urban,49,Dealer
+C02253,Chubu,Small,Eye Clinic,Urban,66,Direct
+C02254,Kyushu,Small,Optical Shop,Urban,65,Direct
+C02255,Kyushu,Medium,Optical Shop,Rural,61,Direct
+C02256,Kansai,Small,Eye Clinic,Rural,62,Dealer
+C02257,Kansai,Medium,Hospital,Urban,65,Dealer
+C02258,Kansai,Small,Eye Clinic,Rural,49,Dealer
+C02259,Kanto,Medium,Eye Clinic,Urban,71,Dealer
+C02260,Kansai,Small,Eye Clinic,Urban,48,Dealer
+C02261,Kyushu,Small,Optical Shop,Urban,79,Dealer
+C02262,Kansai,Small,Optical Shop,Urban,50,Dealer
+C02263,Kyushu,Small,Optical Shop,Urban,58,Direct
+C02264,Kansai,Medium,Eye Clinic,Urban,85,Dealer
+C02265,Kansai,Medium,Optical Shop,Urban,82,Dealer
+C02266,Chubu,Medium,Hospital,Urban,73,Dealer
+C02267,Kansai,Small,Eye Clinic,Urban,71,Dealer
+C02268,Chubu,Small,Eye Clinic,Rural,57,Dealer
+C02269,Kanto,Small,Eye Clinic,Urban,87,Dealer
+C02270,Kansai,Small,Optical Shop,Urban,68,Dealer
+C02271,Kanto,Medium,Hospital,Urban,83,Dealer
+C02272,Kansai,Large,Hospital,Urban,87,Dealer
+C02273,Kansai,Medium,Eye Clinic,Urban,69,Dealer
+C02274,Chubu,Medium,Hospital,Urban,76,Dealer
+C02275,Hokkaido,Medium,Eye Clinic,Urban,90,Dealer
+C02276,Kansai,Small,Eye Clinic,Urban,64,Dealer
+C02277,Chubu,Medium,Hospital,Urban,90,Direct
+C02278,Kansai,Medium,Eye Clinic,Rural,81,Dealer
+C02279,Chubu,Small,Optical Shop,Rural,30,Dealer
+C02280,Kanto,Small,Eye Clinic,Urban,77,Direct
+C02281,Kanto,Large,Hospital,Urban,97,Direct
+C02282,Kanto,Large,Eye Clinic,Rural,82,Direct
+C02283,Kansai,Medium,Eye Clinic,Urban,68,Dealer
+C02284,Kanto,Small,Eye Clinic,Urban,56,Dealer
+C02285,Kanto,Medium,Eye Clinic,Urban,81,Dealer
+C02286,Kanto,Medium,Optical Shop,Urban,100,Dealer
+C02287,Hokkaido,Medium,Eye Clinic,Urban,86,Direct
+C02288,Kanto,Medium,Optical Shop,Rural,79,Dealer
+C02289,Kansai,Small,Optical Shop,Urban,62,Direct
+C02290,Kanto,Small,Eye Clinic,Urban,58,Dealer
+C02291,Kansai,Medium,Eye Clinic,Urban,68,Dealer
+C02292,Kanto,Large,Hospital,Urban,91,Direct
+C02293,Kanto,Small,Optical Shop,Urban,43,Dealer
+C02294,Kansai,Small,Optical Shop,Rural,47,Direct
+C02295,Kanto,Large,Eye Clinic,Urban,82,Dealer
+C02296,Kanto,Medium,Optical Shop,Rural,64,Dealer
+C02297,Kanto,Large,Eye Clinic,Rural,79,Dealer
+C02298,Kanto,Medium,Optical Shop,Urban,80,Direct
+C02299,Kanto,Medium,Optical Shop,Urban,76,Dealer
+C02300,Kanto,Small,Eye Clinic,Urban,58,Dealer
+C02301,Kyushu,Small,Eye Clinic,Urban,44,Dealer
+C02302,Kansai,Small,Eye Clinic,Urban,58,Dealer
+C02303,Kansai,Medium,Eye Clinic,Urban,66,Dealer
+C02304,Kanto,Small,Optical Shop,Urban,69,Dealer
+C02305,Hokkaido,Medium,Eye Clinic,Rural,75,Dealer
+C02306,Kansai,Small,Eye Clinic,Rural,63,Dealer
+C02307,Kanto,Small,Eye Clinic,Urban,72,Direct
+C02308,Kansai,Medium,Optical Shop,Urban,75,Dealer
+C02309,Kanto,Medium,Hospital,Urban,79,Direct
+C02310,Kanto,Small,Eye Clinic,Urban,57,Dealer
+C02311,Kansai,Small,Eye Clinic,Urban,49,Direct
+C02312,Kyushu,Small,Optical Shop,Urban,74,Dealer
+C02313,Kansai,Medium,Optical Shop,Urban,74,Dealer
+C02314,Chubu,Small,Eye Clinic,Urban,52,Direct
+C02315,Hokkaido,Medium,Eye Clinic,Urban,68,Dealer
+C02316,Kanto,Small,Eye Clinic,Urban,55,Dealer
+C02317,Kanto,Medium,Eye Clinic,Urban,76,Direct
+C02318,Kansai,Small,Eye Clinic,Rural,65,Dealer
+C02319,Kansai,Small,Optical Shop,Urban,61,Direct
+C02320,Kansai,Medium,Eye Clinic,Urban,53,Dealer
+C02321,Hokkaido,Small,Optical Shop,Urban,62,Dealer
+C02322,Chubu,Large,Eye Clinic,Urban,86,Dealer
+C02323,Kansai,Large,Hospital,Urban,94,Dealer
+C02324,Kanto,Large,Hospital,Urban,90,Dealer
+C02325,Kyushu,Small,Eye Clinic,Rural,56,Dealer
+C02326,Hokkaido,Large,Eye Clinic,Urban,89,Dealer
+C02327,Kyushu,Large,Hospital,Rural,86,Dealer
+C02328,Kanto,Small,Eye Clinic,Urban,68,Dealer
+C02329,Chubu,Small,Eye Clinic,Urban,60,Direct
+C02330,Kanto,Medium,Eye Clinic,Urban,71,Dealer
+C02331,Kanto,Small,Optical Shop,Urban,78,Dealer
+C02332,Kanto,Medium,Eye Clinic,Urban,82,Direct
+C02333,Kansai,Small,Optical Shop,Urban,72,Dealer
+C02334,Chubu,Medium,Eye Clinic,Urban,88,Direct
+C02335,Kanto,Small,Optical Shop,Urban,69,Dealer
+C02336,Kansai,Small,Eye Clinic,Urban,73,Dealer
+C02337,Kansai,Small,Optical Shop,Rural,38,Dealer
+C02338,Kanto,Large,Eye Clinic,Urban,90,Dealer
+C02339,Kanto,Medium,Hospital,Urban,82,Direct
+C02340,Kansai,Large,Hospital,Urban,100,Dealer
+C02341,Chubu,Medium,Eye Clinic,Rural,75,Dealer
+C02342,Kanto,Medium,Eye Clinic,Urban,70,Dealer
+C02343,Kanto,Medium,Eye Clinic,Urban,80,Dealer
+C02344,Kanto,Medium,Eye Clinic,Urban,78,Dealer
+C02345,Hokkaido,Small,Optical Shop,Urban,69,Dealer
+C02346,Chubu,Large,Eye Clinic,Urban,78,Direct
+C02347,Chubu,Medium,Eye Clinic,Rural,70,Direct
+C02348,Kanto,Large,Hospital,Rural,84,Dealer
+C02349,Kansai,Medium,Eye Clinic,Urban,79,Dealer
+C02350,Kanto,Large,Eye Clinic,Urban,81,Dealer
+C02351,Chubu,Small,Eye Clinic,Urban,58,Dealer
+C02352,Hokkaido,Small,Optical Shop,Urban,76,Dealer
+C02353,Kansai,Medium,Optical Shop,Rural,55,Dealer
+C02354,Kyushu,Small,Optical Shop,Urban,54,Dealer
+C02355,Chubu,Small,Eye Clinic,Urban,63,Direct
+C02356,Kanto,Medium,Optical Shop,Urban,68,Direct
+C02357,Hokkaido,Medium,Eye Clinic,Rural,57,Dealer
+C02358,Kanto,Small,Eye Clinic,Urban,65,Dealer
+C02359,Kansai,Large,Eye Clinic,Urban,73,Dealer
+C02360,Kanto,Medium,Eye Clinic,Urban,66,Dealer
+C02361,Kanto,Medium,Eye Clinic,Urban,97,Dealer
+C02362,Kansai,Medium,Eye Clinic,Rural,71,Dealer
+C02363,Kanto,Small,Eye Clinic,Urban,57,Direct
+C02364,Kansai,Small,Eye Clinic,Urban,68,Direct
+C02365,Kansai,Medium,Hospital,Urban,90,Dealer
+C02366,Kanto,Medium,Eye Clinic,Urban,86,Dealer
+C02367,Kanto,Large,Hospital,Urban,95,Dealer
+C02368,Kansai,Medium,Eye Clinic,Urban,86,Direct
+C02369,Kanto,Medium,Optical Shop,Urban,56,Direct
+C02370,Chubu,Medium,Eye Clinic,Rural,55,Dealer
+C02371,Chubu,Medium,Eye Clinic,Rural,68,Dealer
+C02372,Kyushu,Small,Eye Clinic,Rural,57,Dealer
+C02373,Chubu,Medium,Hospital,Urban,75,Dealer
+C02374,Kansai,Medium,Optical Shop,Urban,79,Dealer
+C02375,Chubu,Small,Eye Clinic,Rural,48,Dealer
+C02376,Kanto,Small,Eye Clinic,Urban,61,Dealer
+C02377,Kanto,Small,Optical Shop,Urban,74,Dealer
+C02378,Kyushu,Large,Hospital,Rural,95,Direct
+C02379,Kansai,Large,Eye Clinic,Urban,78,Dealer
+C02380,Kyushu,Small,Eye Clinic,Urban,53,Dealer
+C02381,Kyushu,Small,Eye Clinic,Rural,50,Dealer
+C02382,Kyushu,Medium,Hospital,Rural,74,Dealer
+C02383,Hokkaido,Medium,Eye Clinic,Urban,69,Dealer
+C02384,Kansai,Small,Optical Shop,Urban,74,Dealer
+C02385,Kanto,Medium,Eye Clinic,Urban,79,Direct
+C02386,Kansai,Large,Eye Clinic,Urban,92,Dealer
+C02387,Kanto,Large,Eye Clinic,Urban,75,Dealer
+C02388,Kansai,Small,Optical Shop,Urban,76,Dealer
+C02389,Chubu,Small,Optical Shop,Rural,26,Dealer
+C02390,Chubu,Medium,Eye Clinic,Rural,74,Direct
+C02391,Kanto,Large,Hospital,Urban,100,Dealer
+C02392,Kanto,Large,Eye Clinic,Urban,84,Dealer
+C02393,Kansai,Small,Eye Clinic,Urban,77,Dealer
+C02394,Kanto,Medium,Eye Clinic,Rural,65,Dealer
+C02395,Kyushu,Small,Eye Clinic,Urban,65,Direct
+C02396,Kanto,Small,Eye Clinic,Urban,67,Dealer
+C02397,Kanto,Small,Optical Shop,Urban,96,Dealer
+C02398,Kanto,Small,Eye Clinic,Rural,67,Direct
+C02399,Chubu,Small,Optical Shop,Rural,61,Dealer
+C02400,Chubu,Small,Eye Clinic,Urban,55,Dealer
+C02401,Kanto,Large,Hospital,Rural,87,Dealer
+C02402,Kanto,Small,Eye Clinic,Urban,56,Dealer
+C02403,Kansai,Medium,Eye Clinic,Urban,84,Dealer
+C02404,Kanto,Small,Eye Clinic,Rural,55,Dealer
+C02405,Chubu,Small,Eye Clinic,Rural,43,Dealer
+C02406,Kansai,Large,Hospital,Urban,97,Dealer
+C02407,Kanto,Small,Eye Clinic,Urban,56,Dealer
+C02408,Kanto,Small,Optical Shop,Rural,56,Dealer
+C02409,Hokkaido,Small,Eye Clinic,Rural,45,Direct
+C02410,Kansai,Medium,Eye Clinic,Rural,66,Dealer
+C02411,Chubu,Small,Eye Clinic,Urban,72,Direct
+C02412,Kanto,Small,Optical Shop,Rural,53,Dealer
+C02413,Kansai,Large,Hospital,Rural,82,Dealer
+C02414,Kanto,Small,Eye Clinic,Urban,66,Dealer
+C02415,Kansai,Small,Eye Clinic,Rural,61,Direct
+C02416,Hokkaido,Small,Eye Clinic,Urban,53,Dealer
+C02417,Kansai,Small,Optical Shop,Urban,67,Dealer
+C02418,Kanto,Medium,Hospital,Urban,97,Direct
+C02419,Kanto,Medium,Eye Clinic,Urban,82,Direct
+C02420,Kansai,Medium,Eye Clinic,Urban,77,Dealer
+C02421,Kanto,Large,Eye Clinic,Rural,84,Direct
+C02422,Kanto,Small,Optical Shop,Urban,69,Dealer
+C02423,Chubu,Medium,Eye Clinic,Urban,84,Dealer
+C02424,Kansai,Large,Hospital,Rural,66,Dealer
+C02425,Kanto,Large,Eye Clinic,Urban,72,Dealer
+C02426,Hokkaido,Large,Hospital,Urban,100,Dealer
+C02427,Kanto,Small,Optical Shop,Urban,49,Dealer
+C02428,Hokkaido,Large,Hospital,Urban,100,Dealer
+C02429,Kanto,Large,Hospital,Urban,92,Dealer
+C02430,Kyushu,Medium,Optical Shop,Rural,56,Direct
+C02431,Kansai,Medium,Eye Clinic,Urban,79,Dealer
+C02432,Kyushu,Small,Eye Clinic,Rural,56,Direct
+C02433,Hokkaido,Medium,Eye Clinic,Urban,97,Direct
+C02434,Kanto,Small,Optical Shop,Urban,58,Direct
+C02435,Hokkaido,Small,Eye Clinic,Rural,68,Direct
+C02436,Kansai,Medium,Hospital,Urban,88,Dealer
+C02437,Kansai,Large,Hospital,Urban,89,Dealer
+C02438,Kanto,Small,Eye Clinic,Urban,72,Dealer
+C02439,Kansai,Small,Eye Clinic,Urban,70,Dealer
+C02440,Kanto,Medium,Eye Clinic,Urban,76,Dealer
+C02441,Kansai,Small,Eye Clinic,Urban,67,Dealer
+C02442,Kansai,Small,Eye Clinic,Urban,58,Direct
+C02443,Chubu,Small,Eye Clinic,Urban,56,Direct
+C02444,Kyushu,Small,Optical Shop,Rural,62,Dealer
+C02445,Kansai,Small,Optical Shop,Urban,62,Dealer
+C02446,Kanto,Small,Eye Clinic,Urban,63,Dealer
+C02447,Kanto,Large,Eye Clinic,Urban,91,Direct
+C02448,Kanto,Medium,Eye Clinic,Urban,79,Dealer
+C02449,Kanto,Medium,Hospital,Rural,60,Dealer
+C02450,Kanto,Small,Optical Shop,Urban,77,Dealer
+C02451,Kanto,Small,Eye Clinic,Urban,65,Dealer
+C02452,Hokkaido,Medium,Eye Clinic,Rural,64,Direct
+C02453,Kansai,Small,Optical Shop,Urban,68,Dealer
+C02454,Kanto,Medium,Hospital,Urban,86,Dealer
+C02455,Kansai,Large,Eye Clinic,Urban,96,Direct
+C02456,Kanto,Medium,Hospital,Urban,89,Direct
+C02457,Kansai,Small,Eye Clinic,Rural,61,Direct
+C02458,Chubu,Large,Eye Clinic,Rural,92,Dealer
+C02459,Kansai,Small,Optical Shop,Urban,73,Dealer
+C02460,Kansai,Small,Optical Shop,Rural,52,Dealer
+C02461,Hokkaido,Medium,Eye Clinic,Urban,65,Dealer
+C02462,Kyushu,Small,Optical Shop,Urban,81,Dealer
+C02463,Chubu,Medium,Eye Clinic,Rural,64,Dealer
+C02464,Kansai,Small,Optical Shop,Urban,59,Dealer
+C02465,Chubu,Medium,Eye Clinic,Urban,59,Direct
+C02466,Kanto,Medium,Optical Shop,Urban,79,Dealer
+C02467,Kansai,Medium,Optical Shop,Urban,77,Direct
+C02468,Kanto,Large,Eye Clinic,Urban,73,Dealer
+C02469,Kansai,Small,Optical Shop,Urban,69,Dealer
+C02470,Kansai,Small,Optical Shop,Urban,59,Dealer
+C02471,Kanto,Small,Optical Shop,Urban,91,Dealer
+C02472,Hokkaido,Medium,Eye Clinic,Rural,60,Dealer
+C02473,Hokkaido,Medium,Optical Shop,Rural,62,Direct
+C02474,Chubu,Small,Optical Shop,Urban,55,Dealer
+C02475,Kansai,Large,Eye Clinic,Rural,91,Direct
+C02476,Kyushu,Medium,Optical Shop,Rural,62,Dealer
+C02477,Kanto,Large,Eye Clinic,Urban,81,Direct
+C02478,Kyushu,Large,Eye Clinic,Urban,95,Dealer
+C02479,Kanto,Small,Eye Clinic,Urban,50,Direct
+C02480,Kyushu,Small,Eye Clinic,Rural,60,Dealer
+C02481,Kanto,Medium,Hospital,Urban,100,Dealer
+C02482,Kyushu,Small,Eye Clinic,Urban,70,Direct
+C02483,Hokkaido,Small,Optical Shop,Urban,70,Dealer
+C02484,Kanto,Medium,Eye Clinic,Rural,75,Dealer
+C02485,Kansai,Large,Eye Clinic,Urban,100,Direct
+C02486,Hokkaido,Medium,Eye Clinic,Rural,78,Dealer
+C02487,Kansai,Small,Eye Clinic,Rural,58,Dealer
+C02488,Kyushu,Small,Optical Shop,Urban,73,Dealer
+C02489,Kansai,Medium,Hospital,Urban,75,Direct
+C02490,Kanto,Small,Optical Shop,Urban,72,Dealer
+C02491,Kanto,Medium,Eye Clinic,Rural,56,Dealer
+C02492,Kanto,Small,Eye Clinic,Urban,60,Dealer
+C02493,Chubu,Small,Eye Clinic,Urban,33,Direct
+C02494,Kansai,Small,Eye Clinic,Urban,68,Direct
+C02495,Kansai,Medium,Eye Clinic,Urban,70,Dealer
+C02496,Kansai,Large,Hospital,Rural,97,Dealer
+C02497,Kansai,Small,Eye Clinic,Urban,68,Dealer
+C02498,Kyushu,Small,Optical Shop,Rural,65,Dealer
+C02499,Hokkaido,Large,Eye Clinic,Urban,77,Dealer
+C02500,Kansai,Small,Eye Clinic,Urban,74,Direct
+C02501,Kyushu,Large,Hospital,Rural,100,Dealer
+C02502,Chubu,Medium,Eye Clinic,Urban,84,Dealer
+C02503,Kansai,Small,Optical Shop,Rural,62,Dealer
+C02504,Hokkaido,Large,Hospital,Urban,98,Dealer
+C02505,Kanto,Small,Eye Clinic,Urban,59,Dealer
+C02506,Kanto,Small,Optical Shop,Urban,72,Dealer
+C02507,Kyushu,Small,Eye Clinic,Rural,39,Dealer
+C02508,Kansai,Medium,Eye Clinic,Rural,62,Dealer
+C02509,Kyushu,Medium,Hospital,Urban,66,Direct
+C02510,Kyushu,Small,Eye Clinic,Urban,57,Dealer
+C02511,Kanto,Small,Optical Shop,Urban,70,Dealer
+C02512,Kyushu,Small,Optical Shop,Rural,59,Dealer
+C02513,Kansai,Small,Optical Shop,Urban,65,Direct
+C02514,Kansai,Medium,Eye Clinic,Urban,78,Direct
+C02515,Chubu,Medium,Eye Clinic,Rural,47,Dealer
+C02516,Hokkaido,Small,Optical Shop,Rural,50,Dealer
+C02517,Kanto,Small,Eye Clinic,Rural,47,Dealer
+C02518,Kansai,Medium,Eye Clinic,Urban,69,Dealer
+C02519,Chubu,Medium,Eye Clinic,Urban,82,Dealer
+C02520,Chubu,Small,Eye Clinic,Rural,45,Dealer
+C02521,Chubu,Small,Eye Clinic,Urban,58,Dealer
+C02522,Kanto,Small,Optical Shop,Rural,33,Dealer
+C02523,Kanto,Medium,Optical Shop,Rural,63,Dealer
+C02524,Kanto,Medium,Eye Clinic,Urban,65,Dealer
+C02525,Kyushu,Small,Eye Clinic,Urban,65,Dealer
+C02526,Kanto,Small,Eye Clinic,Urban,54,Dealer
+C02527,Kanto,Medium,Optical Shop,Urban,77,Dealer
+C02528,Hokkaido,Small,Eye Clinic,Urban,63,Dealer
+C02529,Kanto,Large,Hospital,Urban,100,Direct
+C02530,Hokkaido,Large,Eye Clinic,Urban,93,Dealer
+C02531,Chubu,Medium,Hospital,Urban,66,Direct
+C02532,Kyushu,Large,Eye Clinic,Urban,75,Dealer
+C02533,Kanto,Small,Optical Shop,Urban,65,Dealer
+C02534,Kanto,Medium,Eye Clinic,Urban,67,Dealer
+C02535,Chubu,Large,Hospital,Urban,66,Direct
+C02536,Kyushu,Small,Eye Clinic,Rural,67,Dealer
+C02537,Chubu,Large,Hospital,Urban,100,Dealer
+C02538,Kanto,Medium,Optical Shop,Urban,81,Dealer
+C02539,Chubu,Small,Eye Clinic,Rural,48,Direct
+C02540,Chubu,Small,Optical Shop,Rural,58,Direct
+C02541,Chubu,Small,Eye Clinic,Urban,57,Dealer
+C02542,Chubu,Small,Eye Clinic,Rural,56,Dealer
+C02543,Kyushu,Small,Eye Clinic,Rural,45,Dealer
+C02544,Kansai,Small,Eye Clinic,Rural,69,Direct
+C02545,Kanto,Medium,Hospital,Urban,68,Dealer
+C02546,Kansai,Small,Optical Shop,Urban,76,Direct
+C02547,Kanto,Small,Eye Clinic,Urban,64,Dealer
+C02548,Kansai,Small,Eye Clinic,Urban,59,Dealer
+C02549,Kansai,Small,Optical Shop,Rural,56,Direct
+C02550,Kanto,Medium,Optical Shop,Urban,83,Dealer
+C02551,Kanto,Small,Eye Clinic,Rural,68,Direct
+C02552,Kanto,Medium,Optical Shop,Urban,79,Dealer
+C02553,Kyushu,Medium,Eye Clinic,Rural,57,Direct
+C02554,Hokkaido,Medium,Eye Clinic,Urban,77,Dealer
+C02555,Kanto,Small,Optical Shop,Urban,82,Dealer
+C02556,Hokkaido,Medium,Eye Clinic,Urban,89,Dealer
+C02557,Kansai,Small,Eye Clinic,Urban,73,Dealer
+C02558,Kanto,Medium,Eye Clinic,Urban,84,Dealer
+C02559,Kanto,Small,Optical Shop,Rural,61,Direct
+C02560,Kansai,Small,Optical Shop,Urban,76,Dealer
+C02561,Kyushu,Medium,Eye Clinic,Rural,61,Dealer
+C02562,Chubu,Small,Eye Clinic,Urban,50,Direct
+C02563,Kanto,Medium,Eye Clinic,Urban,77,Dealer
+C02564,Kanto,Medium,Eye Clinic,Rural,58,Dealer
+C02565,Kansai,Small,Eye Clinic,Urban,53,Dealer
+C02566,Kanto,Small,Optical Shop,Urban,57,Direct
+C02567,Kanto,Medium,Eye Clinic,Urban,100,Dealer
+C02568,Kanto,Large,Eye Clinic,Urban,89,Dealer
+C02569,Kyushu,Small,Eye Clinic,Rural,58,Direct
+C02570,Hokkaido,Medium,Eye Clinic,Rural,54,Direct
+C02571,Kansai,Small,Optical Shop,Urban,46,Dealer
+C02572,Hokkaido,Small,Eye Clinic,Rural,46,Dealer
+C02573,Kanto,Small,Eye Clinic,Urban,78,Direct
+C02574,Kansai,Small,Eye Clinic,Urban,67,Dealer
+C02575,Kanto,Small,Eye Clinic,Rural,60,Direct
+C02576,Chubu,Small,Eye Clinic,Rural,61,Dealer
+C02577,Hokkaido,Medium,Eye Clinic,Rural,60,Dealer
+C02578,Kansai,Medium,Eye Clinic,Urban,90,Dealer
+C02579,Kanto,Small,Eye Clinic,Rural,48,Dealer
+C02580,Chubu,Small,Eye Clinic,Rural,68,Dealer
+C02581,Kanto,Small,Eye Clinic,Urban,68,Dealer
+C02582,Kyushu,Small,Optical Shop,Urban,46,Dealer
+C02583,Kansai,Small,Eye Clinic,Urban,57,Dealer
+C02584,Kansai,Small,Eye Clinic,Urban,46,Dealer
+C02585,Kansai,Large,Eye Clinic,Urban,100,Direct
+C02586,Chubu,Medium,Eye Clinic,Urban,76,Dealer
+C02587,Kanto,Small,Optical Shop,Urban,42,Dealer
+C02588,Chubu,Small,Eye Clinic,Rural,58,Dealer
+C02589,Kanto,Medium,Hospital,Urban,79,Dealer
+C02590,Chubu,Medium,Eye Clinic,Urban,61,Dealer
+C02591,Kyushu,Medium,Eye Clinic,Urban,93,Dealer
+C02592,Kyushu,Small,Optical Shop,Urban,65,Dealer
+C02593,Kansai,Medium,Eye Clinic,Urban,73,Dealer
+C02594,Kansai,Small,Eye Clinic,Urban,60,Dealer
+C02595,Kanto,Small,Eye Clinic,Rural,39,Direct
+C02596,Kyushu,Medium,Hospital,Rural,61,Dealer
+C02597,Kanto,Small,Eye Clinic,Urban,77,Dealer
+C02598,Kansai,Small,Optical Shop,Urban,59,Dealer
+C02599,Kanto,Small,Eye Clinic,Urban,64,Dealer
+C02600,Kanto,Small,Optical Shop,Urban,44,Dealer
+C02601,Chubu,Small,Eye Clinic,Urban,51,Direct
+C02602,Kanto,Large,Hospital,Urban,100,Dealer
+C02603,Chubu,Small,Eye Clinic,Urban,68,Dealer
+C02604,Kanto,Small,Optical Shop,Urban,82,Dealer
+C02605,Kanto,Medium,Eye Clinic,Urban,89,Dealer
+C02606,Kansai,Medium,Eye Clinic,Urban,74,Dealer
+C02607,Kanto,Medium,Eye Clinic,Urban,81,Dealer
+C02608,Kanto,Small,Eye Clinic,Rural,51,Direct
+C02609,Chubu,Small,Eye Clinic,Rural,75,Dealer
+C02610,Kanto,Medium,Optical Shop,Urban,87,Dealer
+C02611,Kyushu,Small,Optical Shop,Urban,66,Dealer
+C02612,Kanto,Small,Eye Clinic,Urban,66,Dealer
+C02613,Kanto,Medium,Optical Shop,Urban,90,Direct
+C02614,Chubu,Small,Eye Clinic,Urban,70,Direct
+C02615,Kanto,Large,Eye Clinic,Urban,100,Dealer
+C02616,Kanto,Large,Hospital,Urban,74,Dealer
+C02617,Kanto,Large,Hospital,Urban,100,Dealer
+C02618,Kanto,Medium,Optical Shop,Urban,71,Dealer
+C02619,Kyushu,Medium,Eye Clinic,Rural,84,Dealer
+C02620,Kanto,Medium,Hospital,Urban,99,Direct
+C02621,Kyushu,Small,Eye Clinic,Rural,54,Dealer
+C02622,Kyushu,Small,Eye Clinic,Urban,79,Dealer
+C02623,Kansai,Small,Eye Clinic,Urban,82,Dealer
+C02624,Hokkaido,Medium,Optical Shop,Urban,77,Dealer
+C02625,Kanto,Small,Optical Shop,Urban,89,Dealer
+C02626,Hokkaido,Small,Optical Shop,Urban,64,Dealer
+C02627,Kanto,Medium,Eye Clinic,Urban,74,Dealer
+C02628,Chubu,Large,Eye Clinic,Urban,97,Dealer
+C02629,Kansai,Small,Eye Clinic,Urban,60,Dealer
+C02630,Kansai,Small,Eye Clinic,Urban,65,Dealer
+C02631,Chubu,Small,Eye Clinic,Rural,68,Direct
+C02632,Chubu,Small,Optical Shop,Urban,64,Direct
+C02633,Kanto,Small,Eye Clinic,Urban,47,Direct
+C02634,Kanto,Medium,Eye Clinic,Urban,80,Dealer
+C02635,Chubu,Small,Eye Clinic,Rural,47,Dealer
+C02636,Chubu,Small,Eye Clinic,Rural,63,Dealer
+C02637,Hokkaido,Large,Eye Clinic,Rural,85,Direct
+C02638,Chubu,Small,Optical Shop,Urban,79,Dealer
+C02639,Hokkaido,Large,Hospital,Rural,95,Dealer
+C02640,Chubu,Small,Optical Shop,Urban,75,Dealer
+C02641,Kanto,Small,Eye Clinic,Rural,47,Dealer
+C02642,Kanto,Medium,Eye Clinic,Urban,84,Dealer
+C02643,Kyushu,Small,Eye Clinic,Urban,84,Dealer
+C02644,Chubu,Small,Optical Shop,Urban,57,Dealer
+C02645,Kanto,Small,Optical Shop,Urban,82,Direct
+C02646,Kanto,Medium,Eye Clinic,Urban,71,Dealer
+C02647,Hokkaido,Medium,Eye Clinic,Rural,57,Direct
+C02648,Kansai,Medium,Eye Clinic,Urban,79,Dealer
+C02649,Kansai,Large,Hospital,Urban,100,Dealer
+C02650,Kansai,Small,Optical Shop,Urban,73,Dealer
+C02651,Kanto,Small,Eye Clinic,Urban,54,Dealer
+C02652,Kanto,Small,Eye Clinic,Urban,68,Dealer
+C02653,Kanto,Small,Eye Clinic,Urban,57,Dealer
+C02654,Kanto,Small,Eye Clinic,Urban,49,Dealer
+C02655,Chubu,Medium,Eye Clinic,Urban,67,Dealer
+C02656,Kansai,Medium,Eye Clinic,Urban,68,Dealer
+C02657,Kyushu,Large,Hospital,Urban,100,Dealer
+C02658,Kyushu,Medium,Hospital,Urban,96,Dealer
+C02659,Kanto,Medium,Eye Clinic,Rural,51,Dealer
+C02660,Chubu,Medium,Optical Shop,Urban,80,Dealer
+C02661,Kansai,Medium,Eye Clinic,Urban,64,Dealer
+C02662,Kyushu,Small,Eye Clinic,Urban,70,Dealer
+C02663,Kanto,Small,Eye Clinic,Urban,58,Dealer
+C02664,Chubu,Small,Eye Clinic,Urban,53,Dealer
+C02665,Kansai,Small,Eye Clinic,Urban,72,Dealer
+C02666,Kanto,Medium,Eye Clinic,Urban,70,Dealer
+C02667,Kanto,Small,Eye Clinic,Urban,61,Dealer
+C02668,Chubu,Small,Optical Shop,Urban,42,Dealer
+C02669,Chubu,Medium,Eye Clinic,Urban,85,Direct
+C02670,Kanto,Medium,Eye Clinic,Urban,84,Dealer
+C02671,Chubu,Small,Eye Clinic,Urban,64,Dealer
+C02672,Kansai,Large,Hospital,Urban,81,Direct
+C02673,Chubu,Small,Eye Clinic,Urban,76,Dealer
+C02674,Kanto,Small,Optical Shop,Rural,47,Dealer
+C02675,Kyushu,Small,Eye Clinic,Urban,59,Direct
+C02676,Kanto,Medium,Eye Clinic,Urban,99,Direct
+C02677,Kanto,Large,Eye Clinic,Urban,81,Dealer
+C02678,Kanto,Small,Eye Clinic,Urban,71,Dealer
+C02679,Kanto,Medium,Eye Clinic,Urban,82,Dealer
+C02680,Kansai,Small,Eye Clinic,Urban,68,Dealer
+C02681,Kanto,Medium,Eye Clinic,Urban,79,Dealer
+C02682,Kyushu,Small,Eye Clinic,Urban,68,Dealer
+C02683,Kanto,Small,Eye Clinic,Urban,67,Direct
+C02684,Kanto,Medium,Optical Shop,Urban,75,Dealer
+C02685,Kanto,Medium,Eye Clinic,Urban,91,Dealer
+C02686,Kanto,Small,Optical Shop,Rural,41,Dealer
+C02687,Kanto,Small,Optical Shop,Urban,74,Dealer
+C02688,Kansai,Small,Eye Clinic,Rural,62,Dealer
+C02689,Kansai,Small,Eye Clinic,Rural,61,Dealer
+C02690,Kansai,Medium,Eye Clinic,Rural,77,Dealer
+C02691,Kansai,Large,Hospital,Rural,85,Dealer
+C02692,Kansai,Large,Hospital,Urban,77,Dealer
+C02693,Kanto,Small,Optical Shop,Urban,63,Dealer
+C02694,Kansai,Medium,Optical Shop,Urban,66,Dealer
+C02695,Hokkaido,Large,Hospital,Urban,89,Dealer
+C02696,Kansai,Medium,Eye Clinic,Rural,54,Dealer
+C02697,Chubu,Small,Eye Clinic,Rural,49,Dealer
+C02698,Kanto,Medium,Optical Shop,Urban,70,Dealer
+C02699,Kyushu,Medium,Eye Clinic,Urban,52,Direct
+C02700,Kyushu,Medium,Eye Clinic,Urban,83,Dealer
+C02701,Kansai,Large,Hospital,Urban,100,Dealer
+C02702,Hokkaido,Small,Eye Clinic,Urban,70,Dealer
+C02703,Kanto,Medium,Optical Shop,Urban,74,Dealer
+C02704,Kanto,Large,Hospital,Rural,85,Dealer
+C02705,Kyushu,Small,Eye Clinic,Urban,60,Dealer
+C02706,Kyushu,Small,Optical Shop,Rural,55,Direct
+C02707,Kanto,Small,Eye Clinic,Urban,64,Dealer
+C02708,Kanto,Small,Eye Clinic,Rural,46,Dealer
+C02709,Kanto,Small,Eye Clinic,Urban,81,Dealer
+C02710,Kanto,Medium,Eye Clinic,Rural,51,Dealer
+C02711,Kyushu,Small,Eye Clinic,Rural,61,Dealer
+C02712,Kansai,Large,Eye Clinic,Urban,87,Dealer
+C02713,Kanto,Small,Eye Clinic,Urban,83,Direct
+C02714,Kanto,Small,Eye Clinic,Rural,57,Direct
+C02715,Kanto,Small,Optical Shop,Urban,60,Dealer
+C02716,Kanto,Small,Optical Shop,Urban,62,Dealer
+C02717,Chubu,Small,Eye Clinic,Urban,64,Dealer
+C02718,Hokkaido,Small,Eye Clinic,Rural,43,Dealer
+C02719,Kyushu,Small,Eye Clinic,Rural,46,Direct
+C02720,Kanto,Medium,Eye Clinic,Urban,58,Dealer
+C02721,Kyushu,Medium,Optical Shop,Urban,67,Dealer
+C02722,Kyushu,Large,Hospital,Rural,87,Dealer
+C02723,Kyushu,Medium,Eye Clinic,Rural,69,Dealer
+C02724,Kansai,Medium,Eye Clinic,Rural,46,Dealer
+C02725,Kansai,Small,Eye Clinic,Urban,63,Direct
+C02726,Kanto,Large,Hospital,Urban,100,Dealer
+C02727,Kanto,Medium,Eye Clinic,Urban,74,Dealer
+C02728,Kanto,Small,Optical Shop,Urban,58,Dealer
+C02729,Kanto,Small,Optical Shop,Urban,60,Dealer
+C02730,Kansai,Small,Eye Clinic,Urban,59,Dealer
+C02731,Chubu,Small,Eye Clinic,Urban,58,Dealer
+C02732,Kansai,Medium,Optical Shop,Urban,78,Dealer
+C02733,Kanto,Small,Eye Clinic,Rural,77,Dealer
+C02734,Hokkaido,Medium,Eye Clinic,Urban,69,Dealer
+C02735,Hokkaido,Medium,Eye Clinic,Rural,63,Dealer
+C02736,Kyushu,Small,Optical Shop,Rural,53,Dealer
+C02737,Hokkaido,Large,Hospital,Urban,89,Direct
+C02738,Kansai,Medium,Hospital,Urban,95,Dealer
+C02739,Hokkaido,Small,Optical Shop,Rural,30,Dealer
+C02740,Kanto,Small,Optical Shop,Rural,49,Direct
+C02741,Kanto,Small,Optical Shop,Urban,72,Dealer
+C02742,Kanto,Small,Eye Clinic,Urban,61,Dealer
+C02743,Kanto,Large,Eye Clinic,Urban,80,Dealer
+C02744,Kanto,Large,Hospital,Urban,100,Dealer
+C02745,Chubu,Small,Optical Shop,Rural,63,Dealer
+C02746,Kyushu,Large,Hospital,Rural,88,Dealer
+C02747,Kansai,Medium,Eye Clinic,Urban,68,Direct
+C02748,Kanto,Small,Optical Shop,Urban,69,Dealer
+C02749,Kyushu,Medium,Hospital,Urban,80,Dealer
+C02750,Chubu,Large,Eye Clinic,Urban,95,Dealer
+C02751,Kansai,Small,Eye Clinic,Urban,79,Dealer
+C02752,Chubu,Small,Eye Clinic,Urban,38,Dealer
+C02753,Kanto,Small,Eye Clinic,Urban,65,Dealer
+C02754,Kanto,Medium,Eye Clinic,Urban,59,Dealer
+C02755,Hokkaido,Small,Eye Clinic,Urban,88,Dealer
+C02756,Kanto,Small,Eye Clinic,Urban,59,Dealer
+C02757,Kansai,Medium,Hospital,Urban,91,Direct
+C02758,Kyushu,Large,Hospital,Urban,96,Dealer
+C02759,Chubu,Small,Optical Shop,Urban,56,Direct
+C02760,Kanto,Medium,Eye Clinic,Urban,67,Dealer
+C02761,Kanto,Large,Eye Clinic,Urban,100,Dealer
+C02762,Kanto,Small,Optical Shop,Urban,74,Dealer
+C02763,Chubu,Large,Eye Clinic,Rural,97,Direct
+C02764,Kansai,Medium,Optical Shop,Urban,77,Dealer
+C02765,Kanto,Medium,Optical Shop,Urban,79,Dealer
+C02766,Hokkaido,Small,Eye Clinic,Rural,51,Dealer
+C02767,Kansai,Small,Optical Shop,Urban,61,Dealer
+C02768,Kanto,Medium,Eye Clinic,Urban,66,Dealer
+C02769,Kansai,Large,Eye Clinic,Rural,79,Dealer
+C02770,Chubu,Medium,Hospital,Rural,66,Direct
+C02771,Kanto,Medium,Eye Clinic,Urban,80,Dealer
+C02772,Kanto,Small,Optical Shop,Urban,66,Dealer
+C02773,Kyushu,Small,Eye Clinic,Urban,67,Dealer
+C02774,Kansai,Small,Eye Clinic,Urban,81,Dealer
+C02775,Kansai,Medium,Eye Clinic,Urban,76,Dealer
+C02776,Kansai,Large,Hospital,Urban,100,Dealer
+C02777,Kanto,Medium,Eye Clinic,Urban,97,Dealer
+C02778,Kanto,Large,Eye Clinic,Urban,100,Direct
+C02779,Kansai,Small,Optical Shop,Urban,76,Dealer
+C02780,Kanto,Medium,Eye Clinic,Rural,63,Dealer
+C02781,Kanto,Small,Optical Shop,Urban,66,Dealer
+C02782,Kyushu,Small,Eye Clinic,Urban,51,Dealer
+C02783,Hokkaido,Small,Optical Shop,Rural,59,Direct
+C02784,Kyushu,Large,Hospital,Urban,99,Dealer
+C02785,Kyushu,Medium,Eye Clinic,Urban,76,Direct
+C02786,Kanto,Medium,Eye Clinic,Rural,76,Dealer
+C02787,Hokkaido,Small,Optical Shop,Rural,42,Dealer
+C02788,Kanto,Small,Eye Clinic,Urban,80,Dealer
+C02789,Hokkaido,Small,Optical Shop,Urban,73,Dealer
+C02790,Hokkaido,Small,Eye Clinic,Urban,63,Dealer
+C02791,Chubu,Small,Eye Clinic,Urban,63,Direct
+C02792,Hokkaido,Medium,Eye Clinic,Urban,81,Dealer
+C02793,Kansai,Small,Optical Shop,Urban,79,Dealer
+C02794,Kanto,Small,Eye Clinic,Urban,65,Dealer
+C02795,Kansai,Small,Optical Shop,Urban,65,Dealer
+C02796,Kansai,Small,Optical Shop,Urban,64,Dealer
+C02797,Kanto,Large,Eye Clinic,Rural,96,Dealer
+C02798,Chubu,Medium,Eye Clinic,Rural,62,Dealer
+C02799,Hokkaido,Large,Hospital,Urban,96,Dealer
+C02800,Kanto,Large,Eye Clinic,Urban,100,Dealer
+C02801,Kyushu,Medium,Optical Shop,Urban,77,Dealer
+C02802,Hokkaido,Small,Eye Clinic,Urban,75,Direct
+C02803,Hokkaido,Small,Eye Clinic,Urban,55,Dealer
+C02804,Hokkaido,Small,Optical Shop,Rural,52,Dealer
+C02805,Kansai,Medium,Eye Clinic,Urban,91,Dealer
+C02806,Hokkaido,Medium,Eye Clinic,Rural,59,Direct
+C02807,Chubu,Medium,Eye Clinic,Urban,74,Direct
+C02808,Kanto,Medium,Eye Clinic,Rural,69,Direct
+C02809,Kansai,Large,Eye Clinic,Rural,68,Dealer
+C02810,Chubu,Small,Optical Shop,Urban,60,Dealer
+C02811,Kanto,Small,Eye Clinic,Urban,65,Direct
+C02812,Chubu,Medium,Eye Clinic,Urban,76,Dealer
+C02813,Chubu,Medium,Hospital,Urban,97,Dealer
+C02814,Kanto,Medium,Eye Clinic,Urban,91,Direct
+C02815,Kansai,Large,Eye Clinic,Urban,79,Dealer
+C02816,Kyushu,Small,Optical Shop,Urban,65,Dealer
+C02817,Kansai,Large,Hospital,Urban,100,Dealer
+C02818,Kanto,Small,Eye Clinic,Urban,79,Dealer
+C02819,Kanto,Medium,Hospital,Rural,81,Dealer
+C02820,Kanto,Small,Eye Clinic,Urban,67,Dealer
+C02821,Hokkaido,Large,Hospital,Rural,93,Dealer
+C02822,Kanto,Medium,Eye Clinic,Urban,83,Dealer
+C02823,Chubu,Medium,Eye Clinic,Urban,67,Dealer
+C02824,Kanto,Small,Eye Clinic,Urban,66,Dealer
+C02825,Kanto,Small,Eye Clinic,Urban,79,Dealer
+C02826,Kyushu,Medium,Eye Clinic,Urban,74,Dealer
+C02827,Chubu,Small,Optical Shop,Urban,65,Dealer
+C02828,Kanto,Medium,Eye Clinic,Urban,74,Dealer
+C02829,Kansai,Medium,Eye Clinic,Urban,53,Direct
+C02830,Kanto,Medium,Eye Clinic,Rural,66,Dealer
+C02831,Kansai,Small,Eye Clinic,Urban,67,Dealer
+C02832,Chubu,Large,Hospital,Urban,91,Dealer
+C02833,Kanto,Small,Eye Clinic,Urban,52,Dealer
+C02834,Kanto,Large,Eye Clinic,Rural,69,Direct
+C02835,Kansai,Small,Eye Clinic,Urban,72,Direct
+C02836,Hokkaido,Medium,Hospital,Rural,94,Dealer
+C02837,Hokkaido,Large,Eye Clinic,Rural,92,Dealer
+C02838,Kanto,Small,Eye Clinic,Urban,51,Dealer
+C02839,Chubu,Medium,Eye Clinic,Urban,85,Dealer
+C02840,Kanto,Medium,Eye Clinic,Urban,69,Dealer
+C02841,Kansai,Large,Eye Clinic,Rural,72,Dealer
+C02842,Chubu,Large,Hospital,Urban,91,Dealer
+C02843,Hokkaido,Medium,Hospital,Urban,91,Dealer
+C02844,Hokkaido,Medium,Optical Shop,Rural,76,Dealer
+C02845,Kansai,Small,Eye Clinic,Urban,63,Dealer
+C02846,Kanto,Small,Eye Clinic,Urban,63,Dealer
+C02847,Kyushu,Medium,Eye Clinic,Urban,81,Dealer
+C02848,Kanto,Small,Optical Shop,Urban,70,Direct
+C02849,Kansai,Medium,Eye Clinic,Urban,88,Dealer
+C02850,Kanto,Large,Hospital,Urban,83,Dealer
+C02851,Chubu,Medium,Eye Clinic,Rural,66,Direct
+C02852,Kanto,Large,Eye Clinic,Urban,77,Direct
+C02853,Kanto,Small,Eye Clinic,Rural,53,Dealer
+C02854,Hokkaido,Medium,Eye Clinic,Rural,64,Dealer
+C02855,Kanto,Medium,Optical Shop,Urban,76,Dealer
+C02856,Kansai,Small,Optical Shop,Urban,56,Dealer
+C02857,Kanto,Small,Eye Clinic,Urban,49,Direct
+C02858,Kanto,Medium,Eye Clinic,Rural,45,Dealer
+C02859,Kanto,Small,Optical Shop,Rural,53,Dealer
+C02860,Kanto,Medium,Hospital,Urban,80,Dealer
+C02861,Kyushu,Medium,Eye Clinic,Urban,69,Dealer
+C02862,Kanto,Medium,Eye Clinic,Urban,89,Dealer
+C02863,Hokkaido,Large,Eye Clinic,Urban,79,Dealer
+C02864,Kansai,Medium,Eye Clinic,Urban,90,Dealer
+C02865,Kansai,Medium,Eye Clinic,Urban,92,Dealer
+C02866,Kansai,Small,Eye Clinic,Urban,44,Dealer
+C02867,Kansai,Small,Eye Clinic,Urban,65,Dealer
+C02868,Chubu,Small,Eye Clinic,Rural,50,Dealer
+C02869,Kanto,Large,Eye Clinic,Rural,49,Dealer
+C02870,Kanto,Small,Optical Shop,Urban,50,Dealer
+C02871,Kyushu,Medium,Hospital,Rural,82,Dealer
+C02872,Hokkaido,Medium,Eye Clinic,Urban,96,Direct
+C02873,Kyushu,Small,Optical Shop,Urban,73,Dealer
+C02874,Kansai,Small,Optical Shop,Urban,67,Direct
+C02875,Kyushu,Medium,Eye Clinic,Urban,76,Dealer
+C02876,Kansai,Small,Eye Clinic,Urban,81,Dealer
+C02877,Kansai,Medium,Hospital,Rural,95,Dealer
+C02878,Kanto,Small,Optical Shop,Rural,48,Dealer
+C02879,Kansai,Medium,Optical Shop,Urban,56,Direct
+C02880,Kanto,Small,Optical Shop,Urban,43,Dealer
+C02881,Kanto,Large,Hospital,Urban,100,Dealer
+C02882,Kyushu,Medium,Eye Clinic,Urban,76,Dealer
+C02883,Kanto,Small,Eye Clinic,Urban,66,Direct
+C02884,Kanto,Large,Eye Clinic,Urban,70,Dealer
+C02885,Kanto,Small,Eye Clinic,Urban,56,Dealer
+C02886,Hokkaido,Large,Hospital,Urban,93,Dealer
+C02887,Kansai,Large,Eye Clinic,Urban,90,Dealer
+C02888,Kansai,Large,Hospital,Urban,92,Dealer
+C02889,Kyushu,Small,Eye Clinic,Rural,44,Dealer
+C02890,Kyushu,Small,Eye Clinic,Urban,56,Direct
+C02891,Kanto,Medium,Eye Clinic,Urban,88,Direct
+C02892,Chubu,Small,Eye Clinic,Urban,66,Dealer
+C02893,Kyushu,Medium,Optical Shop,Urban,82,Dealer
+C02894,Chubu,Large,Hospital,Rural,77,Dealer
+C02895,Kanto,Medium,Optical Shop,Urban,46,Dealer
+C02896,Kyushu,Small,Eye Clinic,Urban,59,Dealer
+C02897,Kansai,Medium,Eye Clinic,Urban,67,Direct
+C02898,Kanto,Medium,Eye Clinic,Urban,79,Direct
+C02899,Kansai,Medium,Eye Clinic,Urban,100,Dealer
+C02900,Kanto,Small,Optical Shop,Urban,71,Direct
+C02901,Kanto,Medium,Hospital,Rural,100,Direct
+C02902,Chubu,Small,Optical Shop,Rural,60,Dealer
+C02903,Kanto,Small,Eye Clinic,Urban,58,Dealer
+C02904,Kansai,Small,Optical Shop,Urban,67,Dealer
+C02905,Kansai,Large,Eye Clinic,Urban,100,Dealer
+C02906,Kanto,Small,Optical Shop,Urban,82,Dealer
+C02907,Hokkaido,Medium,Eye Clinic,Rural,60,Dealer
+C02908,Kanto,Small,Eye Clinic,Rural,57,Dealer
+C02909,Kanto,Small,Eye Clinic,Urban,50,Dealer
+C02910,Kanto,Small,Optical Shop,Rural,62,Dealer
+C02911,Kanto,Small,Eye Clinic,Urban,80,Dealer
+C02912,Kanto,Large,Eye Clinic,Urban,88,Direct
+C02913,Chubu,Small,Optical Shop,Urban,57,Dealer
+C02914,Hokkaido,Medium,Eye Clinic,Urban,80,Dealer
+C02915,Kanto,Small,Eye Clinic,Rural,58,Direct
+C02916,Chubu,Large,Eye Clinic,Urban,89,Direct
+C02917,Chubu,Small,Eye Clinic,Urban,66,Dealer
+C02918,Kyushu,Small,Optical Shop,Rural,52,Direct
+C02919,Kansai,Small,Optical Shop,Rural,64,Dealer
+C02920,Kanto,Small,Eye Clinic,Urban,71,Dealer
+C02921,Kanto,Small,Optical Shop,Rural,44,Dealer
+C02922,Chubu,Large,Eye Clinic,Urban,78,Dealer
+C02923,Kyushu,Medium,Eye Clinic,Rural,63,Dealer
+C02924,Kanto,Medium,Eye Clinic,Urban,83,Dealer
+C02925,Kanto,Medium,Eye Clinic,Rural,67,Dealer
+C02926,Hokkaido,Small,Eye Clinic,Rural,48,Dealer
+C02927,Kyushu,Small,Optical Shop,Urban,67,Dealer
+C02928,Hokkaido,Medium,Optical Shop,Rural,63,Dealer
+C02929,Chubu,Medium,Eye Clinic,Urban,85,Dealer
+C02930,Kansai,Large,Eye Clinic,Urban,91,Dealer
+C02931,Kansai,Large,Hospital,Urban,93,Dealer
+C02932,Chubu,Small,Optical Shop,Rural,56,Dealer
+C02933,Kanto,Small,Optical Shop,Urban,77,Dealer
+C02934,Kansai,Small,Eye Clinic,Urban,58,Dealer
+C02935,Chubu,Small,Optical Shop,Urban,68,Direct
+C02936,Kanto,Small,Eye Clinic,Rural,53,Direct
+C02937,Kyushu,Small,Eye Clinic,Urban,68,Direct
+C02938,Kansai,Medium,Eye Clinic,Urban,69,Dealer
+C02939,Hokkaido,Large,Eye Clinic,Rural,79,Dealer
+C02940,Kanto,Medium,Eye Clinic,Urban,87,Dealer
+C02941,Kanto,Large,Eye Clinic,Urban,79,Direct
+C02942,Kansai,Small,Eye Clinic,Urban,51,Dealer
+C02943,Kanto,Medium,Hospital,Rural,61,Dealer
+C02944,Chubu,Medium,Eye Clinic,Rural,54,Dealer
+C02945,Chubu,Small,Eye Clinic,Urban,70,Dealer
+C02946,Kanto,Small,Eye Clinic,Rural,40,Dealer
+C02947,Kansai,Small,Optical Shop,Urban,61,Dealer
+C02948,Kansai,Small,Eye Clinic,Urban,70,Direct
+C02949,Kanto,Medium,Eye Clinic,Rural,70,Dealer
+C02950,Hokkaido,Small,Eye Clinic,Urban,60,Dealer
+C02951,Kyushu,Small,Optical Shop,Rural,56,Dealer
+C02952,Chubu,Small,Optical Shop,Urban,65,Dealer
+C02953,Chubu,Small,Eye Clinic,Rural,52,Dealer
+C02954,Kansai,Small,Eye Clinic,Urban,62,Dealer
+C02955,Hokkaido,Small,Optical Shop,Urban,86,Dealer
+C02956,Chubu,Small,Eye Clinic,Rural,62,Dealer
+C02957,Chubu,Large,Hospital,Urban,100,Dealer
+C02958,Kyushu,Medium,Eye Clinic,Urban,71,Dealer
+C02959,Kanto,Medium,Eye Clinic,Rural,65,Dealer
+C02960,Kyushu,Small,Eye Clinic,Urban,51,Direct
+C02961,Kanto,Medium,Eye Clinic,Rural,58,Dealer
+C02962,Kanto,Large,Hospital,Urban,100,Dealer
+C02963,Kanto,Small,Optical Shop,Urban,59,Dealer
+C02964,Hokkaido,Medium,Eye Clinic,Rural,85,Dealer
+C02965,Kyushu,Small,Optical Shop,Rural,42,Dealer
+C02966,Chubu,Medium,Eye Clinic,Urban,65,Dealer
+C02967,Chubu,Medium,Eye Clinic,Urban,73,Dealer
+C02968,Kansai,Small,Eye Clinic,Rural,53,Direct
+C02969,Hokkaido,Medium,Optical Shop,Urban,85,Dealer
+C02970,Kansai,Small,Optical Shop,Urban,69,Dealer
+C02971,Kansai,Medium,Hospital,Urban,80,Dealer
+C02972,Kanto,Medium,Optical Shop,Urban,75,Dealer
+C02973,Kyushu,Large,Hospital,Urban,93,Dealer
+C02974,Chubu,Small,Optical Shop,Urban,55,Dealer
+C02975,Kansai,Large,Hospital,Urban,87,Direct
+C02976,Kanto,Small,Optical Shop,Urban,74,Dealer
+C02977,Kyushu,Small,Eye Clinic,Urban,46,Dealer
+C02978,Kanto,Medium,Eye Clinic,Urban,92,Dealer
+C02979,Chubu,Large,Eye Clinic,Urban,85,Dealer
+C02980,Hokkaido,Medium,Eye Clinic,Rural,58,Dealer
+C02981,Kansai,Small,Eye Clinic,Urban,71,Direct
+C02982,Kanto,Medium,Eye Clinic,Urban,91,Direct
+C02983,Chubu,Medium,Hospital,Rural,85,Direct
+C02984,Kyushu,Large,Eye Clinic,Urban,93,Dealer
+C02985,Kansai,Large,Eye Clinic,Urban,99,Dealer
+C02986,Hokkaido,Medium,Eye Clinic,Rural,49,Dealer
+C02987,Kanto,Small,Optical Shop,Urban,59,Direct
+C02988,Kansai,Small,Eye Clinic,Urban,55,Dealer
+C02989,Chubu,Small,Eye Clinic,Urban,76,Dealer
+C02990,Kyushu,Large,Hospital,Urban,92,Dealer
+C02991,Kanto,Large,Hospital,Rural,94,Dealer
+C02992,Kyushu,Small,Eye Clinic,Urban,69,Dealer
+C02993,Kansai,Small,Eye Clinic,Urban,55,Dealer
+C02994,Kansai,Medium,Eye Clinic,Urban,70,Direct
+C02995,Kanto,Small,Optical Shop,Urban,77,Direct
+C02996,Kyushu,Large,Eye Clinic,Urban,80,Dealer
+C02997,Kanto,Large,Eye Clinic,Rural,79,Direct
+C02998,Kanto,Large,Eye Clinic,Urban,80,Dealer
+C02999,Kanto,Small,Eye Clinic,Urban,61,Direct
+C03000,Kyushu,Small,Optical Shop,Rural,54,Dealer
+C03001,Chubu,Small,Eye Clinic,Urban,56,Dealer
+C03002,Kyushu,Small,Eye Clinic,Rural,44,Dealer
+C03003,Kanto,Small,Eye Clinic,Urban,67,Dealer
+C03004,Chubu,Medium,Eye Clinic,Urban,68,Dealer
+C03005,Kansai,Small,Eye Clinic,Urban,56,Dealer
+C03006,Kyushu,Medium,Optical Shop,Rural,57,Direct
+C03007,Hokkaido,Small,Optical Shop,Urban,63,Dealer
+C03008,Kanto,Small,Optical Shop,Urban,73,Dealer
+C03009,Chubu,Medium,Optical Shop,Urban,91,Dealer
+C03010,Kanto,Large,Hospital,Urban,89,Dealer
+C03011,Kansai,Large,Eye Clinic,Urban,100,Dealer
+C03012,Kanto,Medium,Optical Shop,Rural,56,Dealer
+C03013,Kanto,Medium,Optical Shop,Urban,87,Dealer
+C03014,Kanto,Small,Optical Shop,Urban,57,Dealer
+C03015,Chubu,Medium,Eye Clinic,Urban,67,Dealer
+C03016,Kanto,Small,Eye Clinic,Urban,57,Dealer
+C03017,Chubu,Small,Optical Shop,Urban,63,Dealer
+C03018,Kansai,Medium,Hospital,Rural,80,Dealer
+C03019,Kanto,Small,Optical Shop,Urban,71,Direct
+C03020,Kyushu,Small,Eye Clinic,Urban,55,Direct
+C03021,Kanto,Small,Eye Clinic,Urban,54,Dealer
+C03022,Kansai,Small,Eye Clinic,Urban,55,Dealer
+C03023,Chubu,Medium,Optical Shop,Urban,75,Dealer
+C03024,Kanto,Small,Eye Clinic,Rural,52,Dealer
+C03025,Kanto,Medium,Eye Clinic,Urban,66,Dealer
+C03026,Kanto,Small,Optical Shop,Rural,57,Direct
+C03027,Hokkaido,Large,Eye Clinic,Rural,100,Dealer
+C03028,Chubu,Medium,Optical Shop,Urban,71,Dealer
+C03029,Chubu,Medium,Eye Clinic,Urban,72,Dealer
+C03030,Chubu,Small,Optical Shop,Urban,70,Dealer
+C03031,Kanto,Small,Eye Clinic,Rural,48,Dealer
+C03032,Kansai,Medium,Optical Shop,Urban,83,Dealer
+C03033,Chubu,Medium,Optical Shop,Urban,69,Dealer
+C03034,Kanto,Large,Eye Clinic,Urban,100,Dealer
+C03035,Kanto,Medium,Eye Clinic,Urban,79,Direct
+C03036,Kanto,Small,Eye Clinic,Urban,58,Dealer
+C03037,Kansai,Large,Hospital,Urban,90,Direct
+C03038,Hokkaido,Small,Optical Shop,Rural,49,Dealer
+C03039,Kanto,Medium,Eye Clinic,Rural,80,Direct
+C03040,Kansai,Medium,Hospital,Urban,71,Dealer
+C03041,Kanto,Large,Eye Clinic,Urban,81,Dealer
+C03042,Hokkaido,Small,Optical Shop,Rural,48,Direct
+C03043,Kanto,Small,Optical Shop,Urban,64,Dealer
+C03044,Kansai,Medium,Eye Clinic,Rural,63,Dealer
+C03045,Chubu,Medium,Eye Clinic,Urban,61,Dealer
+C03046,Chubu,Medium,Eye Clinic,Rural,62,Dealer
+C03047,Kansai,Small,Eye Clinic,Urban,63,Dealer
+C03048,Kanto,Small,Eye Clinic,Urban,58,Dealer
+C03049,Kansai,Medium,Eye Clinic,Rural,73,Dealer
+C03050,Kanto,Large,Eye Clinic,Urban,97,Dealer
+C03051,Kanto,Medium,Eye Clinic,Urban,75,Dealer
+C03052,Kansai,Small,Eye Clinic,Urban,66,Dealer
+C03053,Kanto,Large,Eye Clinic,Rural,56,Dealer
+C03054,Kanto,Small,Eye Clinic,Urban,60,Direct
+C03055,Chubu,Small,Optical Shop,Rural,64,Dealer
+C03056,Hokkaido,Large,Hospital,Urban,92,Dealer
+C03057,Kansai,Small,Eye Clinic,Urban,57,Dealer
+C03058,Kanto,Medium,Eye Clinic,Urban,99,Dealer
+C03059,Kanto,Small,Optical Shop,Urban,82,Dealer
+C03060,Hokkaido,Small,Optical Shop,Urban,69,Dealer
+C03061,Kanto,Small,Eye Clinic,Urban,75,Dealer
+C03062,Kanto,Small,Eye Clinic,Urban,42,Direct
+C03063,Kansai,Medium,Eye Clinic,Urban,68,Dealer
+C03064,Chubu,Small,Eye Clinic,Urban,59,Dealer
+C03065,Chubu,Small,Eye Clinic,Urban,62,Dealer
+C03066,Kanto,Medium,Eye Clinic,Urban,71,Dealer
+C03067,Kanto,Large,Hospital,Urban,70,Dealer
+C03068,Hokkaido,Medium,Eye Clinic,Urban,80,Dealer
+C03069,Kanto,Medium,Eye Clinic,Rural,71,Dealer
+C03070,Chubu,Large,Eye Clinic,Rural,94,Dealer
+C03071,Chubu,Large,Eye Clinic,Urban,80,Dealer
+C03072,Kansai,Medium,Eye Clinic,Urban,67,Dealer
+C03073,Kanto,Medium,Eye Clinic,Rural,39,Direct
+C03074,Kanto,Small,Optical Shop,Urban,61,Direct
+C03075,Kansai,Large,Eye Clinic,Urban,97,Dealer
+C03076,Kyushu,Medium,Hospital,Rural,68,Dealer
+C03077,Hokkaido,Small,Optical Shop,Urban,85,Dealer
+C03078,Kanto,Small,Eye Clinic,Urban,61,Dealer
+C03079,Kanto,Small,Eye Clinic,Rural,55,Dealer
+C03080,Hokkaido,Large,Eye Clinic,Rural,64,Dealer
+C03081,Chubu,Small,Optical Shop,Urban,67,Dealer
+C03082,Kyushu,Small,Optical Shop,Urban,44,Direct
+C03083,Kanto,Large,Hospital,Urban,100,Dealer
+C03084,Kansai,Small,Eye Clinic,Urban,71,Dealer
+C03085,Chubu,Medium,Hospital,Urban,98,Dealer
+C03086,Chubu,Medium,Eye Clinic,Urban,66,Direct
+C03087,Kansai,Medium,Eye Clinic,Rural,68,Dealer
+C03088,Kanto,Small,Eye Clinic,Urban,70,Direct
+C03089,Kansai,Medium,Eye Clinic,Urban,80,Dealer
+C03090,Kanto,Small,Optical Shop,Urban,55,Dealer
+C03091,Kansai,Small,Eye Clinic,Urban,40,Direct
+C03092,Hokkaido,Small,Eye Clinic,Urban,67,Dealer
+C03093,Kansai,Small,Eye Clinic,Rural,52,Direct
+C03094,Kyushu,Medium,Optical Shop,Rural,60,Dealer
+C03095,Kanto,Large,Hospital,Urban,100,Direct
+C03096,Chubu,Small,Eye Clinic,Urban,64,Dealer
+C03097,Hokkaido,Medium,Eye Clinic,Urban,63,Dealer
+C03098,Kanto,Medium,Eye Clinic,Urban,57,Dealer
+C03099,Kanto,Small,Optical Shop,Urban,53,Dealer
+C03100,Kansai,Small,Eye Clinic,Rural,78,Direct
+C03101,Kanto,Large,Eye Clinic,Urban,95,Dealer
+C03102,Chubu,Medium,Eye Clinic,Urban,78,Dealer
+C03103,Hokkaido,Large,Eye Clinic,Urban,86,Dealer
+C03104,Kansai,Small,Optical Shop,Urban,62,Dealer
+C03105,Kanto,Medium,Eye Clinic,Urban,88,Dealer
+C03106,Kansai,Small,Eye Clinic,Urban,59,Dealer
+C03107,Chubu,Small,Eye Clinic,Urban,70,Dealer
+C03108,Kanto,Medium,Eye Clinic,Urban,73,Direct
+C03109,Kansai,Small,Optical Shop,Urban,83,Dealer
+C03110,Kansai,Small,Eye Clinic,Urban,71,Direct
+C03111,Chubu,Small,Optical Shop,Urban,76,Dealer
+C03112,Kanto,Small,Optical Shop,Rural,48,Dealer
+C03113,Chubu,Medium,Eye Clinic,Urban,87,Dealer
+C03114,Kanto,Small,Eye Clinic,Urban,61,Dealer
+C03115,Kanto,Small,Eye Clinic,Urban,65,Dealer
+C03116,Kyushu,Medium,Hospital,Rural,90,Direct
+C03117,Chubu,Small,Eye Clinic,Urban,54,Dealer
+C03118,Kanto,Medium,Eye Clinic,Urban,78,Dealer
+C03119,Kanto,Small,Eye Clinic,Urban,68,Dealer
+C03120,Kanto,Large,Hospital,Urban,100,Dealer
+C03121,Kanto,Small,Eye Clinic,Urban,59,Dealer
+C03122,Kanto,Small,Eye Clinic,Urban,85,Direct
+C03123,Kanto,Large,Eye Clinic,Rural,65,Dealer
+C03124,Kansai,Medium,Eye Clinic,Urban,91,Direct
+C03125,Chubu,Small,Optical Shop,Urban,76,Dealer
+C03126,Kansai,Medium,Eye Clinic,Urban,95,Dealer
+C03127,Chubu,Small,Optical Shop,Urban,48,Dealer
+C03128,Kanto,Large,Hospital,Urban,87,Direct
+C03129,Hokkaido,Medium,Eye Clinic,Rural,81,Dealer
+C03130,Kyushu,Large,Hospital,Rural,67,Dealer
+C03131,Kyushu,Large,Eye Clinic,Urban,72,Direct
+C03132,Kyushu,Small,Eye Clinic,Urban,59,Dealer
+C03133,Hokkaido,Large,Hospital,Urban,98,Direct
+C03134,Kansai,Small,Eye Clinic,Urban,80,Direct
+C03135,Kanto,Medium,Hospital,Urban,82,Dealer
+C03136,Kansai,Small,Eye Clinic,Rural,48,Direct
+C03137,Chubu,Small,Optical Shop,Rural,57,Dealer
+C03138,Chubu,Medium,Eye Clinic,Urban,81,Dealer
+C03139,Kansai,Medium,Eye Clinic,Urban,80,Dealer
+C03140,Kanto,Medium,Eye Clinic,Urban,74,Dealer
+C03141,Kanto,Small,Optical Shop,Urban,44,Dealer
+C03142,Hokkaido,Small,Optical Shop,Urban,55,Dealer
+C03143,Kansai,Large,Eye Clinic,Urban,100,Dealer
+C03144,Kansai,Small,Optical Shop,Urban,66,Dealer
+C03145,Kanto,Medium,Eye Clinic,Urban,73,Dealer
+C03146,Kanto,Medium,Eye Clinic,Urban,87,Dealer
+C03147,Kyushu,Medium,Optical Shop,Rural,55,Direct
+C03148,Chubu,Small,Optical Shop,Rural,52,Dealer
+C03149,Kyushu,Large,Hospital,Urban,97,Dealer
+C03150,Kansai,Small,Optical Shop,Urban,60,Dealer
+C03151,Chubu,Large,Eye Clinic,Urban,89,Dealer
+C03152,Kanto,Small,Optical Shop,Urban,62,Dealer
+C03153,Chubu,Small,Eye Clinic,Urban,50,Dealer
+C03154,Kansai,Small,Eye Clinic,Urban,66,Dealer
+C03155,Kansai,Medium,Eye Clinic,Urban,63,Dealer
+C03156,Chubu,Small,Eye Clinic,Rural,56,Dealer
+C03157,Hokkaido,Small,Eye Clinic,Urban,78,Dealer
+C03158,Kanto,Small,Eye Clinic,Urban,61,Direct
+C03159,Kyushu,Large,Eye Clinic,Urban,76,Dealer
+C03160,Kanto,Medium,Eye Clinic,Urban,75,Dealer
+C03161,Kansai,Medium,Eye Clinic,Urban,68,Dealer
+C03162,Kanto,Medium,Eye Clinic,Urban,82,Dealer
+C03163,Kanto,Small,Eye Clinic,Urban,63,Direct
+C03164,Kansai,Medium,Hospital,Urban,100,Dealer
+C03165,Kanto,Medium,Optical Shop,Urban,88,Dealer
+C03166,Kansai,Small,Optical Shop,Rural,52,Dealer
+C03167,Hokkaido,Small,Eye Clinic,Urban,71,Dealer
+C03168,Kanto,Medium,Hospital,Urban,80,Dealer
+C03169,Chubu,Small,Eye Clinic,Rural,54,Direct
+C03170,Kansai,Small,Eye Clinic,Rural,50,Dealer
+C03171,Chubu,Medium,Eye Clinic,Urban,84,Dealer
+C03172,Kanto,Small,Optical Shop,Urban,78,Dealer
+C03173,Kanto,Medium,Eye Clinic,Urban,84,Dealer
+C03174,Kanto,Small,Eye Clinic,Urban,73,Dealer
+C03175,Kanto,Small,Eye Clinic,Rural,63,Dealer
+C03176,Kanto,Small,Optical Shop,Urban,70,Dealer
+C03177,Chubu,Large,Hospital,Urban,85,Dealer
+C03178,Kyushu,Small,Eye Clinic,Rural,71,Dealer
+C03179,Kyushu,Medium,Eye Clinic,Urban,94,Dealer
+C03180,Chubu,Medium,Eye Clinic,Urban,74,Dealer
+C03181,Kanto,Large,Hospital,Rural,82,Dealer
+C03182,Kanto,Small,Eye Clinic,Rural,60,Dealer
+C03183,Kanto,Small,Optical Shop,Rural,60,Dealer
+C03184,Kanto,Small,Eye Clinic,Urban,62,Direct
+C03185,Kansai,Large,Hospital,Urban,83,Direct
+C03186,Kansai,Small,Eye Clinic,Urban,67,Direct
+C03187,Kanto,Medium,Eye Clinic,Urban,82,Direct
+C03188,Kanto,Large,Eye Clinic,Rural,85,Dealer
+C03189,Kyushu,Small,Eye Clinic,Urban,67,Direct
+C03190,Kyushu,Small,Eye Clinic,Rural,51,Direct
+C03191,Kanto,Small,Optical Shop,Urban,74,Dealer
+C03192,Hokkaido,Small,Eye Clinic,Urban,65,Dealer
+C03193,Hokkaido,Medium,Hospital,Rural,69,Dealer
+C03194,Kanto,Medium,Optical Shop,Urban,74,Direct
+C03195,Kanto,Small,Eye Clinic,Urban,47,Dealer
+C03196,Kansai,Large,Hospital,Urban,94,Direct
+C03197,Hokkaido,Large,Hospital,Rural,93,Dealer
+C03198,Kyushu,Medium,Eye Clinic,Urban,79,Dealer
+C03199,Kanto,Small,Optical Shop,Urban,79,Dealer
+C03200,Kansai,Small,Eye Clinic,Urban,61,Direct
+C03201,Kansai,Medium,Eye Clinic,Rural,71,Dealer
+C03202,Kansai,Medium,Hospital,Urban,92,Direct
+C03203,Kanto,Small,Eye Clinic,Urban,87,Dealer
+C03204,Kyushu,Small,Eye Clinic,Urban,65,Dealer
+C03205,Chubu,Small,Eye Clinic,Urban,54,Dealer
+C03206,Kyushu,Small,Optical Shop,Urban,72,Dealer
+C03207,Kyushu,Medium,Optical Shop,Urban,95,Dealer
+C03208,Chubu,Small,Eye Clinic,Urban,61,Dealer
+C03209,Kansai,Medium,Hospital,Rural,82,Dealer
+C03210,Kansai,Small,Optical Shop,Urban,76,Dealer
+C03211,Kanto,Large,Eye Clinic,Urban,98,Direct
+C03212,Chubu,Small,Eye Clinic,Urban,65,Dealer
+C03213,Kanto,Medium,Hospital,Urban,77,Dealer
+C03214,Chubu,Small,Optical Shop,Urban,63,Dealer
+C03215,Kanto,Medium,Optical Shop,Urban,81,Direct
+C03216,Kanto,Medium,Eye Clinic,Urban,85,Direct
+C03217,Kanto,Medium,Eye Clinic,Urban,79,Dealer
+C03218,Kanto,Small,Eye Clinic,Urban,60,Direct
+C03219,Chubu,Medium,Eye Clinic,Urban,82,Direct
+C03220,Chubu,Small,Eye Clinic,Urban,73,Dealer
+C03221,Kansai,Small,Optical Shop,Urban,68,Dealer
+C03222,Kanto,Medium,Eye Clinic,Urban,68,Dealer
+C03223,Kanto,Medium,Optical Shop,Urban,74,Dealer
+C03224,Kanto,Small,Eye Clinic,Urban,73,Dealer
+C03225,Kanto,Small,Eye Clinic,Rural,40,Dealer
+C03226,Kyushu,Medium,Eye Clinic,Rural,45,Dealer
+C03227,Kanto,Medium,Eye Clinic,Rural,81,Direct
+C03228,Kanto,Medium,Eye Clinic,Rural,71,Dealer
+C03229,Kanto,Small,Optical Shop,Urban,70,Direct
+C03230,Kanto,Small,Optical Shop,Urban,53,Dealer
+C03231,Kansai,Medium,Eye Clinic,Urban,83,Dealer
+C03232,Kansai,Small,Eye Clinic,Urban,67,Dealer
+C03233,Kanto,Medium,Optical Shop,Rural,50,Dealer
+C03234,Kanto,Small,Eye Clinic,Urban,78,Direct
+C03235,Kansai,Medium,Eye Clinic,Urban,78,Direct
+C03236,Kanto,Medium,Eye Clinic,Urban,72,Dealer
+C03237,Kanto,Medium,Optical Shop,Rural,62,Direct
+C03238,Hokkaido,Small,Eye Clinic,Rural,34,Dealer
+C03239,Kansai,Medium,Eye Clinic,Urban,82,Dealer
+C03240,Kansai,Small,Optical Shop,Rural,57,Dealer
+C03241,Kansai,Medium,Eye Clinic,Urban,74,Dealer
+C03242,Kansai,Small,Eye Clinic,Urban,77,Dealer
+C03243,Kansai,Small,Eye Clinic,Urban,50,Dealer
+C03244,Chubu,Small,Optical Shop,Rural,48,Dealer
+C03245,Chubu,Small,Eye Clinic,Urban,55,Dealer
+C03246,Kanto,Medium,Optical Shop,Urban,73,Dealer
+C03247,Kansai,Medium,Hospital,Rural,75,Direct
+C03248,Kansai,Medium,Eye Clinic,Urban,80,Dealer
+C03249,Kyushu,Medium,Optical Shop,Rural,63,Dealer
+C03250,Chubu,Small,Eye Clinic,Urban,55,Dealer
+C03251,Kansai,Medium,Eye Clinic,Urban,93,Dealer
+C03252,Kanto,Small,Eye Clinic,Urban,88,Dealer
+C03253,Kansai,Small,Eye Clinic,Urban,65,Dealer
+C03254,Kanto,Small,Eye Clinic,Urban,56,Direct
+C03255,Kanto,Large,Eye Clinic,Urban,100,Direct
+C03256,Kanto,Small,Eye Clinic,Urban,50,Dealer
+C03257,Chubu,Small,Optical Shop,Urban,61,Dealer
+C03258,Kanto,Medium,Eye Clinic,Rural,59,Dealer
+C03259,Kansai,Medium,Optical Shop,Urban,64,Dealer
+C03260,Kyushu,Small,Eye Clinic,Urban,61,Dealer
+C03261,Kanto,Medium,Eye Clinic,Urban,67,Dealer
+C03262,Kansai,Medium,Eye Clinic,Urban,76,Dealer
+C03263,Kansai,Medium,Eye Clinic,Urban,76,Dealer
+C03264,Kanto,Large,Eye Clinic,Rural,72,Direct
+C03265,Kyushu,Medium,Optical Shop,Rural,62,Dealer
+C03266,Kanto,Small,Optical Shop,Urban,62,Dealer
+C03267,Kansai,Small,Optical Shop,Urban,72,Dealer
+C03268,Kansai,Small,Eye Clinic,Urban,63,Dealer
+C03269,Chubu,Small,Optical Shop,Rural,62,Dealer
+C03270,Chubu,Small,Eye Clinic,Urban,70,Direct
+C03271,Kanto,Small,Eye Clinic,Urban,70,Dealer
+C03272,Kanto,Small,Optical Shop,Rural,68,Dealer
+C03273,Chubu,Large,Hospital,Rural,75,Dealer
+C03274,Kansai,Small,Eye Clinic,Rural,49,Dealer
+C03275,Kyushu,Large,Eye Clinic,Rural,96,Dealer
+C03276,Kyushu,Small,Eye Clinic,Rural,51,Direct
+C03277,Kyushu,Large,Hospital,Urban,68,Dealer
+C03278,Kansai,Medium,Eye Clinic,Urban,74,Dealer
+C03279,Kanto,Small,Optical Shop,Urban,65,Direct
+C03280,Kyushu,Small,Eye Clinic,Rural,28,Dealer
+C03281,Kansai,Small,Eye Clinic,Rural,67,Dealer
+C03282,Kanto,Small,Eye Clinic,Urban,57,Dealer
+C03283,Kyushu,Large,Eye Clinic,Urban,91,Dealer
+C03284,Kyushu,Medium,Eye Clinic,Urban,74,Direct
+C03285,Kansai,Medium,Hospital,Urban,71,Dealer
+C03286,Kanto,Small,Optical Shop,Urban,53,Direct
+C03287,Kansai,Small,Optical Shop,Urban,55,Dealer
+C03288,Kyushu,Small,Optical Shop,Urban,75,Direct
+C03289,Hokkaido,Small,Optical Shop,Rural,53,Dealer
+C03290,Kanto,Small,Eye Clinic,Urban,59,Direct
+C03291,Kanto,Small,Optical Shop,Urban,55,Direct
+C03292,Kyushu,Small,Eye Clinic,Urban,76,Dealer
+C03293,Kansai,Small,Eye Clinic,Urban,79,Dealer
+C03294,Kansai,Medium,Eye Clinic,Urban,88,Dealer
+C03295,Hokkaido,Small,Eye Clinic,Rural,59,Direct
+C03296,Kanto,Large,Eye Clinic,Rural,81,Dealer
+C03297,Chubu,Medium,Optical Shop,Rural,54,Dealer
+C03298,Kanto,Small,Eye Clinic,Urban,62,Direct
+C03299,Kanto,Small,Eye Clinic,Rural,47,Dealer
+C03300,Kyushu,Medium,Eye Clinic,Rural,48,Dealer
+C03301,Kansai,Large,Eye Clinic,Rural,89,Direct
+C03302,Hokkaido,Medium,Eye Clinic,Urban,69,Dealer
+C03303,Kansai,Small,Eye Clinic,Rural,66,Dealer
+C03304,Kanto,Large,Eye Clinic,Urban,97,Dealer
+C03305,Kanto,Small,Eye Clinic,Urban,70,Dealer
+C03306,Kanto,Medium,Optical Shop,Urban,82,Dealer
+C03307,Kanto,Large,Hospital,Urban,90,Dealer
+C03308,Kanto,Small,Eye Clinic,Urban,83,Dealer
+C03309,Kanto,Large,Eye Clinic,Urban,88,Dealer
+C03310,Kansai,Small,Eye Clinic,Urban,67,Dealer
+C03311,Chubu,Medium,Optical Shop,Rural,60,Dealer
+C03312,Chubu,Small,Eye Clinic,Urban,55,Dealer
+C03313,Chubu,Large,Eye Clinic,Urban,93,Dealer
+C03314,Kanto,Small,Optical Shop,Urban,66,Dealer
+C03315,Kanto,Medium,Eye Clinic,Urban,68,Dealer
+C03316,Chubu,Medium,Eye Clinic,Urban,62,Direct
+C03317,Kansai,Small,Eye Clinic,Urban,51,Dealer
+C03318,Kanto,Small,Optical Shop,Urban,76,Dealer
+C03319,Kyushu,Medium,Optical Shop,Rural,60,Direct
+C03320,Kyushu,Medium,Hospital,Urban,81,Direct
+C03321,Kansai,Medium,Eye Clinic,Urban,91,Dealer
+C03322,Kanto,Small,Eye Clinic,Urban,53,Direct
+C03323,Chubu,Medium,Optical Shop,Rural,59,Dealer
+C03324,Kansai,Small,Optical Shop,Urban,56,Dealer
+C03325,Kyushu,Small,Eye Clinic,Urban,80,Dealer
+C03326,Chubu,Small,Optical Shop,Urban,84,Dealer
+C03327,Kyushu,Small,Eye Clinic,Urban,72,Dealer
+C03328,Kansai,Small,Eye Clinic,Urban,72,Dealer
+C03329,Kanto,Large,Hospital,Urban,90,Dealer
+C03330,Chubu,Large,Eye Clinic,Urban,100,Dealer
+C03331,Chubu,Medium,Optical Shop,Urban,79,Dealer
+C03332,Chubu,Medium,Eye Clinic,Urban,85,Dealer
+C03333,Kanto,Small,Eye Clinic,Urban,63,Dealer
+C03334,Kanto,Small,Optical Shop,Rural,51,Direct
+C03335,Kyushu,Small,Optical Shop,Urban,81,Dealer
+C03336,Chubu,Medium,Eye Clinic,Rural,71,Dealer
+C03337,Hokkaido,Small,Eye Clinic,Rural,69,Dealer
+C03338,Chubu,Large,Hospital,Rural,89,Dealer
+C03339,Kansai,Small,Eye Clinic,Urban,56,Dealer
+C03340,Chubu,Medium,Optical Shop,Rural,60,Dealer
+C03341,Kyushu,Small,Optical Shop,Urban,65,Dealer
+C03342,Kansai,Medium,Eye Clinic,Urban,70,Dealer
+C03343,Chubu,Small,Eye Clinic,Urban,53,Dealer
+C03344,Kanto,Medium,Eye Clinic,Urban,88,Dealer
+C03345,Kansai,Medium,Optical Shop,Urban,71,Direct
+C03346,Chubu,Small,Eye Clinic,Urban,65,Dealer
+C03347,Kanto,Small,Eye Clinic,Urban,67,Dealer
+C03348,Kanto,Large,Eye Clinic,Urban,82,Dealer
+C03349,Kanto,Medium,Eye Clinic,Urban,91,Direct
+C03350,Kanto,Small,Eye Clinic,Urban,53,Dealer
+C03351,Kanto,Medium,Eye Clinic,Urban,79,Dealer
+C03352,Kansai,Small,Optical Shop,Urban,66,Dealer
+C03353,Hokkaido,Small,Optical Shop,Rural,53,Dealer
+C03354,Kansai,Medium,Optical Shop,Urban,63,Direct
+C03355,Kanto,Small,Eye Clinic,Urban,73,Direct
+C03356,Kanto,Small,Eye Clinic,Rural,61,Dealer
+C03357,Chubu,Large,Hospital,Urban,89,Dealer
+C03358,Kansai,Small,Eye Clinic,Rural,61,Dealer
+C03359,Kyushu,Small,Optical Shop,Urban,68,Dealer
+C03360,Chubu,Large,Hospital,Urban,83,Direct
+C03361,Kyushu,Large,Eye Clinic,Urban,79,Dealer
+C03362,Kanto,Medium,Optical Shop,Urban,87,Dealer
+C03363,Chubu,Medium,Optical Shop,Urban,79,Dealer
+C03364,Kanto,Large,Eye Clinic,Rural,72,Dealer
+C03365,Hokkaido,Small,Eye Clinic,Rural,45,Direct
+C03366,Chubu,Small,Eye Clinic,Rural,49,Dealer
+C03367,Kanto,Medium,Eye Clinic,Urban,72,Dealer
+C03368,Kanto,Small,Eye Clinic,Urban,56,Dealer
+C03369,Kanto,Medium,Eye Clinic,Urban,59,Dealer
+C03370,Chubu,Small,Optical Shop,Urban,75,Direct
+C03371,Kanto,Small,Eye Clinic,Urban,74,Direct
+C03372,Kansai,Large,Eye Clinic,Urban,75,Direct
+C03373,Kanto,Large,Hospital,Urban,97,Dealer
+C03374,Chubu,Small,Eye Clinic,Rural,45,Dealer
+C03375,Kyushu,Medium,Optical Shop,Urban,73,Dealer
+C03376,Kyushu,Small,Eye Clinic,Urban,61,Dealer
+C03377,Chubu,Small,Eye Clinic,Urban,60,Dealer
+C03378,Kanto,Medium,Eye Clinic,Urban,96,Dealer
+C03379,Kanto,Medium,Optical Shop,Urban,72,Dealer
+C03380,Chubu,Medium,Eye Clinic,Rural,58,Dealer
+C03381,Kanto,Medium,Optical Shop,Urban,68,Dealer
+C03382,Kansai,Medium,Eye Clinic,Urban,86,Direct
+C03383,Kanto,Small,Eye Clinic,Urban,47,Direct
+C03384,Kanto,Large,Eye Clinic,Urban,80,Dealer
+C03385,Kanto,Medium,Optical Shop,Urban,90,Dealer
+C03386,Kyushu,Small,Optical Shop,Rural,56,Direct
+C03387,Kanto,Small,Eye Clinic,Urban,66,Dealer
+C03388,Kansai,Large,Eye Clinic,Urban,100,Dealer
+C03389,Kanto,Large,Eye Clinic,Urban,90,Dealer
+C03390,Chubu,Large,Eye Clinic,Rural,71,Dealer
+C03391,Kanto,Large,Eye Clinic,Urban,85,Dealer
+C03392,Kyushu,Small,Optical Shop,Rural,43,Direct
+C03393,Kyushu,Small,Optical Shop,Urban,77,Dealer
+C03394,Kanto,Medium,Eye Clinic,Rural,72,Dealer
+C03395,Hokkaido,Small,Eye Clinic,Urban,75,Dealer
+C03396,Hokkaido,Medium,Optical Shop,Rural,78,Dealer
+C03397,Kyushu,Small,Optical Shop,Urban,60,Dealer
+C03398,Kyushu,Medium,Eye Clinic,Urban,67,Dealer
+C03399,Kanto,Medium,Eye Clinic,Rural,65,Dealer
+C03400,Kansai,Small,Eye Clinic,Urban,55,Dealer
+C03401,Kanto,Small,Eye Clinic,Urban,66,Dealer
+C03402,Kanto,Small,Eye Clinic,Rural,65,Dealer
+C03403,Hokkaido,Small,Eye Clinic,Rural,52,Dealer
+C03404,Kanto,Medium,Hospital,Rural,75,Dealer
+C03405,Chubu,Large,Eye Clinic,Urban,87,Dealer
+C03406,Kyushu,Small,Eye Clinic,Urban,72,Dealer
+C03407,Kyushu,Small,Eye Clinic,Rural,47,Direct
+C03408,Hokkaido,Small,Optical Shop,Urban,42,Direct
+C03409,Kanto,Small,Optical Shop,Rural,59,Dealer
+C03410,Kanto,Small,Eye Clinic,Urban,74,Dealer
+C03411,Kansai,Medium,Eye Clinic,Rural,70,Dealer
+C03412,Kanto,Medium,Optical Shop,Urban,70,Dealer
+C03413,Kanto,Small,Eye Clinic,Urban,53,Dealer
+C03414,Kanto,Small,Eye Clinic,Rural,59,Dealer
+C03415,Kyushu,Large,Eye Clinic,Urban,89,Dealer
+C03416,Kansai,Medium,Eye Clinic,Urban,75,Dealer
+C03417,Kanto,Medium,Eye Clinic,Rural,84,Dealer
+C03418,Chubu,Small,Optical Shop,Rural,45,Dealer
+C03419,Kanto,Large,Hospital,Rural,100,Dealer
+C03420,Kanto,Medium,Eye Clinic,Urban,76,Dealer
+C03421,Chubu,Small,Optical Shop,Urban,46,Dealer
+C03422,Chubu,Small,Eye Clinic,Urban,62,Direct
+C03423,Chubu,Medium,Eye Clinic,Urban,86,Dealer
+C03424,Kanto,Small,Eye Clinic,Urban,60,Direct
+C03425,Kyushu,Large,Hospital,Urban,81,Dealer
+C03426,Kansai,Medium,Eye Clinic,Urban,74,Dealer
+C03427,Kansai,Small,Eye Clinic,Urban,55,Dealer
+C03428,Chubu,Large,Hospital,Urban,100,Dealer
+C03429,Kyushu,Medium,Hospital,Rural,82,Dealer
+C03430,Kansai,Large,Hospital,Urban,85,Direct
+C03431,Kansai,Small,Eye Clinic,Urban,57,Dealer
+C03432,Hokkaido,Small,Eye Clinic,Rural,62,Dealer
+C03433,Chubu,Medium,Eye Clinic,Urban,67,Dealer
+C03434,Kansai,Small,Eye Clinic,Rural,43,Direct
+C03435,Chubu,Medium,Optical Shop,Rural,54,Dealer
+C03436,Kansai,Small,Eye Clinic,Urban,68,Dealer
+C03437,Kanto,Small,Eye Clinic,Urban,67,Dealer
+C03438,Kansai,Small,Optical Shop,Urban,57,Dealer
+C03439,Hokkaido,Small,Eye Clinic,Urban,64,Dealer
+C03440,Hokkaido,Small,Eye Clinic,Rural,69,Dealer
+C03441,Kanto,Small,Optical Shop,Urban,54,Dealer
+C03442,Kansai,Medium,Optical Shop,Urban,56,Dealer
+C03443,Kanto,Large,Hospital,Urban,100,Dealer
+C03444,Hokkaido,Large,Eye Clinic,Urban,87,Direct
+C03445,Hokkaido,Small,Eye Clinic,Urban,57,Dealer
+C03446,Chubu,Medium,Optical Shop,Rural,73,Dealer
+C03447,Kyushu,Small,Eye Clinic,Urban,72,Dealer
+C03448,Chubu,Medium,Eye Clinic,Urban,54,Dealer
+C03449,Kansai,Small,Optical Shop,Urban,57,Dealer
+C03450,Kanto,Large,Eye Clinic,Rural,100,Dealer
+C03451,Kansai,Medium,Optical Shop,Rural,72,Dealer
+C03452,Chubu,Large,Eye Clinic,Rural,85,Direct
+C03453,Chubu,Medium,Eye Clinic,Rural,78,Dealer
+C03454,Kanto,Large,Eye Clinic,Urban,88,Direct
+C03455,Hokkaido,Medium,Optical Shop,Rural,74,Dealer
+C03456,Kanto,Small,Eye Clinic,Urban,71,Dealer
+C03457,Kansai,Small,Eye Clinic,Urban,69,Dealer
+C03458,Chubu,Medium,Hospital,Urban,81,Dealer
+C03459,Chubu,Medium,Hospital,Rural,76,Dealer
+C03460,Chubu,Small,Optical Shop,Urban,58,Dealer
+C03461,Kanto,Medium,Eye Clinic,Urban,76,Dealer
+C03462,Kanto,Medium,Eye Clinic,Urban,64,Dealer
+C03463,Chubu,Medium,Optical Shop,Rural,58,Dealer
+C03464,Kansai,Large,Hospital,Urban,93,Dealer
+C03465,Kanto,Small,Eye Clinic,Urban,55,Dealer
+C03466,Chubu,Small,Eye Clinic,Rural,49,Dealer
+C03467,Kansai,Small,Optical Shop,Rural,52,Direct
+C03468,Chubu,Small,Eye Clinic,Rural,58,Dealer
+C03469,Kyushu,Large,Hospital,Rural,95,Dealer
+C03470,Kanto,Medium,Eye Clinic,Urban,71,Dealer
+C03471,Kanto,Medium,Eye Clinic,Urban,89,Direct
+C03472,Kyushu,Large,Hospital,Urban,100,Dealer
+C03473,Kansai,Medium,Eye Clinic,Urban,81,Dealer
+C03474,Chubu,Small,Eye Clinic,Rural,56,Dealer
+C03475,Kyushu,Medium,Eye Clinic,Rural,69,Dealer
+C03476,Kyushu,Small,Eye Clinic,Urban,76,Dealer
+C03477,Hokkaido,Medium,Hospital,Urban,96,Direct
+C03478,Kansai,Small,Optical Shop,Urban,77,Dealer
+C03479,Kansai,Small,Optical Shop,Urban,64,Direct
+C03480,Kansai,Small,Eye Clinic,Urban,70,Dealer
+C03481,Kanto,Small,Eye Clinic,Urban,77,Direct
+C03482,Kansai,Medium,Eye Clinic,Rural,60,Direct
+C03483,Kanto,Medium,Optical Shop,Urban,73,Dealer
+C03484,Hokkaido,Small,Optical Shop,Urban,64,Dealer
+C03485,Kansai,Small,Optical Shop,Rural,63,Dealer
+C03486,Kansai,Medium,Eye Clinic,Urban,85,Dealer
+C03487,Kanto,Small,Eye Clinic,Urban,62,Dealer
+C03488,Kanto,Large,Eye Clinic,Urban,73,Dealer
+C03489,Kanto,Medium,Eye Clinic,Urban,78,Dealer
+C03490,Kansai,Small,Eye Clinic,Urban,55,Dealer
+C03491,Kanto,Small,Optical Shop,Urban,49,Direct
+C03492,Kansai,Small,Eye Clinic,Urban,51,Dealer
+C03493,Kyushu,Small,Eye Clinic,Urban,67,Dealer
+C03494,Kyushu,Small,Eye Clinic,Urban,78,Dealer
+C03495,Chubu,Small,Optical Shop,Rural,54,Dealer
+C03496,Kanto,Small,Eye Clinic,Urban,66,Dealer
+C03497,Kyushu,Large,Hospital,Rural,98,Dealer
+C03498,Kyushu,Small,Optical Shop,Urban,49,Dealer
+C03499,Kanto,Small,Eye Clinic,Urban,69,Dealer
+C03500,Chubu,Medium,Hospital,Rural,74,Dealer

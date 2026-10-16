@@ -1,0 +1,5 @@
+brand,launch_type,price_tier,product_age
+BrandA,New,Premium,1
+BrandB,Mature,Premium,8
+BrandC,Mature,Value,10
+BrandD,New,Value,2
